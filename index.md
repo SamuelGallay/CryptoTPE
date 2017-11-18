@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+~J'ai de la chance !!!~
 
 You can use the [editor on GitHub](https://github.com/SamuelGallay/CryptoTPE/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
