@@ -1,5 +1,5 @@
 ---
-title: Vigenere est fantastique
+title: Le chiffrement de Vigenère
 permalink: /vigenere/
 ---
 # Les Temps Modernes

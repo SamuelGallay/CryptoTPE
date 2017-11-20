@@ -1,3 +1,8 @@
+---
+title: La cryptanalyse du chiffre de Vigenère
+permalink: /cryptanalyse-vigenere/
+---
+
 # Les Temps Modernes
 
 ## Cryptanalyse du chiffre de Vigenère 

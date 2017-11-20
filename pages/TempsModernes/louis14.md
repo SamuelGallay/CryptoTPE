@@ -1,3 +1,7 @@
+---
+title: Le grand chiffre de Louis XIV
+permalink: /louis14/
+---
 # Les Temps Modernes
 
 ## Le grand chiffre de Louis XIV

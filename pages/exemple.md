@@ -1,3 +1,7 @@
+---
+title: Voici une page d'exemple
+permalink: /exemple/
+---
 # Histoire de la Cryptographie !!!
 Respecte les classiques **man** ! 
 
@@ -40,3 +44,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Voici une première page de tests !!!
+
+* *italic* 
+* **gras** 
+
+
+1. un
+2. deux
+3. trois  
+
+
+Voici une citation célèbre
+> Quand l'appetit va, tout va !

@@ -1,3 +1,8 @@
+---
+title: Le cadran d’Alberti et la mécanisation du chiffrement
+permalink: /alberti/
+---
+
 # Les Temps Modernes
 
 L’Europe de la Renaissance et des siècles postérieurs est un terreau de conflits multiples, sur fond de rivalités culturelles, économiques, militaires. C’est dans ce contexte de tensions interétatiques que la cryptographie connaît un renouveau, devenant une science complexe et élaborée, après une stagnation en Occident tout au long du Moyen-Age. 

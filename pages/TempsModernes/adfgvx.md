@@ -1,4 +1,11 @@
+---
+title: ADFGVX durant la Première Guerre Mondiale
+permalink: /adfgvx/
+---
+
 # Les Temps Modernes
+
+## ADFGVX durant la Première Guerre Mondiale
 
 A la fin du 19ème, la cryptanalyse des chiffres polyalphabétiques par Babbage et Kasiski met la cryptographie en mauvais état, plus aucun des chiffrements n'est sûr.
 En même temps, en grande Bretagne, Marconi inventa la Télégraphie Sans Fil (TSF, 1894) qui permettait d'envoyer sans câble des messages sur de très grandes distances. Un premier message sur 2km, puis un par dessus la Manche, et enfin un d'un bout à l'autre de l'Atlantique, en 1901. On ne comprit pas tout de suit comment une onde parvenait à franchir la ligne d'horizon (la courbure de la Terre pose un problème), mais il fut montré plus tard que la couche ionisée de l'Atmosphère (60 km d'altitude) agit comme un miroir pour les ondes radio.

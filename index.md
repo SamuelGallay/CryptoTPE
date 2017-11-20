@@ -11,14 +11,14 @@
 * [Bilan de l'antiquité](bilanantiquite)
 
 ### Les Temps Modernes
-* [Le cadran d’Alberti](alberti.html)
-* [Le carré de Vigenère](vigenere.html)
-* [Le grand chiffre de Louis XIV](louis14.html)
-* [Cryptanalyse du chiffre de Vigenère](cryptavigenere.html)
+* [Le cadran d’Alberti](alberti)
+* [Le carré de Vigenère](vigenere)
+* [Le grand chiffre de Louis XIV](louis14)
+* [Cryptanalyse du chiffre de Vigenère](cryptanalyse-vigenere)
 
-* [La Première Guerre Mondiale](adfgvx.html)
+* [La Première Guerre Mondiale](adfgvx)
 
-## Liens vers les pages du site
-* [Page d'exemple](exemple.html)
-* [Page n°1](Page1.html) 
+## Liens vers les (autres) pages du site
+* [Page d'exemple \| Pour tester n'importe quoi !](exemple)
+ 
 
