@@ -83,7 +83,7 @@ $$
 
 ## Images
 
-![cervin](/assets/cervin.jpg)
+![cervin]({{ "/assets/cervin.jpg" | relative_url }})
 
 ## Code 
 ~~~
