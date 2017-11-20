@@ -58,3 +58,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Voici une citation célèbre
 > Quand l'appetit va, tout va !
+
+## Formules
+$$a^2 + b^2 = c^2$$
