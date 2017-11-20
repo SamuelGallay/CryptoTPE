@@ -83,7 +83,7 @@ $$
 
 ## Images
 
-![cervin](/images/cervin.jpg)
+![cervin](/assets/cervin.jpg)
 
 ## Code 
 ~~~
