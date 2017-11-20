@@ -4,11 +4,11 @@
 ## Histoire
 
 ### L'Antiquité
-* [Scytale](scytale.html)
-* [Polybe](polybe.html)
-* [César](cesar.html)
-* [Al-Kindi](alkindi.html)
-* [Bilan de l'antiquité](bilanantiquite.html)
+* [Scytale](scytale)
+* [Polybe](polybe)
+* [César](cesar)
+* [Al-Kindi](al-kindi)
+* [Bilan de l'antiquité](bilanantiquite)
 
 ### Les Temps Modernes
 * [Le cadran d’Alberti](alberti.html)
