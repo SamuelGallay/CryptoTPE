@@ -1,3 +1,8 @@
+---
+title: La scytale est fantastique
+permalink: /scytale/
+---
+
 # L'âge antique
 
 ## La scytale

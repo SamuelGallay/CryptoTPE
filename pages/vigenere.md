@@ -1,3 +1,7 @@
+---
+title: Vigenere est fantastique
+permalink: /vigenere/
+---
 # Les Temps Modernes
 
 ## Le carré de Vigenère
