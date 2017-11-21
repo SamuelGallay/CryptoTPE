@@ -24,5 +24,4 @@ permalink: index.html
 
 ## Liens vers les (autres) pages du site
 * [Page d'exemple \| Pour tester n'importe quoi !](exemple)
- 
-
+* [Le JavaScript](javascript)
