@@ -6,11 +6,6 @@ permalink: /javascript/
 # Un jour, ça va marcher !
 
 ## Stupidités
-<style>
-    div {
-        color: red;
-    }
-</style>
 
 <div style="color:blue;">I'm blue ! DABADIDABADA !</div>
 
@@ -18,6 +13,8 @@ permalink: /javascript/
 <p>
     <input id="field" type="text" />
 </p>
+
+
 
 <table>
     <tr>
@@ -33,6 +30,7 @@ permalink: /javascript/
         <td id="up"></td>
     </tr>
 </table>
+
 <script>
     var field = document.getElementById('field'),
         down = document.getElementById('down'),
@@ -50,3 +48,13 @@ permalink: /javascript/
         up.innerHTML = e.keyCode;
     });
 </script>
+
+<p>
+    <input id="cchhaammpp" type="text" />
+</p>
+
+## Essayons quelque chose d'intéressant
+
+<p>
+    <input id="cchhaammpp" type="text" maxlength="10"/>
+</p>

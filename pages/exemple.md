@@ -4,7 +4,7 @@ permalink: /exemple/
 ---
 # Comment écrire sur la page
 Chaque page du site est écrite dans un fichier ".md".
-Pour lire la documentation de la syntaxe "kramdown" (une variante de "Markdown"), allez [ici](https://kramdown.gettalong.org/syntax.html) ! 
+Pour lire la documentation de la syntaxe "kramdown" (une variante de "Markdown"), allez [**ici**](https://kramdown.gettalong.org/syntax.html) ! 
 
 N'hésitez pas à lire le code de cette page, le fichier "/pages/exemple.md", on peut y voir tout ce qui est intéressant de savoir faire pour une page web ([liens](), **gras**, *italique*, titres...).
 
@@ -147,3 +147,21 @@ int main()
 ~~~
 {: .language-c++}
 En plus il y a de la coloration syntaxique (même pour le *C++* ! ).
+
+# Les tableaux
+
+C'est de loin ce qu'il y a de plus chiant à faire :
+
+On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://www.tablesgenerator.com/text_tables#).
+
+
+|       | A | D | F | G | V | X |
+|-------|---|---|---|---|---|---|
+| **A** | V | J | Y | Q | 1 | R |
+| **D** | D | U | 2 | N | I | H |
+| **F** | 9 | O | F | 6 | V | 8 |
+| **G** | E | T | P | B | G | Z |
+| **V** | X | A | 7 | 0 | 5 | M |
+| **X** | K | 3 | C | S | L | 4 |
+
+
