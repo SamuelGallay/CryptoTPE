@@ -2,6 +2,48 @@
 title: Voici une page d'exemple
 permalink: /exemple/
 ---
+# Comment écrire sur la page
+Chaque page du site est écrite dans un fichier ".md".
+Pour lire la documentation de la syntaxe "kramdown" (une variante de "Markdown"), allez [ici](https://kramdown.gettalong.org/syntax.html) ! 
+
+N'hésitez pas à lire le code de cette page, le fichier "/pages/exemple.md", on peut y voir tout ce qui est intéressant de savoir faire pour une page web ([liens](), **gras**, *italique*, titres...).
+
+## Créer une nouvelle page
+Il faut ajouter un en-tête comme celui-ci.
+
+~~~ Markdown
+---
+title: Voici une page d'exemple
+permalink: /exemple/
+---
+~~~
+
+Le titre est le titre de la page et permalink est l'adresse de la page dans le site final. Le permalink est utile pour creer des liens sur cette page.
+
+## Créer des liens
+
+Pour créer un [lien](#) :
+
+~~~
+[nom du lien](adresse ex: https://kramdown.gettalong.org/syntax.html)
+~~~
+
+Si on veut faire un lien sur une autre page du site, le plus sûr est : 
+
+~~~
+[nom du lien]({{ "/permalink/" | relative_url }})
+~~~
+
+## Blocs de code
+
+Si vous avez l'esprit réveillé, vous avez vu que j'ai mis toutes les commandes dans des blocs de code
+
+~~~
+Tels que celui-ci
+~~~
+
+Il suffit pour cela d'entourer le code de trois ~ en haut et en bas !
+
 # Histoire de la Cryptographie !!!
 Respecte les classiques **man** ! 
 
