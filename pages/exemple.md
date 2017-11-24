@@ -3,6 +3,9 @@ title: Voici une page d'exemple
 permalink: /exemple/
 ---
 # Comment écrire sur la page
+
+### Petit titre
+
 Chaque page du site est écrite dans un fichier ".md".
 Pour lire la documentation de la syntaxe "kramdown" (une variante de "Markdown"), allez [**ici**](https://kramdown.gettalong.org/syntax.html) ! 
 
