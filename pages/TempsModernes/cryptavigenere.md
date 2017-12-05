@@ -19,3 +19,7 @@ Bon, L’Indice de Coïncidence, c’est à peu de choses près la somme des “
 
 vaut si n suffisamment grand
 où n est la longueur du texte et ni la fréquence d’apparition de la lettre i dans le texte 
+
+# Partie de Manon
+
+

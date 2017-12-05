@@ -167,4 +167,4 @@ On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://w
 | **V** | X | A | 7 | 0 | 5 | M |
 | **X** | K | 3 | C | S | L | 4 |
 
-
+Petite modif' de l'example...
