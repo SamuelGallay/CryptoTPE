@@ -130,9 +130,8 @@ $$
 
 ![cervin]({{ "/assets/cervin.jpg" | relative_url }})
 
-![alberti]({{ "/assets/cadran.jpg" | relative_url }}){:height="400px"}
+![alberti]({{ "/assets/cadran.jpg" | relative_url }} ){:width="300px"}
 
-![cesar](http://p0.storage.canalblog.com/05/36/1173451/91271136.png)
 ## Code 
 ~~~
 def what?

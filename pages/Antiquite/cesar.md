@@ -7,9 +7,15 @@ permalink: /cesar/
 
 Page précedente : [Le carré de Polybe]({{ "/polybe/" | relative_url }})
 
+
 ## Le chiffre de César
 
-Le plus populaire des chiffrements est sûrement le chiffre de César. Il fut utilisé, si ce n’est inventé, par Jules César lors de la Guerre des Gaules. 
+*Le* plus populaire des chiffrements est sûrement le chiffre de César. Il fut utilisé, si ce n’est inventé, par Jules César lors de la Guerre des Gaules. 
+
+
+
+![cesar]({{ "/assets/cesarstatue.png" | relative_url }}){: .center-image }
+<p align="center"> <em>Jules César</em> </p>
 
 Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 avant J.-C. Appelées à l'aide contre les Helvètes par les Eduens «amis et alliés du peuple romain», les troupes romaines de Jules César pénètrent dans la Gaule Chevelue en 58 avant J.-C. 
 
