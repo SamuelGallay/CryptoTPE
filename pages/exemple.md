@@ -155,7 +155,7 @@ En plus il y a de la coloration syntaxique (même pour le *C++* ! ).
 
 C'est de loin ce qu'il y a de plus chiant à faire :
 
-On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://www.tablesgenerator.com/text_tables#).
+On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://www.tablesgenerator.com/markdown_tables#).
 
 
 |       | A | D | F | G | V | X |
