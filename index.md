@@ -29,5 +29,8 @@ La [Cryptanalyse du chiffre de Vigenère](cryptanalyse-vigenere)
 * [La Première Guerre Mondiale](adfgvx)
 
 ## Liens vers les (autres) pages du site
+
 * [Page d'exemple \| Pour tester n'importe quoi !](exemple)
 * [Le JavaScript](javascript)
+
+# [Sources](sources)
