@@ -4,7 +4,9 @@ permalink: /sources/
 ---
 
 # Articles
-
+* Tristan Allard, Benjamin Nguyen et Philippe Pucheral. Comment préserver l'anonymat ? *Pour la science*, novembre 2013, n°433, p.62-69
+* Rémy Chrétien et Stéphanie Delaune. La protection des informations sensibles. *Pour la sciences*, novembre 2013, n°433, p.70-77
+* Hervé Lehing. Quoi de neuf en cryptographie ?. *Tangente*, juillet-août 2012, n°147, p. 42-43
 # Livres
 * Singh, Simon. Histoire des codes secrets. JC Lattès, 1999
 # Sites Web
