@@ -170,3 +170,4 @@ On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://w
 | **X** | K | 3 | C | S | L | 4 |
 
 modif' par Manon
+modif' par **Hugo**
