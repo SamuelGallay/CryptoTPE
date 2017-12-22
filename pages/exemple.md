@@ -7,7 +7,7 @@ permalink: /exemple/
 ### Petit titre
 
 Chaque page du site est écrite dans un fichier ".md".
-Pour lire la documentation de la syntaxe "kramdown" (une variante de "Markdown"), allez [**ici**](https://kramdown.gettalong.org/syntax.html) ! 
+Pour lire la documentation de la syntaxe "kramdown" (une variante de "Markdown"), allez [**ici**](https://kramdown.gettalong.org/syntax.html) !
 
 N'hésitez pas à lire le code de cette page, le fichier "/pages/exemple.md", on peut y voir tout ce qui est intéressant de savoir faire pour une page web ([liens](), **gras**, *italique*, titres...).
 
@@ -31,7 +31,7 @@ Pour créer un [lien](#) :
 [nom du lien](adresse ex: https://kramdown.gettalong.org/syntax.html)
 ~~~
 
-Si on veut faire un lien sur une autre page du site, le plus sûr est : 
+Si on veut faire un lien sur une autre page du site, le plus sûr est :
 
 ~~~
 [nom du lien]({{ "/permalink/" | relative_url }})
@@ -48,7 +48,7 @@ Tels que celui-ci
 Il suffit pour cela d'entourer le code de trois ~ en haut et en bas !
 
 # Histoire de la Cryptographie !!!
-Respecte les classiques **man** ! 
+Respecte les classiques **man** !
 
 ## Welcome to GitHub Pages **Yeah**
 
@@ -92,8 +92,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Voici une première page de tests !!!
 
-* *italic* 
-* **gras** 
+* *italic*
+* **gras**
 
 
 1. un
@@ -132,7 +132,7 @@ $$
 
 ![alberti]({{ "/assets/cadran.jpg" | relative_url }} ){:width="300px"}
 
-## Code 
+## Code
 ~~~
 def what?
   42
@@ -169,5 +169,6 @@ On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://w
 | **V** | X | A | 7 | 0 | 5 | M |
 | **X** | K | 3 | C | S | L | 4 |
 
-modif' par Manon
-modif' par **Hugo**
+* modif' par Manon
+* modif' par **Hugo**
+* modif' par *Samuel*
