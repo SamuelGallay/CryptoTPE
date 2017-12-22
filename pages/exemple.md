@@ -21,7 +21,7 @@ permalink: /exemple/
 ---
 ~~~
 
-Le titre est le titre de la page et permalink est l'adresse de la page dans le site final. Le permalink est utile pour creer des liens sur cette page.
+Le titre est le titre de la page et permalink est l'adresse de la page dans le site final. Le permalink est utile pour créer des liens sur cette page.
 
 ## Créer des liens
 
