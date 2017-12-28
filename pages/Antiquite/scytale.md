@@ -3,7 +3,6 @@ title: La scytale
 permalink: /scytale/
 ---
 
-
 La scytale est le premier système de cryptographie connu. Il a été utilisé à des fins militaires lors des guerres médiques qui ont opposé la Perse et les cités autonomes de Grèce au Ve siècle avant J-C.
 
 Elles sont déclenchées par la révolte des cités grecques d’Ionie (littoral d’Asie Mineure) contre la domination perse. Les deux expéditions militaires des souverains perses Darius Ier et Xerxès Ier constituent les principaux épisodes militaires de ce conflit ; elles se concluent par la victoire spectaculaire des cités grecques européennes conduites par Athènes et Sparte.
