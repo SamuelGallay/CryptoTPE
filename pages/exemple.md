@@ -26,7 +26,7 @@ Le titre est le titre de la page et permalink est l'adresse de la page dans le s
 ## Créer des liens
 
 Pour créer un [lien](#) :
-
+[test]({{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }})
 ~~~
 [nom du lien](adresse ex: https://kramdown.gettalong.org/syntax.html)
 ~~~
