@@ -3,9 +3,8 @@ title: Le carré de Polybe
 permalink: /polybe/
 precedente: /scytale/
 suivante: /cesar/
+partie: "L'Antiquité"
 ---
-
-# L'âge antique
 
 ## Le carré de Polybe
 

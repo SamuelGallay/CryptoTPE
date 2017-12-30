@@ -2,6 +2,7 @@
 title: La scytale
 permalink: /scytale/
 suivante: /polybe/
+partie: "L'Antiquité"
 ---
 
 La scytale est le premier système de cryptographie connu. Il a été utilisé à des fins militaires lors des guerres médiques qui ont opposé la Perse et les cités autonomes de Grèce au Ve siècle avant J-C.

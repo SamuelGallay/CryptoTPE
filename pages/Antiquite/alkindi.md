@@ -2,11 +2,8 @@
 title: La cryptanalyse d'Al-Kindi
 permalink: /al-kindi/
 precedente: /cesar/
-
+partie: "L'Antiquité"
 ---
-
-# L'âge antique
-
 
 ## Cryptanalyse des chiffrements monoalphabétiques
 

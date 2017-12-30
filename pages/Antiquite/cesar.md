@@ -3,9 +3,8 @@ title: Le chiffre de César
 permalink: /cesar/
 precedente: /polybe/
 suivante: /al-kindi/
+partie: "L'Antiquité"
 ---
-
-# L'âge antique
 
 ## Le chiffre de César
 

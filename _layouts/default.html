@@ -12,8 +12,14 @@
   </head>
   <body>
     <section class="page-header">
+      {% if page.partie %}
+        <h2 class="partie">{{ page.partie }}</h2>
+      {% endif %}
       <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      {% if page.title == "Histoire de la Cryptographie" %}
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      {% endif %}
+
       {% if page.precedente %}
         <a href="{{ page.precedente | relative_url }}" class="btn">Page précédente</a>
       {% endif %}
@@ -32,7 +38,11 @@
       {% if page.suivante %}
         <a href="{{ page.suivante | relative_url }}" class="btn">Page suivante</a>
       {% endif %}
+
+
     </section>
+
+
     <section class="main-content">
       {{ content }}
 
