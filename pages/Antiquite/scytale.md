@@ -1,6 +1,7 @@
 ---
 title: La scytale
 permalink: /scytale/
+suivante: /polybe/
 ---
 
 La scytale est le premier système de cryptographie connu. Il a été utilisé à des fins militaires lors des guerres médiques qui ont opposé la Perse et les cités autonomes de Grèce au Ve siècle avant J-C.
@@ -21,5 +22,3 @@ Mathématiquement, on peut traduire cette technique de la manière suivante. On 
 *Exemple* : Imaginons que le texte à transmettre soit “Sparte” (6 lettres) et que la scytale ait un diamètre de façon à ce qu’on puisse y enrouler 3 lettres par tour. Le ruban déplié contiendra 6*3=18 lettres. Si un Perse intercepte le message et sait que ce dernier contient un mot de 6 lettres, il lui est facile de retrouver la taille de la scytale lui permettant de lire le message secret. En effet, si TxL=N alors T = N/L donc dans notre cas T = 18/6 = 3. Le Perse sait alors qu’il lui faut un cylindre permettant d’enrouler 3 lettres et peut lire le message en clair.
 
 Cependant, la méthode est restée très longtemps infaillible. Les Spartiates étaient les seuls au courant de cette méthode de cryptographie et transportaient le message sous forme d’une bande de cuir, l’utilisant comme ceinture, les lettres tournées vers l’intérieur. Elle a permis à de nombreuses indications militaires de passer de Sparte en Perse grâce à des messagers à cheval. La scytale est un chiffrement par transposition, ingénieux pour l’époque mais beaucoup trop simple à déchiffrer de nos jours. En outre, elle est complètement inadaptée à nos besoins actuels de cryptographie virtuelle. En effet, cette méthode est faite pour être utilisée de façon concrète, avec une bande de cuir et un cylindre.
-
-Prochaine page : [Le carré de Polybe]({{ "/polybe/" | relative_url }})

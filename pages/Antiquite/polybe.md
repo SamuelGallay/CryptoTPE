@@ -1,11 +1,11 @@
 ---
 title: Le carré de Polybe
 permalink: /polybe/
+precedente: /scytale/
+suivante: /cesar/
 ---
 
 # L'âge antique
-
-Page précedente : [La Scytale]({{ "/scytale/" | relative_url }})
 
 ## Le carré de Polybe
 
@@ -40,5 +40,3 @@ Maintenant, nous pouvons aussi créer une grille avec un alphabet désordonné c
 **Tableaux**
 
 Le message “bibliothèque de Persée” ne sera plus codé “122412322435452315425115 1415 411543441515” mais “153315133312513221435221 2421 112144452121”
-
-Page suivante : [Le chiffre de César]({{ "/cesar/" | relative_url }})
