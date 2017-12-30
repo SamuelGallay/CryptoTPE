@@ -35,8 +35,9 @@ Il existe plusieurs variante à ce carré comme celle qui remplace les coordonn�
 | **4** | P | Q | R | S | T |
 | **5** | U | V | X | Y | Z |
 
-Message en clair : Polybe a eu accès à la bibliothèque de Persée
-Message crypté : 413532541215 11 1551 1113131544 11 3211 122412322435452315425115 1415 411543441515
+* Message en clair : `Polybe a eu accès à la bibliothèque de Persée`
+
+* Message crypté : `413532541215 11 1551 1113131544 11 3211 122412322435452315425115 1415 411543441515`
 
 
 | **Clair**   | P  | O  | L  | Y  | B  | E  | A  | E  | U  | A  | C  | C  | E  | S  |
@@ -54,4 +55,4 @@ Maintenant, nous pouvons aussi créer une grille avec un alphabet désordonné c
 | **4** | M | N | Q | R | S |
 | **5** | T | U | V | X | Z |
 
-Le message “bibliothèque de Persée” ne sera plus codé “122412322435452315425115 1415 411543441515” mais “153315133312513221435221 2421 112144452121”
+Le message “bibliothèque de Persée” ne sera plus codé `122412322435452315425115 1415 411543441515` mais `153315133312513221435221 2421 112144452121`.
