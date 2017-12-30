@@ -10,42 +10,39 @@ Page précedente : [Le carré de Polybe]({{ "/polybe/" | relative_url }})
 
 ## Le chiffre de César
 
-*Le* plus populaire des chiffrements est sûrement le chiffre de César. Il fut utilisé, si ce n’est inventé, par Jules César lors de la Guerre des Gaules. 
-
-
+Le plus populaire des chiffrements est sûrement le chiffre de César. Il fut utilisé, si ce n’est inventé, par Jules César lors de la Guerre des Gaules.
 
 ![cesar]({{ "/assets/cesarstatue.png" | relative_url }}){: .center-image }
 <p align="center"> <em>Jules César</em> </p>
 
-Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 avant J.-C. Appelées à l'aide contre les Helvètes par les Eduens «amis et alliés du peuple romain», les troupes romaines de Jules César pénètrent dans la Gaule Chevelue en 58 avant J.-C. 
+Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 avant J.-C. Appelées à l'aide contre les Helvètes par les Eduens «amis et alliés du peuple romain», les troupes romaines de Jules César pénètrent dans la Gaule Chevelue en 58 avant J.-C.
 
-Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtresses de la Gaule. Une tentative d'invasion de la Grande Bretagne se soldera par un échec. 
+Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtresses de la Gaule. Une tentative d'invasion de la Grande Bretagne se soldera par un échec.
 
-En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise. 
+En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise.
 
-César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, ils doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine. 
+César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, ils doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
 
 Les Commentaires sur la guerre des Gaules de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car c’est un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits et il occulte le rôle des druides dans la société gauloise.
 
-Pour garder contact avec ses généraux, César utilisait un procédé de chiffrement rendant le message, s’il était saisi, incompréhensible pour l'ennemi. 
+Pour garder contact avec ses généraux, César utilisait un procédé de chiffrement rendant le message, s’il était saisi, incompréhensible pour l'ennemi.
 
 ### Fonctionnement
 
-Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou la gauche. 
+Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou la gauche.
 
-Il est décrit par l’historien romain Suétone dans Vies des douze Césars, Livre premier, César, LVI publié entre 119 et 122 : 
- > « Extant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset: quae si qui investigare et persequi velit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet. » 
+Il est décrit par l’historien romain Suétone dans Vies des douze Césars, Livre premier, César, LVI publié entre 119 et 122 :
+ > « Extant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset: quae si qui investigare et persequi velit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet. »
 
 Ce qui donne en français :
-> « On a conservé en outre ses lettres à Cicéron, et celles qu'il adressait à ses familiers sur ses affaires domestiques; quand il avait à leur faire quelque communication secrète, il usait d'un chiffre, c'est-à-dire qu'il brouillait les lettres de telle façon qu'on ne pût reconstituer aucun mot: si l'on veut en découvrir le sens et les déchiffrer, il faut substituer à chaque lettre la troisième qui la suit dans l'alphabet, c'est-à-dire le D à l'A, et ainsi de suite. » 
+> « On a conservé en outre ses lettres à Cicéron, et celles qu'il adressait à ses familiers sur ses affaires domestiques; quand il avait à leur faire quelque communication secrète, il usait d'un chiffre, c'est-à-dire qu'il brouillait les lettres de telle façon qu'on ne pût reconstituer aucun mot: si l'on veut en découvrir le sens et les déchiffrer, il faut substituer à chaque lettre la troisième qui la suit dans l'alphabet, c'est-à-dire le D à l'A, et ainsi de suite. »
 
 La clé de déchiffrement est donc simple : connaissant la valeur de décalage de l’alphabet (trois rangs) il suffit de décaler pour avoir l’alphabet clair. Le message clair est à l’alphabet traditionnel ce que le message chiffré est à l’alphabet décalé.
 
 **Tableaux**
 
-| Texte clair :   | veni   vidi   vici |
-|-----------------|--------------------|
-| Texte chiffré : | YHQL   YLGL   YLFL |
+| **Texte clair :**   | v|e|n|i|v|i|d|i|v|i|c|i|
+| **Texte chiffré :** | Y|H|Q|L|Y|L|G|L|Y|L|F|L|
 
 
 
@@ -53,7 +50,7 @@ On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
 Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire : (ni + k) mod 26 = nf
 
-*Exemple* : 
+*Exemple* :
 *Dura lex, sed lex* (la loi est dure, mais c’est la loi)
 
 D=4, 4+3=7 et 7=G, donc on code D par G
@@ -63,12 +60,12 @@ Pour X, X=23, 23+3=26 et 26 modulo 26 = 0, 0=A, donc on code X par A
 Dura lex, sed lex est chiffré gxud oha, vhg oha
 
 
-Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrements, notamment d’Aulu-Gelle et de Dion Cassius, des érudits romains. 
+Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrements, notamment d’Aulu-Gelle et de Dion Cassius, des érudits romains.
 
 
 ### *Commentaires sur la Guerre des Gaules*
-Mais qu’en est-il des Commentaires sur la Guerre des Gaules ? Elle n’évoque en réalité jamais le chiffre de César mais parle bien d’un moyen de cacher les messages aux yeux de l’ennemi. Voilà l’extrait : 
->"Il [César] persuade alors un cavalier gaulois, en lui promettant de grandes récompenses, de porter une lettre à Cicéron. Il envoie celle-ci écrite en lettres grecques, afin que, si elle est interceptée, nos desseins ne soient pas pénétrés par les ennemis." 
+Mais qu’en est-il des Commentaires sur la Guerre des Gaules ? Elle n’évoque en réalité jamais le chiffre de César mais parle bien d’un moyen de cacher les messages aux yeux de l’ennemi. Voilà l’extrait :
+>"Il [César] persuade alors un cavalier gaulois, en lui promettant de grandes récompenses, de porter une lettre à Cicéron. Il envoie celle-ci écrite en lettres grecques, afin que, si elle est interceptée, nos desseins ne soient pas pénétrés par les ennemis."
 
 La technique de chiffrement se borne ici à traduire le texte en grec. On peut supposer que Jules César considérait que les barbares auxquels il était confronté ne connaissaient pas l’écriture grecque. Cela ne l’empêchait pas, dans certains cas, d’utiliser une double protection grâce à la stéganographie : en effet le message chiffré envoyé à Cicéron était dissimulé sur la courroie d’une tragule (javelot).
 
