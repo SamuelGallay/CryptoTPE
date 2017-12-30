@@ -27,16 +27,31 @@ Il fut utilisé pendant très longtemps et notamment par les nihilistes russes a
 
 Il existe plusieurs variante à ce carré comme celle qui remplace les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres). Une autre variante consiste donc à remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. On peut aussi remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes.
 
-**Tableaux**
+|       | 1 | 2 | 3 | 4 | 5 |
+|-------|---|---|---|---|---|
+| **1** | A | B | C | D | E |
+| **2** | F | G | H | I | J |
+| **3** | K | L | M | N | O |
+| **4** | P | Q | R | S | T |
+| **5** | U | V | X | Y | Z |
 
 Message en clair : Polybe a eu accès à la bibliothèque de Persée
 Message crypté : 413532541215 11 1551 1113131544 11 3211 122412322435452315425115 1415 411543441515
 
-**Tableaux**
+
+| **Clair**   | P  | O  | L  | Y  | B  | E  | A  | E  | U  | A  | C  | C  | E  | S  |
+| **Chiffré** | 41 | 35 | 32 | 54 | 12 | 15 | 11 | 15 | 51 | 11 | 13 | 13 | 15 | 44 |
+
 
 Lorsqu’on sait que ce message a été codé avec le carré de Polybe, il est très facile de le décrypter. Il suffit de mettre les chiffres par groupes de deux et de regarder dans le tableau à quelle lettre correspondent ces coordonnées.
 Maintenant, nous pouvons aussi créer une grille avec un alphabet désordonné commençant par le mot “POLYBE”
 
-**Tableaux**
+|       | 1 | 2 | 3 | 4 | 5 |
+|-------|---|---|---|---|---|
+| **1** | P | O | L | Y | B |
+| **2** | E | A | C | D | F |
+| **3** | G | H | I | J | K |
+| **4** | M | N | Q | R | S |
+| **5** | T | U | V | X | Z |
 
 Le message “bibliothèque de Persée” ne sera plus codé “122412322435452315425115 1415 411543441515” mais “153315133312513221435221 2421 112144452121”
