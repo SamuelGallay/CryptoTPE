@@ -37,7 +37,11 @@ Ce qui donne en français :
 
 La clé de déchiffrement est donc simple : connaissant la valeur de décalage de l’alphabet (trois rangs) il suffit de décaler pour avoir l’alphabet clair. Le message clair est à l’alphabet traditionnel ce que le message chiffré est à l’alphabet décalé.
 
-**Tableaux**
+
+| **Alphabet clair**   |A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
+| **Alphabet chiffré** |D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|A|B|C|
+
+Voici un message d'exemple :
 
 | **Texte clair :**   | v|e|n|i|v|i|d|i|v|i|c|i|
 | **Texte chiffré :** | Y|H|Q|L|Y|L|G|L|Y|L|F|L|
