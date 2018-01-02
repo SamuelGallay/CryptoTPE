@@ -16,14 +16,18 @@ PLus tard, en 1920, le cryptologue de l’armée américaine Friedman met au poi
 
 **Formules**
 
-Dans les années 20, Friedman, officier cryptologue de l'armée de terre américaine, met au point un indice mathématique, appelé indice de coïncidence. En calculant l'indice de coïncidence pour toutes les lettres du message modulo la taille de la clé que l'on veut tester, on peut pour la taille de la clé où cet indice est anormalement grand, affirmer que ceci est la taille de la clé du message. 
+Dans les années 20, Friedman, officier cryptologue de l'armée de terre américaine, met au point un indice mathématique, appelé indice de coïncidence. En calculant l'indice de coïncidence pour toutes les lettres du message modulo la taille de la clé que l'on veut tester, on peut pour la taille de la clé où cet indice est anormalement grand, affirmer que ceci est la taille de la clé du message.
 
-Formule : 
+Formule :
 
-IC =\sum_{i=a}^z n_i
+$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
 
 **Formules**
 
+vaut si n suffisamment grand
+où n est la longueur du texte et ni la fréquence d’apparition de la lettre i dans le texte
+
+# Partie de Manon
 vaut si n suffisamment grand
 où n est la longueur du texte et ni la fréquence d’apparition de la lettre i dans le texte
 
