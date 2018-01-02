@@ -75,4 +75,8 @@ Tous ces témoignages sur la cryptographie en usage chez les grands chefs romain
 
 ### Faiblesse
 
-Cependant, il n'y a que 26 façons différentes de chiffrer un message avec le code de César. Cela en fait donc un code très peu sûr, puisqu'il est très facile de tester de façon exhaustive toutes les possibilités (attaque par force brute). On peut également tenter sa cryptanalyse avec l’analyse des fréquence (voir ci dessous) car c’est un chiffrement par substitution monoalphabétique. Pourtant, en raison de sa grande simplicité, le code de César fut encore employé par les officiers sudistes pendant la guerre de Sécession, et même par l'armée russe en 1915.
+Cependant, il n'y a que 26 façons différentes de chiffrer un message avec le code de César. Cela en fait donc un code très peu sûr, puisqu'il est très facile de le casser par force brute.
+
+> L'attaque par force brute consiste à tester de façon exhaustive l'ensemble des clés possibles.
+
+On peut également tenter sa cryptanalyse avec l’analyse des fréquence (voir ci dessous) car c’est un chiffrement par substitution monoalphabétique. Pourtant, en raison de sa grande simplicité, le code de César fut encore employé par les officiers sudistes pendant la guerre de Sécession, et même par l'armée russe en 1915.
