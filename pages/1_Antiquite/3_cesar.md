@@ -10,7 +10,7 @@ partie: "L'Antiquité"
 
 Le plus populaire des chiffrements est sûrement le chiffre de César. Il fut utilisé, si ce n’est inventé, par Jules César lors de la Guerre des Gaules.
 
-![cesar]({{ "/assets/cesarstatue.png" | relative_url }}){: .center-image }
+![cesar]({{ "/assets/1_Antiquite/cesarstatue.png" | relative_url }}){: .center-image }
 <p align="center"> <em>Jules César</em> </p>
 
 Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 avant J.-C. Appelées à l'aide contre les Helvètes par les Eduens «amis et alliés du peuple romain», les troupes romaines de Jules César pénètrent dans la Gaule Chevelue en 58 avant J.-C.
@@ -54,7 +54,7 @@ Voici un message d'exemple :
 
 On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit au modulo 26 (longueur de l'alphabet)
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
-Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire : 
+Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire :
 
 $$ (n_{i} + k) mod 26 = n_{f} $$
 

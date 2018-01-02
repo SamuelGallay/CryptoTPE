@@ -13,7 +13,7 @@ Des plans d’invasions sophistiqués voient le jour et, pour la première fois,
 
 Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Elle n’existait que chez les Lacédémoniens et seuls les éphores et les généraux de la cité en connaissaient le procédé.
 
-<img src="{{ "/assets/plutarque.jpeg" | relative_url }}" alt="Plutarque" style="margin: 0 auto;display: block; width: 200px;"/>
+<img src="{{ "/assets/1_Antiquite/plutarque.jpeg" | relative_url }}" alt="Plutarque" style="margin: 0 auto;display: block; width: 200px;"/>
 <p align="center"> <em>Plutarque, Ier siècle avant J.-C.</em> </p>
 
 Plutarque, philosophe majeur de la Rome antique d’origine grec ayant vécu au Ier siècle avant J-C, rapporte son fonctionnement dans Les Vies des Hommes Illustres :
