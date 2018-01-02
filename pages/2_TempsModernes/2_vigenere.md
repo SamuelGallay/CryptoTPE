@@ -27,9 +27,9 @@ $$ f(l_{i}) = (l_{i} + k_{i} mod k) mod 26 $$
 
 Où :
 
-| \$$ i $$ | position de la lettre chiffré et clair |
+| \$$ i $$ | position de la lettre chiffrée et claire |
 | \$$ l_{i} $$ | nombre associé à la lettre d'indice i |
-| \$$ k_{i} $$  |  nombre associé à lettre de la clé d’indice i |
+| \$$ k_{i} $$  |  nombre associé à lettre de la clef d’indice i |
 | \$$ k $$ | taille de la clef |
 
 
