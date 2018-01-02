@@ -13,6 +13,8 @@ partie: "L'Antiquité"
 
 ![maison-de-la-sagesse]({{ "/assets/1_Antiquite/maison-de-la-sagesse.jpg" | relative_url }})
 
+*La maison de la sagesse, dont le bâtiment demeure aujourd'hui*
+
 C’est au IXe siècle que la civilisation arabe connaît son apogée, notamment scientifique.
 Le calife Al-Mamun crée une Maison de la sagesse à Bagdad : c’est un centre culturel majeur où échangent des mathématiciens de tous horizons.
 A cette époque pacifiste, les Arabes et notamment leurs dirigeants utilisent couramment différent chiffres monoalphabétiques pour communiquer d’importantes missives. Ceci a été permis par la fabrication de papier. En effet, lors de la bataille de Talas en 751, les arabes avaient fait prisonniers nombre de chinois, dont certains connaissaient le processus de fabrication du papier.
