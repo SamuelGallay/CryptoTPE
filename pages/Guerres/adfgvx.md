@@ -15,6 +15,14 @@ De 1914 à 1918 les chiffrements n'ont que peu progressé et la plupart d'entre 
 
 Le chiffre ADFGVX : on établit d'abord une grille de 6x6 remplie des 26 lettres de l'alphabet et des 10 chiffres. Les lignes et les colonnes sont indexées par les lettres ADFGVX. La disposition de la grille est la clef secrète. Pour chiffrer un message, on note uniquement la lettre correspondant à la ligne et celle correspondant à la colonne. (un peu comme dans le carré de Polybe) Nous avons pour l'instant une simple substitution monoalphabétique, et l'analyse des fréquences en viendrait à bout facilement.
 
+|   | A | D | F | G | V | X |
+|---|---|---|---|:-:|---|---|
+| A | V | J | Y | Q | 1 | R |
+| D | D | U | 2 | N | I | H |
+| F | 9 | O | F | 6 | W | 8 |
+| G | E | T | P | B | G | Z |
+| V | X | A | 7 | 0 | 5 | M |
+| X | K | 3 | C | S | L | 4 |
 
 Le code ADFGVX est typique de ceux de la première Guerre Mondiale, ce ne sont que des variantes ou des combinaisons de ceux déjà déchiffrés au 19ème siècle. Il peuvent en apparence offrir une grande sécurité mais les cryptanalystes finissent toujours par avoir le dernier mot.
 
