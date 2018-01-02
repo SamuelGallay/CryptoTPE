@@ -23,11 +23,11 @@ clé : crypto
 
 Modélisation mathématique :
 
-$$ f(l_i) = (l_i + k_i mod k) mod 26 $$
+$$ f(l_{i}) = (l_{i} + k_{i} mod k) mod 26 $$
 
 Où i est la position de la lettre chiffré et clair
-l_i est le nombre associé à la lettre
-k_i est le nombre associé à lettre de la clé d’indice i
+l_{i} est le nombre associé à la lettre
+k_{i} est le nombre associé à lettre de la clé d’indice i
 k est la taille de la clé
 
 
