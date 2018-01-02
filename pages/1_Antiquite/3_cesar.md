@@ -51,7 +51,9 @@ Voici un message d'exemple :
 
 On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit au modulo 26 (longueur de l'alphabet)
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
-Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire : (ni + k) mod 26 = nf
+Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire : 
+
+(n_{i} + k) mod 26 = n_{f}
 
 *Exemple* :
 *Dura lex, sed lex* (la loi est dure, mais c’est la loi)
