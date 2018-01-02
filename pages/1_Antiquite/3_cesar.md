@@ -19,6 +19,8 @@ Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtres
 
 En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise.
 
+![alésia]({{ "/assets/1_Antiquite.jpg" | relative_url }})
+
 César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, ils doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
 
 Les Commentaires sur la guerre des Gaules de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car c’est un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits et il occulte le rôle des druides dans la société gauloise.
