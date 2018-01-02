@@ -43,7 +43,7 @@ La clé de déchiffrement est donc simple : connaissant la valeur de décalage d
 | **Alphabet chiffré** | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C |
 
 Voici un message d'exemple :
- **Message clair**   | V | E | N | I |   | V | I | D | I |   | V | I | C | I |
+| **Message clair**   | V | E | N | I |   | V | I | D | I |   | V | I | C | I |
 |---------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Message chiffré** | Y | H | Q | L |   | Y | L | G | L |   | Y | L | F | L |
 
