@@ -32,9 +32,20 @@ Exemple : Chiffrons “Attaque à l’aube”
 
 Message chiffré : “VDGDGDVDAGDDGAVDXVVDDDGGGA”
 
+La seconde étape est une transposition. On choisit un mot clef connu des deux correspondants et lui aussi secret.  On crée ensuite un tableau avec autant de colonnes que la longueur de la clef. On inscrit alors le message avec un caractère par colonne, sur plusieurs lignes. Enfin on permute les colonnes de telle sorte que les lettres du mot clef soient rangées dans l'ordre alphabétique, on peut donc transmettre le message par radio.
+
+Exemple du message précédent avec la clef : “CLEF”
 
 
-
+| C | L | E | F |
+|---|---|---|---|
+| V | D | G | D |
+| G | D | V | D |
+| A | G | D | D |
+| G | A | V | D |
+| X | V | V | D |
+| D | D | G | G |
+| G | A |   |   |
 
 
 
