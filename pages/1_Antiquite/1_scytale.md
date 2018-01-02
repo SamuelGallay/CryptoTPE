@@ -11,6 +11,10 @@ Elles sont déclenchées par la révolte des cités grecques d’Ionie (littoral
 
 Des plans d’invasions sophistiqués voient le jour et, pour la première fois, il est apparu nécessaire d’établir un moyen de communication secret entre le front et l’arrière. La scytale est alors inventé dans la cité de Sparte.
 
+![scytale]({{ "/assets/1_Antiquite/scytale.jpg" | relative_url }})
+
+*Une scytale*
+
 Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Elle n’existait que chez les Lacédémoniens et seuls les éphores et les généraux de la cité en connaissaient le procédé.
 
 <img src="{{ "/assets/1_Antiquite/plutarque.jpeg" | relative_url }}" alt="Plutarque" style="margin: 0 auto;display: block; width: 200px;"/>
