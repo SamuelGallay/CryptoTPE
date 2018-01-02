@@ -1,6 +1,6 @@
 ---
 title: Enigma durant la Première Guerre Mondiale
-permalink: /adfgvx/
+permalink: /enigma/
 ---
 
 # Les Temps Modernes
