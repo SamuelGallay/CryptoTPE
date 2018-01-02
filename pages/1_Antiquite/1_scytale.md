@@ -11,7 +11,7 @@ Elles sont déclenchées par la révolte des cités grecques d’Ionie (littoral
 
 Des plans d’invasions sophistiqués voient le jour et, pour la première fois, il est apparu nécessaire d’établir un moyen de communication secret entre le front et l’arrière. La scytale est alors inventé dans la cité de Sparte.
 
-![scytale]({{ "/assets/1_Antiquite/scytale.jpg" | relative_url }})
+![scytale]({{ "/assets/1_Antiquite/scytale.png" | relative_url }})
 
 *Une scytale*
 
