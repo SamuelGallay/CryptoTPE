@@ -53,7 +53,7 @@ On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
 Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire : 
 
-(n_{i} + k) mod 26 = n_{f}
+$$ (n_{i} + k) mod 26 = n_{f} $$
 
 *Exemple* :
 *Dura lex, sed lex* (la loi est dure, mais c’est la loi)
