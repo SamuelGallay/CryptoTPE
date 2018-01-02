@@ -21,7 +21,7 @@ On peut se demander de quelle manière les Arabes ont-t-il eu une place si impor
 
 Les Arabes historiquement cherchaient à prouver l’authenticité et à ordonner chronologiquement les révélations de leur prophète Mahomet. Elles ont certes été écrites de son vivant, mais par fragments. Ils ont entrepris d’analyser chaques mots des textes pour savoir s’ils étaient déjà utilisés à cette époque, car en effet, certains mots sont apparus après d’autres. Ils se sont aussi intéressés aux lettres mêmes, et ils ont remarqués que certaines se retrouvaient biens plus souvent que d’autres. Par exemple en français, il est bien plus courant d’écrire un ‘e’ qu’un ‘w’.
 
-![fréquences]({{ "/assets/fréquences.gif" | relative_url }})
+![4]({{ "/assets/exp/4.png" | relative_url }})
 
 >On nomme cette étude de statistiques sur un texte “l’analyse de fréquence”. On peut analyser les fréquences d’apparition des lettres sur une langue en général.
 
