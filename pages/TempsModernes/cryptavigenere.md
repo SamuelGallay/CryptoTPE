@@ -20,7 +20,7 @@ Dans les années 20, Friedman, officier cryptologue de l'armée de terre améric
 
 Formule : 
 
-$$ IC =\sum_{i=a}^z n_i $$
+$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1}{n(n-1)} $$
 
 **Formules**
 
