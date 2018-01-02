@@ -20,7 +20,7 @@ Dans les années 20, Friedman, officier cryptologue de l'armée de terre améric
 
 Formule : 
 
-IC = \sum_{i=a}^z
+IC =\sum_{i=a}^z n_i
 
 **Formules**
 
