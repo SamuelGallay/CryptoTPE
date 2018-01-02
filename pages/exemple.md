@@ -173,12 +173,19 @@ On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://w
 * modif' par **Hugo**
 * modif' par *Samuel* `Gallay`
 
+
+Voici une liste de thèmes pour notre site web dont on peut s'inspirer (copier coller) pour creer un menu :
+
+* [ Thèmes Github ](https://github.com/jekyll/jekyll/wiki/Themes )
+
+Il faut cliquer sur les "demo pour avoir un exemple
+
 <CENTER> Test <CENTER/>
 
 <p align="center"> <em>Voilà un texte centré et en italique comme je place sous les photos</em> </p>
 
 Voici une liste de thèmes pour notre site web dont on peut s'inspirer (copier coller) pour creer un menu :
 
-[Thèmes Github](https://github.com/jekyll/jekyll/wiki/Themes)
+* [ Thèmes Github ](https://github.com/jekyll/jekyll/wiki/Themes )
 
 Il faut cliquer sur les "demo pour avoir un exemple
