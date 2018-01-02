@@ -174,3 +174,5 @@ On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://w
 * modif' par *Samuel* `Gallay`
 
 <CENTER> Test <CENTER/>
+
+<p align="center"> <em>Voilà un texte centré et en italique comme je place sous les photos</em> </p>
