@@ -26,10 +26,11 @@ Modélisation mathématique :
 $$ f(l_{i}) = (l_{i} + k_{i} mod k) mod 26 $$
 
 Où :
-| \$$ i $$ | est la position de la lettre chiffré et clair| 
-| \$$ l_{i} $$ | est le nombre associé à la lettre |
-| \$$ k_{i} $$ | est le nombre associé à lettre de la clé d’indice i |
-| \$$ k $$  | est la taille de la clé |
+
+| \$$ i $$ | position de la lettre chiffré et clair |
+| \$$ l_{i} $$ | nombre associé à la lettre d'indice i |
+| \$$ k_{i} $$  |  nombre associé à lettre de la clé d’indice i |
+| \$$ k $$ | taille de la clef |
 
 
 Vigenère tire son savoir des cryptologues italiens qu’il a rencontrés lors de séjours diplomatiques à Rome : il expose sa théorie dans le Traité des chiffres ou secrètes manières d’écrire paru en 1585. Au plus la clé est grande, au plus le niveau de sécurité est élevé : si la clé de chiffrement est aussi longue que le message, et totalement aléatoire, le chiffre de Vigenère est inviolable : on parle de méthode du masque jetable, de chiffrement de Vernam, ou de One-Time Pad utilisé pour le téléphone rouge et encore aujourd’hui dans les ambassades.
