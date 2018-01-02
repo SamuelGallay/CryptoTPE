@@ -23,7 +23,7 @@ clé : crypto
 
 Modélisation mathématique :
 
-f(l_i) = (l_i + k_i mod k) mod 26
+$$ f(l_i) = (l_i + k_i mod k) mod 26 $$
 
 Où i est la position de la lettre chiffré et clair
 l_i est le nombre associé à la lettre
