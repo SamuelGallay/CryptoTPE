@@ -12,7 +12,10 @@ Avec l’informatique, ils doivent pouvoir s’échanger au travers de messages 
 
 Les deux mathématiciens s’appuient sur l’arithmétique modulaire (fréquemment utilisée en cryptologie).
 
-Une analogie avec de la peinture pour comprendre :
+
+<img src="{{ "/assets/4_Internet/diffie-hellman1.png" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em> Une analogie avec de la peinture pour comprendre </em> </p>
+
 
 Modélisation mathématique :
 * Alice et Bob veulent s’échanger une clé

@@ -12,6 +12,12 @@ L’algorithme de chiffrement choisi comme système standard était une concepti
 
 Lucifer crypte les messages de la façon suivante. D’abord, le message est traduit en une longue suite de nombres binaires (bits). Cette suite est répartie en blocs de 64 bits et le cryptage est effectué séparément pour chaque bloc. En s’intéressant à un seul bloc, on brasse les 64 bits, puis on les sépare en deux demi-blocs de 32 appelé Gauche0 et Droite0 (G0 et D0). On applique ensuite à D0 une fonction de permutation qui change les bits selon une substitution complexe. Le D0 est, après cette intervention, ajouté au G0 pour constituer un nouveau demi-bloc de 32 bits appelé D1. Le D0 d’origine est rebaptisé G1. On appelle cet enchaînement d’opérations un cycle. Les processus est répété pour un deuxième cycle, qui part des nouveaux demi-blocs G1 et D1 et qui termine en G2 et D2. Ce processus est répété seize fois en tout.
 
+
+
+<img src="{{ "/assets/4_Internet/des1.png" | relative_url }}" alt="des1" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em> Schéma de l'algorithme du DES </em> </p>
+
+
 Les modalité précises de la fonction de transformation peuvent varier et sont déterminées par une clef choisie par l'émetteur et le receveur. Les clefs utilisées dans la cryptographie par ordinateur sont des nombres. L’envoyeur et le receveur doivent donc fixer ce nombre pour décider de la clef. Ensuite, pour chiffrer, l’envoyeur entre le nombre-clef et le message dans Lucifer, qui émet le texte chiffré. Pour décrypter, le receveur entre la même clef et le texte chiffré dans Lucifer, qui ressort le texte original.
 
 Le nombre de clefs possibles est l’un des composants les plus important pour la sécurité d’un chiffrement. Un cryptanalyste essayant de déchiffrer un message crypté peut tenter de vérifier toutes les clefs possibles. Or, plus le nombre de clefs est élevé, plus ces vérifications demanderont du temps. La NSA plaida donc pour une limitation du nombre de clefs à environ 100 000 000 000 000 000 (soit 56 bits). Elle semblait croire qu’une telle clef apporterait une confidentialité suffisante pour le public, car aucun organisme privé ne disposait d’un ordinateur capable de vérifier un tel nombre de clefs en un temps raisonnable. En revanche, la NSA serait en capacité de lire les messages qui l’intéressent.
