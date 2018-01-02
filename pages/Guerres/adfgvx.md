@@ -24,6 +24,23 @@ Le chiffre ADFGVX : on établit d'abord une grille de 6x6 remplie des 26 lettres
 | V | X | A | 7 | 0 | 5 | M |
 | X | K | 3 | C | S | L | 4 |
 
+Exemple : Chiffrons “Attaque à l’aube”
+
+| Clair   | A  | T  | T  |  A | Q  | U  | E  | A  | L  | A  | U  | B  | E  |
+|---------|----|----|----|:--:|----|----|----|----|----|----|----|----|----|
+| Chiffré | VD | GD | GD | VD | AG | DD | GA | VD | XV | VD | DD | GG | GA |
+
+Message chiffré : “VDGDGDVDAGDDGAVDXVVDDDGGGA”
+
+
+
+
+
+
+
+
+
+
 Le code ADFGVX est typique de ceux de la première Guerre Mondiale, ce ne sont que des variantes ou des combinaisons de ceux déjà déchiffrés au 19ème siècle. Il peuvent en apparence offrir une grande sécurité mais les cryptanalystes finissent toujours par avoir le dernier mot.
 
 Petit plus : on notera aussi le célèbre télégramme de Zimmermann qui a, dans une certaine mesure, changé le cours de l'Histoire. Lorsque la guerre éclate, le 3 août 1914, le Président des États-Unis, Woodrow Wilson, souhaite observer une stricte neutralité et maintenir l'unité nationale d'un pays dont un habitant sur quatre est né à l'étranger ou de parents originaires des deux blocs antagonistes. En 1915, un sous-marin allemand coula le Lusitania un paquebot qui transportait entre autre 128 citoyens américains. Cela aurait dû décider les américains à signer leur déclaration de guerre, mais les allemands répétèrent maintes fois qu'à partir de maintenant, ils feraient attention à ne pas couler de bateaux civils.
