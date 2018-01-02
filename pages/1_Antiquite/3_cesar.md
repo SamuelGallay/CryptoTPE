@@ -43,10 +43,9 @@ La clé de déchiffrement est donc simple : connaissant la valeur de décalage d
 | **Alphabet chiffré** | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C |
 
 Voici un message d'exemple :
-
-| **Texte clair :**   | v|e|n|i|v|i|d|i|v|i|c|i|
-| **Texte chiffré :** | Y|H|Q|L|Y|L|G|L|Y|L|F|L|
-
+ **Message clair**   | V | E | N | I |   | V | I | D | I |   | V | I | C | I |
+|---------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Message chiffré** | Y | H | Q | L |   | Y | L | G | L |   | Y | L | F | L |
 
 
 On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit au modulo 26 (longueur de l'alphabet)
