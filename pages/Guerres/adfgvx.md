@@ -47,10 +47,20 @@ Exemple du message précédent avec la clef : “CLEF”
 | D | D | G | G |
 | G | A |   |   |
 
+On permute les colonnes alphabétiquement: 
+
+| C | E | F | L |
+|---|---|---|---|
+| V | G | D | D |
+| G | V | D | D |
+| A | D | D | G |
+| G | V | D | A |
+| X | V | D | V |
+| D | G | G | D |
+| G |   |   | A |
 
 
-
-
+On obtient donc le message chiffré : “VGDDGVDDADDGGVDAXVDVDGGDGA”
 
 Le code ADFGVX est typique de ceux de la première Guerre Mondiale, ce ne sont que des variantes ou des combinaisons de ceux déjà déchiffrés au 19ème siècle. Il peuvent en apparence offrir une grande sécurité mais les cryptanalystes finissent toujours par avoir le dernier mot.
 
