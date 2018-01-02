@@ -18,6 +18,10 @@ Polybe (203 avant J-C - 126 av. J-C) est un historien grec à qui l’on doit un
 
 Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et la fin de la Troisième Guerre Punique. Au début, la ville, malgré son isolement, résiste à la pression militaire de Rome et connaît même quelques succès tactiques. Mais en 147-146, grâce à l'arrivée du nouveau chef romain Scipion Emilien, petit fils adoptif de Scipion l’Africain, Carthage est méthodiquement investie. Prise d'assaut, la capitale punique est mise à sac puis détruite. Jules César reconstruira plus tard une ville romaine sur son emplacement. Les possessions africaines de Carthage deviennent la province romaine d'Afrique. Désormais, et pour longtemps, rien ne résiste plus à Rome. Cette cité italienne parmi d'autres est devenue à la faveur des guerres puniques un empire à vocation universelle. L'année même où Carthage est rasée, les Romains s'emparent de Corinthe et transforment la Grèce prestigieuse en province ordinaire.
 
+![carthage]({{ "/assets/1_Antiquite/carthage.jpg" | relative_url }})
+
+*Reconstitution de la ville antique de Carthage*
+
 ### Le chiffrement
 
 Le carré de Polybe est un système composé d’un carré de 25 cases dans lesquelles sont placés les lettres de l’alphabet (en français, le w est mis dans la même case que le v). Chaque lettre est représentée ses coordonnées dans ce carré : d’abord le chiffre de sa ligne puis celui de sa colonne. Ce système présente plusieurs avantages : la conversion de lettres en chiffres, la réduction du nombre symbole utilisé pour coder (5) et la représentation de chaque lettre par deux éléments séparés.
