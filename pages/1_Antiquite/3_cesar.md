@@ -19,7 +19,7 @@ Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtres
 
 En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise.
 
-![alésia]({{ "/assets/1_Antiquite.jpg" | relative_url }})
+![alésia]({{ "/assets/1_Antiquite/alésia.jpg" | relative_url }})
 
 César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, ils doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
 
