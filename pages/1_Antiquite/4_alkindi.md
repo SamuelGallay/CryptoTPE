@@ -11,6 +11,8 @@ partie: "L'Antiquité"
 
 À partir de cette date, le califat est centralisé autour de l’Empire sassanide qui fut conquis par les arabes, héritier de l’Empire Perse, civilisation très éclairée. Comme le feront plus tard les occidentaux à la Renaissance, les Abbassides, dans l’ancienne Mésopotamie ou à Alexandrie, utilisent les connaissances scientifiques grecques pour bâtir la science arabe. L'unité linguistique du territoire favorise la construction d’une connaissance globale : tous les textes grecs (Euclide, Aristote, Archimède, Démocrite…) à disposition sont traduits en arabe et tous les savants de la période écrivent dans cette langue. De plus, le développement des voies de communication et la technique de fabrication du papier contribuent ont permis un meilleur échange de connaissances entre les scientifiques.
 
+![maison de la sagesse]({{ "/assets/1_Antiquite/maison de la sagesse.jpg" | relative_url }})
+
 C’est au IXe siècle que la civilisation arabe connaît son apogée, notamment scientifique.
 Le calife Al-Mamun crée une Maison de la sagesse à Bagdad : c’est un centre culturel majeur où échangent des mathématiciens de tous horizons.
 A cette époque pacifiste, les Arabes et notamment leurs dirigeants utilisent couramment différent chiffres monoalphabétiques pour communiquer d’importantes missives. Ceci a été permis par la fabrication de papier. En effet, lors de la bataille de Talas en 751, les arabes avaient fait prisonniers nombre de chinois, dont certains connaissaient le processus de fabrication du papier.
