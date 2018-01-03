@@ -27,6 +27,11 @@ Ce système est un codage par répertoire désordonné : chaque nombre correspon
 
 Ce chiffre a été utilisé par Louis XIV tant pour ses correspondances privées (il a mené une vie amoureuse très dissolue comme chacun le sait) que pour ses correspondances politiques avec ses ministres, militaires et ambassadeurs.
 
+
+![rigaud]({{ "/assets/2_TempsModernes/rigaud.jpg" | relative_url }})
+
+*Louis XIV en costume de sacre par Hyacinthe Rigaud, 1701*
+
 Le Roi-Soleil mène une politique étrangère très ambitieuse, et passe la majeure partie de son règne en phase de guerre (guerre de dévolution, guerre de Hollande, guerre de succession d’Espagne). Pour préserver son pré carré, il mène une politique militaire belliqueuse. Il est donc crucial pour lui de s’assurer que les autres puissances européennes qui se sont liguées contre lui n'interceptent pas ses missives à caractère tactique.
 
 La cryptologie prend avec Rossignol en France une importance inédite, puisque Louvois, ministre de la guerre de Louis XIV, crée un bureau spécialisé : à la fin du XVIIe et au cours du XVIIIe siècle, les cabinets noirs sévissent dans toute l’Europe : le Geheime Kabinetskanzlei de Vienne est le plus efficace : en moins de deux heures, tout le contenu du sac postal est ouvert, recopié, et recacheté. Cela permet à l’Autriche-Hongrie de mener une politique étrangère très efficiente. L’invention du télégraphe et donc l'augmentation exponentielle de la quantité de messages échangés sonne la fin des cabinets noirs au milieu du XIXe siècle.
