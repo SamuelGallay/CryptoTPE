@@ -6,7 +6,7 @@ partie: "Accueil"
 
 ## Introduction
 
-De tout temps l'homme a eu besoin de communiquer. Ce besoin a permis l'émergence de langues, ensemble de signes associés chacun à une signification particulière. Pour matérialiser ces langues, au IVe millénaire avant notre ère, l'écriture est inventée. Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple. 
+De tout temps l'homme a eu besoin de communiquer. Ce besoin a permis l'émergence de langues, ensemble de signes associés chacun à une signification particulière. Pour matérialiser ces langues, au IVe millénaire avant notre ère, l'écriture est inventée en Mésopotamie. Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple. 
 Puis l'écriture s'est répandue, et il est devenu possible plus aisément d'échanger des messages. 
 Mais comment faire pour préserver la confidentialité du message ? 
 
@@ -16,7 +16,10 @@ L’art, ou la science de cacher des messages a connu plusieurs formes au cours 
 
 - La seconde consiste à protéger un message par le biais de clés (secrètes ou publiques) : c'est de la cryptographie, sujet de notre TPE. 
 
-Nous allons voir comment la cryptographie s’est adaptée à l'évolution des besoins en communication.
+Mais les techniques de cryptographie ont été cassées au cours de l'histoire : on parle de cryptanalyse, discipline invers de la cryptographie qui consiste à retrouver les messages sans connaître la clé. Ces deux disciplines réunies composent la cryptologie.
+
+
+**Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins. en communication.**
 
 ## L'Antiquité
 
