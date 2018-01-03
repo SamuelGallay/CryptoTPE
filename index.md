@@ -39,7 +39,7 @@ Avec les travaux des savants arabes, la cryptographie par substitution monoalpha
 * Notre [Compte-Rendu](experience) de l'expérience !
 
 ## Travail à faire
-* Louis XIV : Illustrer, mise en page, formules...
+* Louis XIV : Illustrer, mise en page, formules... dites moi ce que vous en pensez 
 * Ne pas hésiter à sauter des lignes
   * Contexte enigma
 * Formules propres :
@@ -51,6 +51,7 @@ Avec les travaux des savants arabes, la cryptographie par substitution monoalpha
   * [La Cryptographie sur Courbes Elliptiques](ecc)
   * [La Cryptographie Quantique](quantique)
 * Les Sources
+* Peut être un petit glossaire...
 * Rédiger Page d'Accueil / Introductions
 
 ## Liens vers les (autres) pages du site
