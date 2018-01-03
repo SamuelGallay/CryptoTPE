@@ -19,7 +19,7 @@ L’art, ou la science de cacher des messages a connu plusieurs formes au cours 
 Mais les techniques de cryptographie ont été cassées au cours de l'histoire : on parle de cryptanalyse, discipline invers de la cryptographie qui consiste à retrouver les messages sans connaître la clé. Ces deux disciplines réunies composent la cryptologie.
 
 
-**Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins. en communication.**
+**Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins en communication.**
 
 ## L'Antiquité
 
