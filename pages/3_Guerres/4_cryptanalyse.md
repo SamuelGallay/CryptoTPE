@@ -17,6 +17,10 @@ grâce à leur service de renseignement, le bureau du chiffre récupéra un manu
 ### La recherche des rotors
 Marian Rejewski a alors découvert une faille dans les message d’Enigma. Elle ne venait pas du système lui même, mais de l’utilisation qu’en avait l’armée allemande : la clef de 3 lettres était répétée deux fois au début de chaque message.
 
+
+<img src="{{ "/assets/3_Guerres/Marian_Rejewski.jpg" | relative_url }}" alt="Marian_Rejewski" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em>Marian Rejewski</em> </p>
+
 | **Message clair :**   | `U G A U G A`|
 | **Message Chiffré :** | `A X L Q P B`|
 
@@ -80,7 +84,14 @@ Les Anglais parvinrent de nouveaux à déchiffrer les messages allemands pendant
 1940, les Allemands supprimèrent la répétition de la clef au début du message, l’ayant identifiée comme un risque potentiel. Alors tous les travaux des Polonais se réduisirent à néant. Mais cette suppression avait été prévue par Alan Turing, qui avait déjà commencé à chercher une autre méthode de cryptanalyse. La cryptanalyse d’Enigma allait devenir une affaire britannique !
 
 ## Alan Turing
-Alan Turing est un mathématicien anglais qui très jeune est appelé à suivre le cours de la Governement Code & Cipher School, et qui la rejoint pour s’attaquer à la cryptanalyse d’Enigma.
+<img src="{{ "/assets/3_Guerres/Alan_Turing.jpg" | relative_url }}" alt="Alan_Turing" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em>Alan Turing</em> </p>
+
+Alan Turing est un mathématicien anglais qui très jeune est appelé à suivre le cours de la Governement Code & Cipher School, et qui la rejoint pour s’attaquer à la cryptanalyse d’Enigma au manoir de Bletchey Park.
+
+<img src="{{ "/assets/3_Guerres/Bletchley_Park.jpg" | relative_url }}" alt="Bletchley_Park" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em>Manoir de Bletchey Park</em> </p>
+
 On peut dire que Turing a transformé la cryptographie qui consistait en la recherche d’une clef parmi beaucoup d’autre en une branche des mathématiques où l’objectif était d’établir des méthodes mathématiques basés sur toutes les faiblesses possibles d’Enigma ainsi que les maladresses des chiffreurs allemands.
 
 La faiblesse intrinsèque d’Enigma vient du réflecteur, aucune lettre ne peut être chiffrée par elle même. Enigma est donc bien la seule machine à écrire à ne jamais écrire un ‘a’ quand on tape un ‘a’.
@@ -89,6 +100,10 @@ Cette faiblesse mécanique couplée avec les maladresse des chiffreurs allemands
 
 Alan Turing développe la “bombe cryptographique”, qui est en fait se rapproche en fait du premier ordinateur. La ‘bombe’ permet premièrement d’identifier les emplacements possibles d’un mot probable, comme ‘Wetter’, ou encore ‘Heil Hitler’. Il faut que aucune des lettres du texte chiffré ne soit identique à celle du mot probable. Ensuite des hypothèses sont faites sur la position initiale des rotors et sont très rapidement analysées jusqu’à tomber sur une contradiction permettant de les réfuter.
 Comme Turing travaille sur les chaînes, qui permettent de séparer le problème du brouilleur de celui du tableau de fiches. il montre que dès lors qu’une contradiction est détectée, on peut éliminer toutes les autres hypothèses qui entraînent celle-ci. Cela permit de minimiser considérablement le nombre de position des rotors à essayer.
+
+
+<img src="{{ "/assets/3_Guerres/Bombe.jpg" | relative_url }}" alt="Bombe" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em>Les "bombes électromagnétiques" ont été détruites après la guerre, mais en voici une réplique</em> </p>
 
 On peut aussi parler de la recherches de messages clairs qui était cruciale au fonctionnement des bombes électromagnétiques. Les anglais développèrent toutes sortes de stratégies pour retrouver un mot dans les messages. Ils allèrent même à planter de mines à la vue des Allemands pour retrouver le mot Minen dans les messages radios. Ils baptisèrent cette technique le jardinage.
 
