@@ -25,7 +25,7 @@ Exemple : `Vigenère est remarquable` avec comme clef : `crypto`
 
 
 
-Modélisation mathématique :
+Modélisation mathématique par une fonction définie pour les entiers de 0 à 25 qui au nombre associé à la lettre claire associe le nombre associé à la lettre chiffrée
 
 $$ f(l_{i}) = (l_{i} + k_{i} \bmod k) \bmod 26 $$
 
