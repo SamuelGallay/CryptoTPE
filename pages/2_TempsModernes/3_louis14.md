@@ -16,6 +16,10 @@ Son oeuvre majeure est l’invention, avec son fils Bonaventure, d’un code inv
 
 Ce système est un codage par répertoire désordonné : chaque nombre correspond à une syllabe ou parfois à une lettre. Ainsi 124 signifiait “les”, 22 “en”, 345 “s”. Le nombre 57 signifie même qu’il faut effacer le précédent. Les correspondants doivent chacun posséder un exemplaire du répertoire permettant de chiffrer et déchiffrer les messages.
 
+![grand-chiffre]({{ "/assets/2_TempsModernes/grand-chiffre.jpg" | relative_url }})
+
+*Le grand chiffre de Louis XIV*
+
 Ce chiffre a été utilisé par Louis XIV tant pour ses correspondances privées (il a mené une vie amoureuse très dissolue comme chacun le sait) que pour ses correspondances politiques avec ses ministres, militaires et ambassadeurs.
 
 Le Roi-Soleil mène une politique étrangère très ambitieuse, et passe la majeure partie de son règne en phase de guerre (guerre de dévolution, guerre de Hollande, guerre de succession d’Espagne). Pour préserver son pré carré, il mène une politique militaire belliqueuse. Il est donc crucial pour lui de s’assurer que les autres puissances européennes qui se sont liguées contre lui n'interceptent pas ses missives à caractère tactique.
