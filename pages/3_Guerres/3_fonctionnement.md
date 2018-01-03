@@ -59,4 +59,4 @@ On peut résumer ces calculs avec le calcul suivant :
 $$ \frac{26!}{14! \times 6! \times 26}  = 1, 003917915 \times 10^{11} $$
 
 Le nombre total de clefs est égal au produit de ces trois facteurs
-$$ 17 576 \times 6 \times 100 391 791 500 = 1,058691676 x 10^{16} $$ ce qui est environ égal à $$ 10^{16} $$ possibilités, ce qui énorme pour l’époque.
+$$ 17 576 \times 6 \times 100 391 791 500 = 1,058691676 \times 10^{16} $$ ce qui est environ égal à $$ 10^{16} $$ possibilités, ce qui est énorme pour l’époque.
