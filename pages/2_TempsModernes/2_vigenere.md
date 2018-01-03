@@ -37,4 +37,4 @@ Où :
 | \$$ k $$ | taille de la clef |
 
 
-Vigenère tire son savoir des cryptologues italiens qu’il a rencontrés lors de séjours diplomatiques à Rome : il expose sa théorie dans le Traité des chiffres ou secrètes manières d’écrire paru en 1585. Au plus la clé est grande, au plus le niveau de sécurité est élevé : si la clé de chiffrement est aussi longue que le message, et totalement aléatoire, le chiffre de Vigenère est inviolable : on parle de méthode du masque jetable, de chiffrement de Vernam, ou de One-Time Pad utilisé pour le téléphone rouge et encore aujourd’hui dans les ambassades.
+Vigenère tire son savoir des cryptologues italiens qu’il a rencontrés lors de séjours diplomatiques à Rome : il expose sa théorie dans le *Traité des chiffres ou secrètes manières d’écrire* paru en 1585. Au plus la clé est grande, au plus le niveau de sécurité est élevé : si la clé de chiffrement est aussi longue que le message, et totalement aléatoire, le chiffre de Vigenère est inviolable : on parle de méthode du masque jetable, de chiffrement de Vernam, ou de One-Time Pad utilisé pour le téléphone rouge et encore aujourd’hui dans les ambassades.
