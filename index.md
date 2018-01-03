@@ -38,6 +38,21 @@ Avec les travaux des savants arabes, la cryptographie par substitution monoalpha
 ## Notre expérience
 * Notre [Compte-Rendu](experience) de l'expérience !
 
+## Travail à faire
+* Louis XIV : Illustrer, mise en page, formules...
+* Ne pas hésiter à sauter des lignes
+  * Contexte enigma
+* Formules propres :
+  * `\bmod`pour faire le modulo
+  * Fonctionnement d'Enigma nb possibilités
+  * Cryptanalyse d'Enigma nb possibilités
+* Rédiger
+  * [Le RSA](rsa)
+  * [La Cryptographie sur Courbes Elliptiques](ecc)
+  * [La Cryptographie Quantique](quantique)
+* Les Sources
+* Rédiger Page d'Accueil / Introductions
+
 ## Liens vers les (autres) pages du site
 
 * [Page d'exemple \| Pour tester n'importe quoi !](exemple)

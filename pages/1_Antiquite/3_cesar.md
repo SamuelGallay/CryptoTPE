@@ -19,9 +19,10 @@ Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtres
 
 En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise.
 
-![alésia]({{ "/assets/1_Antiquite/alesia.jpg" | relative_url }})
 
 César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, ils doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
+
+![alésia]({{ "/assets/1_Antiquite/alesia.jpg" | relative_url }})
 
 Les Commentaires sur la guerre des Gaules de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car c’est un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits et il occulte le rôle des druides dans la société gauloise.
 
@@ -56,22 +57,22 @@ On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
 Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire :
 
-$$ (n_{i} + k) mod 26 = n_{f} $$
+$$ (n_{i} + k) \bmod 26 = n_{f} $$
 
 *Exemple* :
-*Dura lex, sed lex* (la loi est dure, mais c’est la loi)
+`Dura lex, sed lex` (la loi est dure, mais c’est la loi)
 
-D=4, 4+3=7 et 7=G, donc on code D par G
-U=21, 21+3=24 et 24=X, donc on code U par X
-R=18, 18+3=21 et 21=U, donc on code R par U
-Pour X, X=23, 23+3=26 et 26 modulo 26 = 0, 0=A, donc on code X par A
-Dura lex, sed lex est chiffré gxud oha, vhg oha
+* D=4, 4+3=7 et 7=G, donc on code D par G
+* U=21, 21+3=24 et 24=X, donc on code U par X
+* R=18, 18+3=21 et 21=U, donc on code R par U
+* Pour X, X=23, 23+3=26 et 26 modulo 26 = 0, 0=A, donc on code X par A
+* Dura lex, sed lex est chiffré `gxud oha, vhg oha`
 
 
 Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrements, notamment d’Aulu-Gelle et de Dion Cassius, des érudits romains.
 
 
-### *Commentaires sur la Guerre des Gaules*
+### *Commentaires sur la Guerre des Gaules* de Jules César
 Mais qu’en est-il des Commentaires sur la Guerre des Gaules ? Elle n’évoque en réalité jamais le chiffre de César mais parle bien d’un moyen de cacher les messages aux yeux de l’ennemi. Voilà l’extrait :
 >"Il [César] persuade alors un cavalier gaulois, en lui promettant de grandes récompenses, de porter une lettre à Cicéron. Il envoie celle-ci écrite en lettres grecques, afin que, si elle est interceptée, nos desseins ne soient pas pénétrés par les ennemis."
 

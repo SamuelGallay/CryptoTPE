@@ -20,6 +20,7 @@ L’usage de la cryptologie se répand en Italie aux XVe et XVIe siècles car le
 C’est un architecte, mathématicien, linguiste, véritable archétype de l’humaniste de la Renaissance, Leon Battista Alberti, qui trouve la parade en 1467 avec son cadran chiffrant : c’est la naissance de la substitution polyalphabétique, qui dilue la fréquence d’apparition des lettres.
 
 <img src="{{ "/assets/2_TempsModernes/alberti2.jpg" | relative_url }}" alt="Cadran" style="margin: 0 auto;display: block; width: 300px;"/>
+<p align="center"> <em>Leon Battista Alberti</em> </p>
 
 Exemple avec lettre index A et le disque mobile ci-dessous :
 * message en clair : `Alberti est génial`

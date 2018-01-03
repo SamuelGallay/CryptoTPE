@@ -65,10 +65,10 @@ Malheureusement, en 1938, les allemands modifièrent le fonctionnement du brouil
 
 Petit rappel pour Hugo qui en grand fan des probabilités connaît les formules des binômes de Newton par coeur :
 Quand il y a un tirage d’une quantité d’objets dans l’ordre et que l’on ne peut pas tirer deux fois le même objet, on a :
-Possibilités =  (Ntotal !) / (Ntotal - Ntirés)!
-= 5! / (5-3)!
-= 3 x 4 x 5
-= 60
+$$ Possibilités =  \frac{(Ntotal !)}{(Ntotal - Ntirés)!} \\
+= \frac{5!}{(5-3)!}\\
+= 3 \times 4 \times 5 \\
+= 60 $$
 
 Cette modification décupla le nombre de bombes cryptographiques nécessaires à la recherche de la clef du jour, et cela était totalement hors du budget du bureau du chiffre polonais. De plus, les câblages internes des deux nouveaux rotors étaient encore inconnus. Les Polonais perdirent espoir.
 La guerre menace la Pologne, et les cryptanalystes polonais envoient tous leurs travaux ainsi que deux copies d’Enigma militaires aux Français et aux Britanniques.

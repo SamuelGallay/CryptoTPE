@@ -118,7 +118,8 @@ En analysant de la même manière la 3e, la 8e, la 13e,... lettres nous découvr
 * Il est maintenant possible d’utiliser le carré de Vigenère et de compléter la cryptanalyse. La première lettre cryptée est A et elle a été cryptée selon la première lettre du mot-clé M. En nous reportant au carré de Vigenère, nous cherchons la lettre A dans la ligne commençant par M et nous remontons jusqu’à la lettre en tête de cette colonne. Il s’agit de O, qui est donc la première lettre du texte clair.
 
 
-**Carré de Vigenère**
+<img src="{{ "/assets/2_TempsModernes/vigenere.png" | relative_url }}" alt="Vigenere" style="margin: 0 auto;display: block; width: 700px;"/>
+<p align="center"> <em>La table de Vigenère</em> </p>
 
 * Nous obtenons ainsi le début du texte en clair : “OTEMPSSUSPENDSTONVOL...”. En séparant les mots les uns des autres et en insérant la ponctuation nécessaire, nous retrouvons le texte :
 
@@ -137,4 +138,4 @@ En analysant de la même manière la 3e, la 8e, la 13e,... lettres nous découvr
 >Je dis à cette nuit : Sois plus lente ; et l'aurore \\
 >Va dissiper la nuit.
 
-* Conclusion : ce sont les vers du poète Alphonse de Lamartine extraits du poème Le Lac, codés avec le chiffre de Vigenère.
+* Conclusion : ce sont les vers du poète *Alphonse de Lamartine* extraits du poème *Le Lac*, codés avec le chiffre de Vigenère.

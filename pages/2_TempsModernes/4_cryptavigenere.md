@@ -14,21 +14,14 @@ Babbage et Kasiki se sont appuyés sur la répétition au moins deux fois dans l
 Soit un message chiffré comportant deux séquences répétées S et T. On note leurs répétitions S1, S2, T1 et T2. La longueur probable de la clé est PGCD (S2-S1 ; T2-T1)/
 PLus tard, en 1920, le cryptologue de l’armée américaine Friedman met au point l’indice de coïncidence. Avec un texte de n lettres et une clé de k lettres, on a :
 
-**Formules**
+$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
+
 
 Dans les années 20, Friedman, officier cryptologue de l'armée de terre américaine, met au point un indice mathématique, appelé indice de coïncidence. En calculant l'indice de coïncidence pour toutes les lettres du message modulo la taille de la clé que l'on veut tester, on peut pour la taille de la clé où cet indice est anormalement grand, affirmer que ceci est la taille de la clé du message.
 
-Formule :
-
-$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
-
-**Formules**
+*La grande formule avec plein de sommes...*
 
 vaut si n suffisamment grand
 où n est la longueur du texte et ni la fréquence d’apparition de la lettre i dans le texte
 
-# Partie de Manon
-vaut si n suffisamment grand
-où n est la longueur du texte et ni la fréquence d’apparition de la lettre i dans le texte
-
-# Partie de Manon
+Notre [expérience]({{ "/experience/" | relative_url }}) est un déchiffrage à la main d'un message chiffré avec le chiffre de Vigenère !

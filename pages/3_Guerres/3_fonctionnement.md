@@ -8,6 +8,7 @@ partie: "Seconde Guerre Mondiale"
 
 
 Fonctionnement : La machine Enigma était faite de composants ingénieux combinés dans une incroyable machine à chiffrer. Toutefois, si on les prend un à un, ses principes de base deviennent compréhensibles. Enigma est la première méthode de cryptographie électronique.
+
 Dans sa forme élémentaire, Enigma consiste en trois éléments reliés par des câbles : un clavier pour entrer chaque lettre du texte clair, un brouilleur qui crypte chaque lettre du texte clair en une lettre chiffrée, et un tableau lumineux fait d’un certain nombre de lampe pour afficher la lettre du texte crypté. Pour crypter une lettre du texte clair, on envoie une impulsion électrique qui passe dans le brouilleur puis allume une lampe du tableau, qui indique la lettre correspondante du texte chiffré. On y ajoutera par la suite le tableaux de connexions pour augmenter le nombres de possibilités
 
 ### Le tableau de connexions : il permet d'échanger des paires de l'alphabet, deux à deux.
@@ -54,6 +55,8 @@ Enfin, comme la paire (A,B) donne la même connexion que (B,A), il faut diviser 
 6, 425074656 x 1012 / 26 = 100 391 791 500
 
 On peut résumer ces calculs avec le calcul suivant :
-26! / (14! x 6! x 26) = 1, 003917915 x 1011
+
+$$ \frac{26!}{14! \times 6! \times 26}  = 1, 003917915 \times 10^{11} $$
+
 Le nombre total de clefs est égal au produit de ces trois facteurs
-17 576 x 6 x 100 391 791 500 = 1,058691676 x 1016 ce qui est environ égal à 1016 possibilités, ce qui énorme pour l’époque.
+$$ 17 576 \times 6 \times 100 391 791 500 = 1,058691676 x 10^{16} $$ ce qui est environ égal à $$ 10^{16} $$ possibilités, ce qui énorme pour l’époque.
