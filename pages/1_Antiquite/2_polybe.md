@@ -28,7 +28,7 @@ Le carré de Polybe est un système composé d’un carré de 25 cases dans lesq
 
 Il fut utilisé pendant très longtemps et notamment par les nihilistes russes au XIXe siècle. C’était une organisation secrète dont le but était de tuer le tsar et ses représentants. Ils utilisaient ce code en prison en tapant contre le mur le nombre coups correspondant aux chiffres du messages. Cependant, une fois le système connu, n’importe qui peut déchiffrer le message.
 
-Il existe plusieurs variante à ce carré comme celle qui remplace les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres). Une autre variante consiste donc à remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. On peut aussi remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes.
+Il existe plusieurs variantes à ce carré comme celle qui remplace les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres). Une autre variante consiste donc à remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. On peut aussi remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes.
 
 |       | 1 | 2 | 3 | 4 | 5 |
 |-------|---|---|---|---|---|
