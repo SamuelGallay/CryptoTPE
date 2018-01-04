@@ -47,7 +47,7 @@ Il existe deux grandes méthodes de déchiffrement :
 
 * Méthode moderne : l’indice de coïncidence. Le test de l'indice de coïncidence consiste à prendre une lettre sur n dans le message, et de mesurer l'indice de coïncidence. Plus il est élevé, plus la probabilité que n soit la longueur de la clé est grande. En effet, prendre une lettre sur n lorsque n est la longueur de la clé revient à prendre une série de lettre chiffrée toujours chiffrée avec le même décalage, l'indice de coïncidence est donc égal à celui du texte clair. Cependant, cela nécessite de calculer pour le texte en prenant toutes les lettres (comme fait précédemment) puis une lettre sur 2, puis en ne prenant qu'une lettre sur 3, etc... On calcule l'indice de coïncidence à chaque fois. L'indice de coïncidence maximal est obtenu quand le texte est le moins aléatoire possible.
 
-Cette solution est efficace avec un ordinateur mais n’est pas adapté à aux capacités de trois lycéens simplement armés de feuilles et de crayons. Nous décidons donc de faire la deuxième méthode.
+Nous avons tenté de calculer l'indice de coïncidence pour une clé de longueur 2 ; au vu du temps que cela nous a pris, nous en avons conclu que cette méthode était inapropriée pour 3 lycéens armés seulement de stylos et de feuilles.
 
 * Méthode historique : Elle fut inventée par le mathématicien britannique Charles Babbage, connu notamment pour ses machines à différence, vers 1854 mais sa découverte resta ignorée en l'absence d'écrit. Pendant ce temps, un officier prussien à la retraite, Kasiski, parvint au même résultat et publia en 1863 "Die Geheimschriftren und die Dechiffrir-kunst".
 
