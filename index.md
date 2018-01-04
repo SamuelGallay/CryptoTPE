@@ -12,11 +12,11 @@ Mais comment faire pour préserver la confidentialité du message ?
 
 L’art, ou la science de cacher des messages a connu plusieurs formes au cours de l’histoire : 
 
-- La première a été de cacher le message dans un auter message, une sorte de mise en abyme : c’est de la stéganographie.
+- La première a été de cacher le message dans un autre message, une sorte de mise en abyme : c’est de la stéganographie.
 
 - La seconde consiste à protéger un message par le biais de clés (secrètes ou publiques) : c'est de la cryptographie, sujet de notre TPE. 
 
-Mais les techniques de cryptographie ont été cassées au cours de l'histoire : on parle de cryptanalyse, discipline invers de la cryptographie qui consiste à retrouver les messages sans connaître la clé. Ces deux disciplines réunies composent la cryptologie.
+Mais les techniques de cryptographie ont été cassées au cours de l'histoire : on parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clé. Ces deux disciplines réunies composent la cryptologie.
 
 
 **Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins en communication.**
