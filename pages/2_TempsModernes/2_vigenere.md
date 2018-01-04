@@ -40,5 +40,9 @@ Où :
 Vigenère tire son savoir des cryptologues italiens qu’il a rencontrés lors de séjours diplomatiques à Rome : il expose sa théorie dans le *Traité des chiffres ou secrètes manières d’écrire* paru en 1585. Au plus la clé est grande, au plus le niveau de sécurité est élevé : si la clé de chiffrement est aussi longue que le message, et totalement aléatoire, le chiffre de Vigenère est inviolable : on parle de méthode du masque jetable, de chiffrement de Vernam, ou de One-Time Pad utilisé pour le téléphone rouge et encore aujourd’hui dans les ambassades.
 
 
+<<<<<<< HEAD
 <img src="{{ "/assets/2_TempsModernes/vigenere2.png" | relative_url }}" alt="Vigenere2" style="margin: 0 auto;display: block; width: 300px;"/>
 <p align="center"> <em>Blaise de Vigenère</em> </p>
+=======
+![vigenere]({{ "/assets/2_TempsModernes/vigenere2.png" | relative_url }})
+>>>>>>> 274ea71f3b978d700311eac2cbf2acb33cb7176e
