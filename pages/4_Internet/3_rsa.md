@@ -30,6 +30,10 @@ $$ D = C^d \bmod n = (M^e)^d \bmod n = \color{red} {M^{ed}\bmod n} \color{red} {
 Bob a bien retrouvé le message d'Alice \\
 Il n'est pas inutile de préciser que l'on peut faire correspondre un nombre à une lettre via sa position dans l'alphabet ou encore la norme ASCII. Il est en outre primordial de découper les lettres dans leur équivalent chiffré en bloc de 3, sinon on aurait à faire à une substitution monoalphabétique ce qui briserait tout l'intérêt de cet algorithme. 
 
+Le RSA repose donc sur deux fondements :
+* Mathématiquement du théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
+* Informatiquement, de l'impuissance des ordinateurs de décomposer $$ n $$ en le facrorisant par $$ p $$ et $$ q $, lorsque ceux-ci sont grands 
+
 ## Exemple
 
 * Bob choisit deux nombres premiers :
@@ -43,4 +47,8 @@ Il trouve 103 : **La clé secrète est (103,209)**
 * Elle envoie cette valeur à Bob 
 * Bob reçoit 123. Il utilise sa clé secrète 103 et calcule $$ 123^{103} \bmod 209 = 63 $$
 * Il a bien retrouvé le nombre choisi par Alice.
+
+## Limites du RSA
+
+
 
