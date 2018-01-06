@@ -26,7 +26,7 @@ Ce message constitera en un ou plusieurs entiers codés de la façon suivante :
 * Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$
 * Elle calcule le nombre $$ C = M^e \bmod n $$ qu'elle envoie à Bob \\
 Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
-$$ D = C^d = (M^e)^d = \color{red} {M^{ed}} \color{red} {=} \color{red} {M \bmod n}  $$ \\
+$$ D = C^d \bmod n = (M^e)^d \bmod n = \color{red} {M^{ed}\bmod n} \color{red} {=} \color{red} {M \bmod n}  $$ \\
 Bob a bien retrouvé le message d'Alice \\
 Il n'est pas inutile de préciser que l'on peut faire correspondre un nombre à une lettre via sa position dans l'alphabet ou encore la norme ASCII. Il est en outre primordial de découper les lettres dans leur équivalent chiffré en bloc de 3, sinon on aurait à faire à une substitution monoalphabétique ce qui briserait tout l'intérêt de cet algorithme. 
 
