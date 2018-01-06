@@ -15,7 +15,7 @@ Cet algorithme est encore utilisé aujourd'hui notamment pour le comerce électr
 
 ## Modélisation mathématique et fonctionnement 
 
-Bob détermine 4 nombres p, q et d tel que \\
+Bob détermine 4 nombres p, q et d tel que 
 * p et q soient deux nombres premiers ; n est le produit pq
 * e soit un entier premier avec (p-1)(q-1)
 * d respecte l'égalité $$ ed = 1 \bmod (p-1)(q-1) $$ ce qui équivaut à dire que ed-1 est un multiple de (p-1)(q-1)
@@ -27,3 +27,7 @@ Ce message constitera en un ou plusieurs entiers codés de la façon suivante :
 * Elle calcule le nombre $$ C = M^e \bmod n $$ qu'elle envoie à Bob \\
 Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
 $$ D = C^d = (M^e)^d = \color{red} {M^{ed}} \color{red} {=} \color{red} {M \bmod n}  $$
+Bob a bien retrouvé le message d'Alice \\
+Il n'est pas inutile de préciser que l'on peut faire correspondre un nombre a une lettre via sa position dans l'alphabet ou encore la norme ASCII. 
+
+## Exemple
