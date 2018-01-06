@@ -32,7 +32,7 @@ Il n'est pas inutile de préciser que l'on peut faire correspondre un nombre à 
 
 Le RSA repose donc sur deux fondements :
 * Mathématiquement du théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
-* Informatiquement, de l'impuissance des ordinateurs de décomposer $$ n $$ en le facrorisant par $$ p $$ et $$ q $, lorsque ceux-ci sont grands 
+* Informatiquement, de l'impuissance des ordinateurs de décomposer $$ n $$ en le facrorisant par $$ p $$ et $$ q $$, lorsque ceux-ci sont grands 
 
 ## Exemple
 
