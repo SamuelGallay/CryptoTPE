@@ -24,5 +24,5 @@ Modélisation mathématique :
 * Elle envoie à Bob le nombre $$ A = g^a \bmod p $$
 * Bob choisit à son tour le nombre secret b
 * Il envoie à Alice $$ B = g^b \bmod p $$
-* Alice peut déterminer la clé secrète : $$ (B)^a \bmod p = (g^a)^b \bmod p = g^a^b \bmod p $$
-* Bob en fait de même et obtient la clé identique : $$ (A)^b \bmod p = (g^b)^a = g^ba \bmod p = g^a^b \bmod p $$
+* Alice peut déterminer la clé secrète : $$ (B)^a \bmod p = (g^a)^b \bmod p = g^{ab} \bmod p $$
+* Bob en fait de même et obtient la clé identique : $$ (A)^b \bmod p = (g^b)^a = g^{ba} \bmod p = g^{ab} \bmod p $$
