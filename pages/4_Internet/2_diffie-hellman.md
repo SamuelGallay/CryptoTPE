@@ -22,7 +22,7 @@ Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de
 <img src="{{ "/assets/4_Internet/diffie-hellman1.png" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em> Une analogie avec de la peinture pour comprendre </em> </p>
 
-### Modélisation mathématique 
+### Modélisation mathématique et fonctionnement 
 
 * Alice et Bob veulent s’échanger une clé
 * Alice choisit un grand nombre premier p et une base g avec g inférieur à p
