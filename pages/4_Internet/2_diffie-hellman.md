@@ -16,7 +16,7 @@ Dans les années 70, une nouvelle problématique émerge : bien que les chiffrem
 Avec l’informatique, ils doivent pouvoir s’échanger au travers de messages (de fait publics) la clef.
 
 Avec l'ère d'Interne, les mathématiciens s'intéressent particulièrement à la cryptograhie. \\
-Ce sont deux américains, Whitfield Diifie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte. 
+Ce sont deux américains, Whitfield Diifie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte. Ils s'appuient pour leur protocole de l'arithmétique modulaire, très utilisée en cryptographie moderne. 
 
 
 <img src="{{ "/assets/4_Internet/diffie-hellman1.png" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
