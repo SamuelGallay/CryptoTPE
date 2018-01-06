@@ -19,8 +19,7 @@ $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
 
 Dans les années 20, Friedman, officier cryptologue de l'armée de terre américaine, met au point un indice mathématique, appelé indice de coïncidence. En calculant l'indice de coïncidence pour toutes les lettres du message modulo la taille de la clé que l'on veut tester, on peut pour la taille de la clé où cet indice est anormalement grand, affirmer que ceci est la taille de la clé du message.
 
-*La grande formule avec plein de sommes...*
-
+$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{(n_{i})^2-(n_{i})}{n^2-n} \approx \sum_{i=a}^z \frac{
 vaut si n suffisamment grand
 où n est la longueur du texte et ni la fréquence d’apparition de la lettre i dans le texte
 
