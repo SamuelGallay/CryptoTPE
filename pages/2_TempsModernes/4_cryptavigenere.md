@@ -20,6 +20,6 @@ En calculant l'indice de coïncidence pour toutes les lettres du message modulo 
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{(n_{i})^2-(n_{i})}{n^2-n} \approx \sum_{i=a}^z \frac{(n_{i})^2}{n^2} = \sum_{i=a}^z (\frac{(n_{i}}{n})^2 $$ \\
 vaut si n suffisamment grand \\
-où n est la longueur du texte et ni la fréquence d’apparition de la lettre i dans le texte
+où n est la longueur du texte et $$ n_{i} $$ la fréquence d’apparition de la lettre i dans le texte
 
 Notre [expérience]({{ "/experience/" | relative_url }}) est un déchiffrage à la main d'un message chiffré avec le chiffre de Vigenère !
