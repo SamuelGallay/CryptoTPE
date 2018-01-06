@@ -36,7 +36,7 @@ Il n'est pas inutile de préciser que l'on peut faire correspondre un nombre à 
 $$ p = 11 $$ et $$ q = 19 $$ alors $$n = pq = 209 $$
 * Bob choisit par exemple 7 qui est premier avec 180 $$ (180 = (p-1)(q-1)) $$
 **La clé publique est (7,209).**
-* Bob calcule maintenant d tel que le reste de 7d, dans la division par 180, soit 1.
+* Bob calcule maintenant d tel que le reste de 7d, dans la division par 180, soit 1. \\
 Il trouve 103 : **La clé secrète est (103,209)**
 * Alice choisit le nombre 63.
 * Elle a reçu la clé publique (7,209) et calculer donc $$ 63^7 \bmod 209 = 123 $$
