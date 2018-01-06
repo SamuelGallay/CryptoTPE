@@ -15,7 +15,7 @@ Cet algorithme est encore utilisé aujourd'hui notamment pour le comerce électr
 
 ## Modélisation mathématique et fonctionnement 
 
-Bob détermine 4 nombres p, q et d tel que 
+Bob détermine 4 nombres $$ p, q, e et d $$ tel que 
 * p et q soient deux nombres premiers ; n est le produit pq
 * e soit un entier premier avec (p-1)(q-1)
 * d respecte l'égalité $$ ed = 1 \bmod (p-1)(q-1) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ (p-1)(q-1) $$
