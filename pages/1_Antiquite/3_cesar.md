@@ -20,17 +20,17 @@ Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtres
 En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise.
 
 
-César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, ils doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
+César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, les assiégés doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
 
 ![alésia]({{ "/assets/1_Antiquite/alesia.jpg" | relative_url }})
 
-Les Commentaires sur la guerre des Gaules de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car c’est un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits et il occulte le rôle des druides dans la société gauloise.
+Les Commentaires sur la guerre des Gaules de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car elle offre un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits, et il occulte le rôle des druides dans la société gauloise.
 
 Pour garder contact avec ses généraux, César utilisait un procédé de chiffrement rendant le message, s’il était saisi, incompréhensible pour l'ennemi.
 
 ### Fonctionnement
 
-Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou la gauche.
+Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou vers la gauche.
 
 Il est décrit par l’historien romain Suétone dans Vies des douze Césars, Livre premier, César, LVI publié entre 119 et 122 :
  > « Extant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset: quae si qui investigare et persequi velit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet. »
@@ -55,7 +55,7 @@ Voici un message d'exemple :
 
 On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit au modulo 26 (longueur de l'alphabet)
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
-Soit k la longueur du décalage, ni le nombre associé à lettre claire et nf le nombre associé à la lettre chiffrée, on peut alors écrire :
+Soit k la longueur du décalage, ni le nombre associé à la lettre claire, et nf le nombre associé à la lettre chiffrée, on peut alors écrire :
 
 $$ (n_{i} + k) \bmod 26 = n_{f} $$
 
@@ -69,11 +69,11 @@ $$ (n_{i} + k) \bmod 26 = n_{f} $$
 * Dura lex, sed lex est chiffré `gxud oha, vhg oha`
 
 
-Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrements, notamment d’Aulu-Gelle et de Dion Cassius, des érudits romains.
+Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrement, notamment ceux d'érudits comme Aulu-Gelle et Dion Cassius.
 
 
 ### *Commentaires sur la Guerre des Gaules* de Jules César
-Mais qu’en est-il des Commentaires sur la Guerre des Gaules ? Elle n’évoque en réalité jamais le chiffre de César mais parle bien d’un moyen de cacher les messages aux yeux de l’ennemi. Voilà l’extrait :
+Les Commentaires sur la Guerre des Gaules n’évoquent en réalité jamais le chiffre de César mais parlent bien d’un moyen de cacher les messages aux yeux de l’ennemi comme dans cet extrait :
 >"Il [César] persuade alors un cavalier gaulois, en lui promettant de grandes récompenses, de porter une lettre à Cicéron. Il envoie celle-ci écrite en lettres grecques, afin que, si elle est interceptée, nos desseins ne soient pas pénétrés par les ennemis."
 
 La technique de chiffrement se borne ici à traduire le texte en grec. On peut supposer que Jules César considérait que les barbares auxquels il était confronté ne connaissaient pas l’écriture grecque. Cela ne l’empêchait pas, dans certains cas, d’utiliser une double protection grâce à la stéganographie : en effet le message chiffré envoyé à Cicéron était dissimulé sur la courroie d’une tragule (javelot).
@@ -86,4 +86,10 @@ Cependant, il n'y a que 26 façons différentes de chiffrer un message avec le c
 
 > L'attaque par force brute consiste à tester de façon exhaustive l'ensemble des clés possibles.
 
-On peut également tenter sa cryptanalyse avec l’analyse des fréquence (voir ci dessous) car c’est un chiffrement par substitution monoalphabétique. Pourtant, en raison de sa grande simplicité, le code de César fut encore employé par les officiers sudistes pendant la guerre de Sécession, et même par l'armée russe en 1915.
+On peut également tenter sa cryptanalyse avec l’analyse des fréquence (voir page Al-Kindi) car c’est un chiffrement par substitution monoalphabétique. Pourtant, en raison de sa grande simplicité, le code de César fut encore employé par les officiers Sudistes pendant la guerre de Sécession, et même par l'armée russe en 1915.
+
+### A vous de jouer !
+
+Le message suivant a été codé avec le chiffre de César décalé de 3 rangs. Tentez de le déchiffrer.
+
+dyh fdhvdu, prulwxul wh vdoxwdqw
