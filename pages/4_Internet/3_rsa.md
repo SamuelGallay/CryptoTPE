@@ -19,7 +19,7 @@ Bob détermine 4 nombres p, q et d tel que
 * p et q soient deux nombres premiers ; n est le produit pq
 * e soit un entier premier avec (p-1)(q-1)
 * d respecte l'égalité $$ ed = 1 \bmod (p-1)(q-1) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ (p-1)(q-1) $$
-On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres \\
+On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres (remarque : il existe un unique d respectant l'égalité) \\
 Bob a donc une **clé publique (n,e)** et une **clé privée, secrète (n,d)** \\
 Alice pour envoyer un message à Bob a accès à sa clé publique \\
 Ce message constitera en un ou plusieurs entiers codés de la façon suivante :
