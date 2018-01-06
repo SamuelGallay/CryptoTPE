@@ -62,6 +62,6 @@ Le message “bibliothèque de Persée” ne sera plus codé `122412322435452315
 
 ### A vous de jouer !
 
-Le message suivant a été codé avec le carré de Polybe « classique ». Tentez de le déchiffrer.
+Le message suivant a été codé avec le carré de Polybe « classique ». Tentez de le déchiffrer. Tous les coups sont permis : la fortune sourit aux audacieux !
 
-11 51 14 11 13 15 44   21 35 43 45 51 34 11   25 51 52 11 45
+11 51 14 11 13 15 44 - 21 35 43 45 51 34 11 - 25 51 52 11 45
