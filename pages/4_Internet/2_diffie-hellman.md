@@ -33,4 +33,4 @@ Ce sont deux américains, Whitfield Diifie et Martin Hellman de l'Université de
 * Alice peut déterminer la clé secrète : $$ B^a \bmod p = (g^a)^b \bmod p = g^{ab} \bmod p $$
 * Bob en fait de même et obtient la clé identique : $$ A^b \bmod p = (g^b)^a = g^{ba} \bmod p = g^{ab} \bmod p $$ \\
 Ceci est rendu possible par la commutativité de la fonction puissance ! \\
-En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs fort complexes pour trouver la clé secrète $$ g^{ab}
+En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs fort complexes pour trouver la clé secrète $$ g^{ab} $$
