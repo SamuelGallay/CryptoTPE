@@ -41,9 +41,9 @@ En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs for
 * Alice choisit comme nombre secret a = 7
 * Elle envoie à Bob le nombre $$ 6^7 \bmod 41 = 29 $$
 * Bob choisit à son tour le nombre secret 15
-* Il envoie à Alice $$ 6^15 \bmod 41 = 3 $$
+* Il envoie à Alice $$ 6^{15} \bmod 41 = 3 $$
 * Alice peut déterminer la clé secrète : $$ 3^7 \bmod 41 = 14 $$
-* Bob en fait de même et obtient la clé identique : $$ 29^15 \bmod 41 = 14 $$
+* Bob en fait de même et obtient la clé identique : $$ 29^{15} \bmod 41 = 14 $$
 
 Alice et Bob ont bien partagé la clef 14 !
 
