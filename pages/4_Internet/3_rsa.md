@@ -53,7 +53,7 @@ Il trouve 103 : **La clé secrète est (103 ; 209)**
 La seule méthode connue à ce jour pour casser le RSA est de factoriser n en p et q, et en déduire l'exposant secret d. \\
 Une fois que l'on connaît d, il est aisé d'en déduire tout le reste.
 Aujourd'hui les ordinateurs peuvent factoriser des nombres produits de deux premiers jusqu'à environ 300 chiffres ; toutefois, si l'on prend $$ n $$ suffisamment grand, et qu'on utilise correctement l'algorithme, il est a priori sûr.
-Samuel tu avais dit que ce n'était plus l'enjeu
+Samuel tu avais dit que ce n'était plus l'enjeu merci de compléter si tu le juges utile merci !
 
 
 
