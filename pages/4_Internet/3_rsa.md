@@ -28,7 +28,7 @@ Ce message constitera en un ou plusieurs entiers codés de la façon suivante :
 Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
 $$ D = C^d = (M^e)^d = \color{red} {M^{ed}} \color{red} {=} \color{red} {M \bmod n}  $$ \\
 Bob a bien retrouvé le message d'Alice \\
-Il n'est pas inutile de préciser que l'on peut faire correspondre un nombre à une lettre via sa position dans l'alphabet ou encore la norme ASCII. 
+Il n'est pas inutile de préciser que l'on peut faire correspondre un nombre à une lettre via sa position dans l'alphabet ou encore la norme ASCII. Il est en outre primordial de découper les lettres dans leur équivalent chiffré en bloc de 3, sinon on aurait à faire à une substitution monoalphabétique ce qui briserait tout l'intérêt de cet algorithme. 
 
 ## Exemple
 
