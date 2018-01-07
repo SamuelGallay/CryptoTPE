@@ -19,7 +19,7 @@ Avec l'ère d'Internet, les mathématiciens s'intéressent particulièrement à 
 Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte. 
 
 <img src="{{ "/assets/4_Internet/diffie-hellman.jpeg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
-<p align="center"> <em> Shamir, Rivest et Adleman </em> </p>
+<p align="center"> <em> Whitfield Diffie (à gauche) et Martin Hellman (à droite) </em> </p>
 
 Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisée en cryptographie moderne. 
 
