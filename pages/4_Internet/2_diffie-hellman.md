@@ -25,7 +25,7 @@ Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de
 ### Modélisation mathématique et fonctionnement 
 
 * Alice et Bob veulent s’échanger une clé
-* Alice choisit un grand nombre premier p et une base g avec g inférieur à p
+* Alice choisit un grand nombre premier $$ p $$ et une base $$ g $$ avec $$ g \leq p $$
 * Elle choisit un nombre secret a
 * Elle envoie à Bob le nombre $$ A = g^a \bmod p $$
 * Bob choisit à son tour le nombre secret b
