@@ -10,7 +10,11 @@ partie: "L'ère d'Internet"
 
 ## Eléments de contexte
 
-Dans la lignée de leurs contemporains mathématiciens-cryptographges Diffie et Hellman, trois chercheurs du MIT, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA. \\
+Dans la lignée de leurs contemporains mathématiciens-cryptographges Diffie et Hellman, trois chercheurs du MIT, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA. 
+
+<img src="{{ "/assets/4_Internet/rsa.jpg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em> Shamir, Rivest et Adleman </em> </p>
+
 Cet algorithme est encore utilisé aujourd'hui notamment pour le comerce électronique 
 
 ## Modélisation mathématique et fonctionnement 
