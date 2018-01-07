@@ -5,10 +5,9 @@ suivante: /vigenere/
 partie: Les Temps Modernes
 ---
 
-L’Europe de la Renaissance et des siècles postérieurs est un terreau de conflits multiples, sur fond de rivalités culturelles, économiques, militaires. C’est dans ce contexte de tensions interétatiques que la cryptographie connaît un renouveau, devenant une science complexe et élaborée, après une stagnation en Occident tout au long du Moyen-Age.
+# Le cadran d’Alberti : La mécanisation du chiffrement
 
-
-## Le cadran d’Alberti : La mécanisation du chiffrement
+## L'Italie de la Renaissance
 
 Aux XIV et XVe siècles, l’Italie, territoire morcelé et fragmenté en de nombreuses cité-états indépendantes et rivales (son unité ne viendra qu’à la fin du XIXe siècle sous l’impulsion de Garribaldi), est le terrain propice pour un essor des écritures secrètes. Les villes marchandes, enrichies grâce au commerce, sont en conflit permanent. Il s’agit pour les souverains de fomenter en toute confidentialité des complots contre leurs adversaires d’une part et d’autre part d’intercepter et de déchiffrer les missives adverses pour déjouer les intrigues. Selon l’historien David Kahn, “le développement de la cryptologie est directement lié à l’épanouissement de la diplomatie moderne. Pour la première fois les Etats entretiennent des relations permanentes. Les ambassadeurs en poste - appelés “honorables espions” - envoient régulièrement des rapports qu’il est nécessaire de chiffrer en raison des jalousies, des suspicions et des intrigues qui empoisonnent les rapports entre les cités-états d’Italie.” La course au chiffrement commence : Venise se dote de secrétaires-chiffreurs ; ces “espions postaux” étudient les courriers destinés aux ambassadeurs des principautés voisines, suivie par ses rivales Florence, Gênes et Naples. Cette pratique se généralise en Europe, notamment en France et en Angleterre. En revanche, les pays d’Europe du Nord et de l’Est, tels que la Suède, la Pologne et l’Allemagne sont ignorants en la matière.
 
@@ -22,6 +21,12 @@ C’est un architecte, mathématicien, linguiste, véritable archétype de l’h
 <img src="{{ "/assets/2_TempsModernes/alberti2.jpg" | relative_url }}" alt="Cadran" style="margin: 0 auto;display: block; width: 300px;"/>
 <p align="center"> <em>Leon Battista Alberti</em> </p>
 
+## Fonctionnement 
+
+Son fonctionnement est simple : l’instrument comporte deux disques de cuivres ; l’un, fixe, est gravé de l’alphabet (exceptées les lettres H, J, K, U, W et Y) et des chiffres 1, 2, 3 et 4 ; l’autre, mobile, est composé d’un alphabet de substitution en désordre (sauf le w, et le u remplace le v). Les deux correspondants sont équipés du même cadran et conviennent au préalable d’une lettre index. Le chiffreur choisit une lettre du disque mobile qu’il place sous la lettre index et l’indique en minuscule au début du message. Pour chiffrer, il suffit de remplacer les lettres originelles par celles du disque mobile : il s’agit alors d’une substitution monoalphabétique. Mais il suffit de changer la position du disque, en le précisant par une nouvelle minuscule, pour générer un nouvel alphabet : il s’agit alors d’un chiffrement polyalphabétique. Alberti va plus loin en associant aux groupes de chiffres de 11 à 4444 des significations particulières, établies sur un document préparé à l’avance : ainsi lorsque l’on obtient 14 après avoir déchiffré, cela signifie “passez à l’attaque”. On parle alors de “surchiffrement”, puisque l’on cumule plusieurs chiffrements différents successifs.
+
+## Exemple
+
 Exemple avec lettre index A et le disque mobile ci-dessous :
 * message en clair : `Alberti est génial`
 * Message codé : `x xekmbsl v dfc m aebgmq`
@@ -29,6 +34,3 @@ Exemple avec lettre index A et le disque mobile ci-dessous :
 
 | **Clair**   |A |L|B|E|R|T|I|E |S|T|G |E|N|I|A|L|
 | **Chiffre** |xX|E|K|M|B|S|L|vD|F|C|mA|E|B|G|M|Q|
-
-
-Son fonctionnement est simple : l’instrument comporte deux disques de cuivres ; l’un, fixe, est gravé de l’alphabet (exceptées les lettres H, J, K, U, W et Y) et des chiffres 1, 2, 3 et 4 ; l’autre, mobile, est composé d’un alphabet de substitution en désordre (sauf le w, et le u remplace le v). Les deux correspondants sont équipés du même cadran et conviennent au préalable d’une lettre index. Le chiffreur choisit une lettre du disque mobile qu’il place sous la lettre index et l’indique en minuscule au début du message. Pour chiffrer, il suffit de remplacer les lettres originelles par celles du disque mobile : il s’agit alors d’une substitution monoalphabétique. Mais il suffit de changer la position du disque, en le précisant par une nouvelle minuscule, pour générer un nouvel alphabet : il s’agit alors d’un chiffrement polyalphabétique. Alberti va plus loin en associant aux groupes de chiffres de 11 à 4444 des significations particulières, établies sur un document préparé à l’avance : ainsi lorsque l’on obtient 14 après avoir déchiffré, cela signifie “passez à l’attaque”. On parle alors de “surchiffrement”, puisque l’on cumule plusieurs chiffrements différents successifs.
