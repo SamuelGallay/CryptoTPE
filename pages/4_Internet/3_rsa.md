@@ -61,6 +61,4 @@ Aujourd'hui les ordinateurs peuvent factoriser des nombres produits de deux prem
 Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message avec le même $$ n $$ à Bob, Chris, et Daniel, Eve peut aisément, sans factoriser $$ n $$, retrouver le message. \\
 Nous précisons en outre que la méthode présentée ici est la primitive ; dans un souci de sécurité, elle s'est considérablement complexifiée au fil du temps, mais nous nous bornons au principe initial. 
 
-
-
-
+On parle de Kerckoffs ???
