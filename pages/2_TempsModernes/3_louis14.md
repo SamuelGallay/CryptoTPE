@@ -11,18 +11,10 @@ Dans un contexte de ravivement des guerres de religion après la mort prématur�
 <img src="{{ "/assets/2_TempsModernes/rochelle.jpg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; width:400px; "/>
 <p align="center"> <em> Richelieu au siège de la Rochelle, Henri-Paul Motte, 1881 </em> </p>
 
-![rochelle]({{ "/assets/2_TempsModernes/rochelle.jpg" | relative_url }})
-
-*Richelieu au siège de la Rochelle*, Henri-Paul Motte, 1881
-
 Son oeuvre majeure est l’invention, avec son fils Bonaventure, d’un code inviolable, le “grand chiffre”. Utilisé pour les affaires du royaume comme pour la correspondance secrète du Roi, ce code tient en échec toutes les tentatives de déchiffrement ennemies et des cryptanalystes modernes car après la mort du petit-fils d’Antoine Rossignol (il y avait bien une lignée de cryptologues), la clé a été perdue. Ce n’est que dans les années 1890 qu’Etienne Bazeries, militaire français, parvient à déchiffrer le fameux Chiffre et la correspondance de Louis XIV est enfin dévoilée.
 
 <img src="{{ "/assets/2_TempsModernes/rossignol.jpg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; width:400px; "/>
 <p align="center"> <em> Antoine Rossignol </em> </p>
-
-![rossignol]({{ "/assets/2_TempsModernes/rossignol.jpg" | relative_url }})
-
-*Antoine Rossignol*
 
 Ce système est un codage par répertoire désordonné : chaque nombre correspond à une syllabe ou parfois à une lettre. Ainsi 124 signifiait “les”, 22 “en”, 345 “s”. Le nombre 57 signifie même qu’il faut effacer le précédent. Les correspondants doivent chacun posséder un exemplaire du répertoire permettant de chiffrer et déchiffrer les messages.
 
