@@ -5,6 +5,8 @@ suivante: /polybe/
 partie: "L'Antiquité"
 ---
 
+## Eléments de contexte
+
 La scytale est le premier système de cryptographie connu. Il a été utilisé à des fins militaires lors des guerres médiques qui ont opposé la Perse et les cités autonomes de Grèce au Ve siècle avant J-C.
 
 Ces dernières ont été déclenchées par la révolte des cités grecques d’Ionie (littoral d’Asie Mineure) contre la domination perse. Les deux expéditions militaires des souverains perses Darius Ier et Xerxès Ier constituent les principaux épisodes militaires de ce conflit ; elles se sont conclus par la victoire spectaculaire des cités grecques européennes conduites par Athènes et Sparte.
@@ -24,8 +26,16 @@ Plutarque, philosophe majeur de la Rome antique d’origine grec ayant vécu au 
 
 > *Tome 2 (traduction d'Alexis Pierron), Vie de Lysandre, p. 379.*
 
+## Modélisation mathématique et fonctionnement
+
 Mathématiquement, on peut traduire cette technique de la manière suivante. On appelle T le nombre de lettres par tour de ruban (ce qui revient à connaître la taille du cylindre) et L le nombre de tours de ruban, c’est à dire la taille du message que l’on veut transmettre ou encore le nombre de lettres du message. Enfin, on nomme N le nombre total de lettres écrites sur le ruban.On peut ainsi dire que TxL = N. La personne en possession du ruban connaît forcément N (il lui suffit de compter le nombre de lettres inscrites), elle peut donc décoder le message si elle connaît T ou L.
 
-*Exemple* : Imaginons que le texte à transmettre soit “Sparte” (6 lettres) et que la scytale ait un diamètre tel qu’on puisse y enrouler 3 lettres par tour. Le ruban déplié contiendra 6*3=18 lettres. Si un Perse intercepte le message et sait que ce dernier contient un mot de 6 lettres, il lui est facile de retrouver la taille de la scytale lui permettant de lire le message secret. En effet, si TxL=N alors T = N/L donc dans notre cas T = 18/6 = 3. Le Perse sait alors qu’il lui faut un cylindre permettant d’enrouler 3 lettres et peut lire le message en clair.
+## Exemple
 
-La méthode est restée très longtemps infaillible. Les Spartiates étaient les seuls au courant du procédé de cryptographie emplyé et transportaient le message sous forme d’une bande de cuir, l’utilisant comme ceinture, les lettres tournées vers l’intérieur. Elle a permis à de nombreuses indications militaires de passer de Sparte en Perse grâce à des messagers à cheval. La scytale est un chiffrement par transposition, ingénieux pour l’époque mais beaucoup trop simple à déchiffrer de nos jours. En outre, elle est complètement inadaptée à nos besoins actuels de cryptographie virtuelle. En effet, cette méthode est faite pour être utilisée de façon concrète, avec une bande de cuir et un cylindre.
+Imaginons que le texte à transmettre soit “Sparte” (6 lettres) et que la scytale ait un diamètre tel qu’on puisse y enrouler 3 lettres par tour. Le ruban déplié contiendra 6*3=18 lettres. Si un Perse intercepte le message et sait que ce dernier contient un mot de 6 lettres, il lui est facile de retrouver la taille de la scytale lui permettant de lire le message secret. En effet, si TxL=N alors T = N/L donc dans notre cas T = 18/6 = 3. Le Perse sait alors qu’il lui faut un cylindre permettant d’enrouler 3 lettres et peut lire le message en clair.
+
+## A vous de jouer
+
+Ce message représente un parchemin à enrouler autour d'une scytale d'un diamètre tel qu'on lit 3 lettres par tour. Tentez de le déchiffrer. Petit indice : c'est une citation du philosophe grec Platon.
+
+dsfojknicnwrezf egntqe tvduku rlpemgcxeefsvrqrdlahyseb
