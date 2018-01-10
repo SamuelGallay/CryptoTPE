@@ -12,8 +12,12 @@ permalink: /sources/
 * Entre Image et écriture *Les Grands Dossier des Sciences Humaines*, Juin-Août 2008, n°11
 * Le monde arabo-musulman les capitales de la connaissance *Les Cahiers Sciences et vie*, Mai 2013, n°137
 * L'ère d'Internet : Les enjeux d'un réseau global *Dossier pour la science*, Janvier-Mars 2010, n°66
+* Glossaire, *Le Point références Mathématiques*, février-mars 2017
 # Livres
 * Singh, Simon. Histoire des codes secrets. JC Lattès, 1999
 # Sites Web
 * Cryptographie et codes secrets. Bibmath.net [en ligne]. crée en 1999. [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma) et [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des)
+* Entrée en guerre des Etats-Unis en 1917. Chemin de mémoire. 25/11/2017.
+http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
+* Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883
 # Images
