@@ -34,7 +34,7 @@ Mathématiquement, on peut traduire cette technique de la manière suivante. On 
 
 Imaginons que le texte à transmettre soit “Sparte” (6 lettres) et que la scytale ait un diamètre tel qu’on puisse y enrouler 3 lettres par tour. Le ruban déplié contiendra 6*3=18 lettres. Si un Perse intercepte le message et sait que ce dernier contient un mot de 6 lettres, il lui est facile de retrouver la taille de la scytale lui permettant de lire le message secret. En effet, si TxL=N alors T = N/L donc dans notre cas T = 18/6 = 3. Le Perse sait alors qu’il lui faut un cylindre permettant d’enrouler 3 lettres et peut lire le message en clair.
 
-## A vous de jouer
+## A vous de jouer !
 
 Ce message représente un parchemin à enrouler autour d'une scytale d'un diamètre tel qu'on lit 3 lettres par tour. Tentez de le déchiffrer. Petit indice : c'est une citation du philosophe grec Platon.
 
