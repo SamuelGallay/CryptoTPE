@@ -6,15 +6,14 @@ suivante: /cesar/
 partie: "L'Antiquité"
 ---
 
-## Le carré de Polybe
 
-Le carré de Polybe a été inventé aux environs de 150 avant J-C en Grèce. C'est le premier système de chiffrement par substitution connu.
+Le carré de Polybe a été inventé aux environs de 150 avant J-C en Grèce. C'est le premier système de chiffrement par [substitution monoalphabétique]({{ "/glossaire/" | relative_url }})connu.
 
-### Polybe
+## Polybe
 
 Polybe (203 avant J-C - 126 av. J-C) était un historien grec à qui l’on doit une oeuvre considérable traitant notamment du fonctionnement de la République et de la Guerre Punique. Il est né en Arcadie mais fut pris comme otage par Rome en 167 av. J-C. Il devient, après sa libération, un proche de certaines élites romaines de la République romaine. Il est mandaté comme diplomate par le Sénat en Espagne, en Gaule et en Mauréitanie avant d’avoir la charge de négocier avec les cités du Péloponnèse. Il va ensuite en Orient puis, de retour à Rome, il observe le fonctionnement des institutions et écoute les conseils d’anciens militaires. Il devient alors le mentor de Scipion Emilien et participe avec lui à la destruction de Carthage.
 
-### La chute de Cathage
+## La chute de Cathage
 
 Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et la fin de la Troisième Guerre Punique. Au début, la ville, malgré son isolement, résiste à la pression militaire de Rome et connaît même quelques succès tactiques. Mais en 147-146, grâce à l'arrivée du nouveau chef romain Scipion Emilien, petit fils adoptif de Scipion l’Africain, Carthage est méthodiquement investie. Prise d'assaut, la capitale punique est mise à sac, puis détruite. Jules César reconstruira plus tard une ville romaine sur son emplacement. Les possessions africaines de Carthage deviennent la province romaine d'Afrique. Désormais, et pour longtemps, rien ne résiste plus à Rome. Cette cité italienne parmi d'autres est devenue à la faveur des guerres puniques un empire à vocation universelle. L'année même où Carthage est rasée, les Romains s'emparent de Corinthe et transforment la Grèce prestigieuse en province ordinaire.
 
@@ -22,7 +21,7 @@ Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et l
 <img src="{{ "/assets/1_Antiquite/carthage.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Reconstitution de la ville antique de Carthage</em> </p>
 
-### Le chiffrement
+## Le chiffrement
 
 Le carré de Polybe est un système composé d’un carré de 25 cases dans lesquelles sont placés les lettres de l’alphabet (en français, le w est mis dans la même case que le v). Chaque lettre est représentée ses coordonnées dans ce carré : d’abord le chiffre de sa ligne puis celui de sa colonne. Ce système présente plusieurs avantages : la conversion de lettres en chiffres, la réduction du nombre de symboles utilisé pour coder (5) et la représentation de chaque lettre par deux éléments séparés.
 
@@ -60,7 +59,11 @@ Maintenant, nous pouvons aussi créer une grille avec un alphabet désordonné c
 
 Le message “bibliothèque de Persée” ne sera plus codé `122412322435452315425115 1415 411543441515` mais `153315133312513221435221 2421 112144452121`.
 
-### A vous de jouer !
+## Faiblesse
+
+Il est aisé de briser ce chiffrement par [analyse des fréquences]({{ "/glossaire/" | relative_url }}) car une lettre est toujours remplacée par la même combinaison de chiffres.
+
+## A vous de jouer !
 
 Le message suivant a été codé avec le carré de Polybe « classique ». Tentez de le déchiffrer. Tous les coups sont permis : la fortune sourit aux audacieux !
 
