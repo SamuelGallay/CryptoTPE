@@ -68,11 +68,12 @@ Alice et Bob sont donc chacun en possession d'une série de nombres binaires ide
 
 ## Pourquoi ce chiffrement est il sûr ?
 
-Jusqu'à présent, le protocole que nous avons présenté permet juste de transmettre une série de nombres binaires de manière très lente, mais qu'est-ce qui empèche quelqu'un d'écouter le canal quantique pour connaîre la polarisation de chacun des photons ? C'est un loi de la physique quantique, le principe d'incertitude d'Heisenerg. D'après *Wikipédia* :
+Jusqu'à présent, le protocole que nous avons présenté permet juste de transmettre une série de nombres binaires de manière très lente, mais qu'est-ce qui empêche quelqu'un d'écouter le canal quantique pour connaître la polarisation de chacun des photons ? C'est un loi de la physique quantique, le principe d'incertitude d'Heisenberg. D'après *Wikipédia* :
 
-> principe d'incertitude de Heisenberg, désigne toute inégalité mathématique affirmant qu'il existe une limite fondamentale à la précision avec laquelle il est possible de connaître simultanément deux propriétés physiques d'une même particule ; ces deux variables dites complémentaires peuvent être sa position et sa quantité de mouvement.
-
+> Le principe d'incertitude de Heisenberg désigne toute inégalité mathématique affirmant qu'il existe une limite fondamentale à la précision avec laquelle il est possible de connaître simultanément deux propriétés physiques d'une même particule ; ces deux variables dites complémentaires peuvent être sa position et sa quantité de mouvement.
 
 Autrement dit, il est prouvé de manière théorique que connaître la polarisation d'un photon est impossible.
-Un attaquant potentiel, ici Eve peut essayer de mesurer la polarisation d'un photon en placant un filtre au hasard et grace à un capteur, voir si le photon est passé ou non.
+Un attaquant potentiel, ici Eve peut essayer de mesurer la polarisation d'un photon en placant un filtre au hasard et grâce à un capteur, voir si le photon est passé ou non. Ensuite, Eve doit renvoyer un photon, polarisé dans le même sens que celui qu'elle a reçu, mais comme Bob, Eve à une chance sur deux de choisir le "bon" filtre. Si elle a choisi le bon filtre, elle peut renvoyer le photon polarisé dans la même direction que celui qu’elle a reçu, et Alice et Bob ne s’apercevront de rien. Malheureusement pour Eve, si elle a choisi le “mauvais” filtre, alors elle ne pourra pas être certaine que le photon qu’elle va renvoyer sera polarisé dans le même sens que celui qu’elle a reçu. Il y a donc de fortes chances qu’elle se trompe et que Alice et Bob ne possèdent pas les mêmes nombres binaires secrets.
+
+Pour vérifier qu’un attaquant n’écoute pas la ligne, Alice et Bob vont décider de communiquer publiquement  une partie, certains bits choisis aléatoirement, de leur clef. Si certains bits sont différents, alors il est certain qu'un attaquant à espionné le canal quantique. Il est donc **impératif** que les correspondants oublient cette clef.
 
