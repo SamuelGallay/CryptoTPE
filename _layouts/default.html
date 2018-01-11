@@ -16,7 +16,7 @@
         <h2 class="partie">{{ page.partie }}</h2>
       {% endif %}
       <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      {% if page.title == "Histoire de la Cryptographie" %}
+      {% if page.title == "Histoire de la Cryptographie!!!" %}
         <h2 class="project-tagline">Travail Personnel Encadré</h2>
       {% endif %}
  
@@ -28,7 +28,7 @@
 
        <a href="{{ "/" | relative_url }}" class="btn">Accueil</a>
       {% if site.github.is_project_page %}
-        {% if page.title == "Histoire de la Cryptographie" %}
+        {% if page.title == "Histoire de la Cryptographie, Travail Personnel Encadré" %}
           <a href="{{ site.github.repository_url }}" class="btn">Sources sur GitHub</a>
         {% endif %}
       {% endif %}
