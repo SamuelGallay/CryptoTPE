@@ -1,7 +1,7 @@
 ---
-title: Histoire de la Cryptographie, TPE
+title: Histoire de la Cryptographie
 permalink: index.html
-partie: "Accueil"
+partie: "Accueil • Travail Personnel Encadré"
 ---
 
 ## Introduction
