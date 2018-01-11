@@ -70,7 +70,8 @@ Le code ADFGVX est typique de ceux de la première Guerre Mondiale, ce ne sont q
 
 On notera aussi le célèbre télégramme de Zimmermann qui a, dans une certaine mesure, changé le cours de l'Histoire. Lorsque la guerre éclate, le 3 août 1914, le Président des États-Unis, Woodrow Wilson, souhaite observer une stricte neutralité et maintenir l'unité nationale d'un pays dont un habitant sur quatre est né à l'étranger ou de parents originaires des deux blocs antagonistes. En 1915, un sous-marin allemand coula le Lusitania un paquebot qui transportait entre autre 128 citoyens américains. Cela aurait dû décider les américains à signer leur déclaration de guerre, mais les allemands répétèrent maintes fois qu'à partir de maintenant, ils feraient attention à ne pas couler de bateaux civils.
 
-
+<img src="{{ "/assets/3_Guerres/zimmermann.jpeg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
+<p align="center"> <em> Dessin de Rollin Kirby paru dans The New York World peu après la révélation du télégramme </em> </p>
 
 Le plan de Zimmermann, ministre des affaires étrangères allemand, était de rallier le Mexique et le Japon contre les Etats-Unis avant leur entrée en guerre. Il pensait que si les Américains étaient trop occupés à combattre sur leur territoire, ils ne pourraient pas aider les anglais qui seraient alors occupés par la nouvelle flotte de 200 sous-marins allemands abattant tous leurs navires de marchandises. Pour mettre en place ce plan, il devait contacter le Mexique par un câble sous-marin, écouté par les anglais. Il chiffra donc son message et celui-ci fut rapidement intercepté au bureau du chiffre de l'amirauté. Il fut déchiffré par le révérend Montgomery avec l'aide de Nigel de Grey. ...étapes intermédiaires…
 
