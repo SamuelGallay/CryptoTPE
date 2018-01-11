@@ -46,6 +46,18 @@ Les guerres présentent un contexte propice à la cryptologie puisqu'une partie 
 ## Notre expérience
 * Notre [Compte-Rendu](experience) de l'expérience !
 
+
+
+## Parties
+
+* [Antiquité](antiquite)
+* [Temps Modernes](temps-modernes)
+* [Les Guerres Mondiales](guerres)
+* [L'ère d'internet](internet)
+
+
+
+
 ## Travail à faire
 * Louis XIV : Illustrer, mise en page, formules... dites moi ce que vous en pensez 
 * Ne pas hésiter à sauter des lignes
