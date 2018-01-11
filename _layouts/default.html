@@ -28,7 +28,7 @@
 
        <a href="{{ "/" | relative_url }}" class="btn">Accueil</a>
       {% if site.github.is_project_page %}
-        {% if page.title == "Histoire de la Cryptographie, Travail Personnel Encadré" %}
+        {% if page.permalink == index.html %}
           <a href="{{ site.github.repository_url }}" class="btn">Sources sur GitHub</a>
         {% endif %}
       {% endif %}
