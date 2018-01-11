@@ -77,3 +77,4 @@ Un attaquant potentiel, ici Eve peut essayer de mesurer la polarisation d'un pho
 
 Pour vérifier qu’un attaquant n’écoute pas la ligne, Alice et Bob vont décider de communiquer publiquement  une partie, certains bits choisis aléatoirement, de leur clef. Si certains bits sont différents, alors il est certain qu'un attaquant à espionné le canal quantique. Il est donc **impératif** que les correspondants oublient cette clef.
 
+Plus Alice et Bob partagent de nombres binaires publiquement, plus ils seront sûrs de la sûreté de leur communication.
