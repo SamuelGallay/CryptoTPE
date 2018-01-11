@@ -30,7 +30,7 @@ Pour garder contact avec ses généraux, César utilisait un procédé de chiffr
 
 ### Fonctionnement
 
-Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou vers la gauche.
+Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou vers la gauche : il s'agit d'un [chiffrement par substitution monoalphabétique]({{ "/glossaire/" | relative_url }}).
 
 Il est décrit par l’historien romain Suétone dans Vies des douze Césars, Livre premier, César, LVI publié entre 119 et 122 :
  > « Extant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset: quae si qui investigare et persequi velit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet. »
