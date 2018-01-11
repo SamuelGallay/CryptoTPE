@@ -67,3 +67,12 @@ On voit que une mesure de Bob sur deux est inutile, il faut donc les éliminer. 
 Alice et Bob sont donc chacun en possession d'une série de nombres binaires identiques.
 
 ## Pourquoi ce chiffrement est il sûr ?
+
+Jusqu'à présent, le protocole que nous avons présenté permet juste de transmettre une série de nombres binaires de manière très lente, mais qu'est-ce qui empèche quelqu'un d'écouter le canal quantique pour connaîre la polarisation de chacun des photons ? C'est un loi de la physique quantique, le principe d'incertitude d'Heisenerg. D'après *Wikipédia* :
+
+> principe d'incertitude de Heisenberg, désigne toute inégalité mathématique affirmant qu'il existe une limite fondamentale à la précision avec laquelle il est possible de connaître simultanément deux propriétés physiques d'une même particule ; ces deux variables dites complémentaires peuvent être sa position et sa quantité de mouvement.
+
+
+Autrement dit, il est prouvé de manière théorique que connaître la polarisation d'un photon est impossible.
+Un attaquant potentiel, ici Eve peut essayer de mesurer la polarisation d'un photon en placant un filtre au hasard et grace à un capteur, voir si le photon est passé ou non.
+
