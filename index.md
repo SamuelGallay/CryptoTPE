@@ -1,5 +1,5 @@
 ---
-title: Histoire de la Cryptographie
+title: Histoire de la Cryptographie, Travail Personnel Encadré
 permalink: index.html
 partie: "Accueil"
 ---
