@@ -12,10 +12,10 @@ Elle permet de faire la cryptanalyse des textes chiffrés par substitution monoa
 
 **Chiffrement asymétrique** : chiffrement qui utilise deux clefs distinctes pour chiffrer et déchiffrer. En pratique.
 
-**Chiffrement par substitution monoalphabétique** : chiffrement dans lequel une lettre claire est toujours remplacée par le même signe, qu'il s'agisse d'une lettre ou d'un chiffre, dans le message chiffré. Exemple : le [carré de Polybe](polybe) et le [chiffre de César](cesar)
+**Chiffrement par substitution monoalphabétique** : chiffrement dans lequel une lettre claire est toujours remplacée par le même signe, qu'il s'agisse d'une lettre ou d'un chiffre, dans le message chiffré. Exemple : le [carré de Polybe]({{ "/polybe/" | relative_url }}) et le [chiffre de César]({{ "/cesar/" | relative_url }})
 
 **Chiffrement par substitution polyalphabétique** : chiffrement dans lequel une lettre claire peut être remplacée par différents signes dans le message chiffré. 
-Exemple : [le cadran d’Alberti](alberti) et [le chiffre de Vigenère](vigenere)
+Exemple : [le cadran d’Alberti]({{ "/alberti/" | relative_url }}) et [le chiffre de Vigenère]({{ "/vigenere/" | relative_url }})
 
 **Chiffrement symétrique** : chiffrement dont la clef permet le chiffrement et le déchiffrement.
 
