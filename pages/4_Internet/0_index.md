@@ -1,6 +1,7 @@
 ---
 title: L'ère d'Internet
 permalink: /internet/
+precedente: /guerres/
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}">

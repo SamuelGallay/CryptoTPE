@@ -1,6 +1,8 @@
 ---
 title: Les Guerres Mondiales
 permalink: /guerres/
+precedente: /temps-modernes/
+suivante: /internet/
 ---
 
 

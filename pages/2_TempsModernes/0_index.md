@@ -1,6 +1,8 @@
 ---
 title: La Renaissance et les Temps Modernes
 permalink: /temps-modernes/
+precedente: /antiquite/
+suivante: /guerres/
 ---
 
 
