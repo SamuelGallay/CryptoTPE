@@ -26,14 +26,14 @@ suivante: /internet/
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-fonctionnement/" | relative_url }}';">
      <h2 style="color:white;">Enigma, Fonctionnement</h2>
-     <p>1939-1945</p>
+     <p>Années 30-40</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-cryptanalyse/" | relative_url }}';">
      <h2 style="color:white;">Enigma, Cryptanalyse</h2>
-     <p>1939-1945</p>
+     <p>Années 30-40</p>
    </div>
  </div>
 
