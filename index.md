@@ -29,28 +29,28 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/antiquite/" | relative_url }}';">
      <h2 style="color:white;">L'Antiquité</h2>
-     <p>Lorem ipsum..</p>
+     <p>Du Vème avant notre aire au IXe siècle de notre aire</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/temps-modernes/" | relative_url }}';">
      <h2 style="color:white;">La Renaissance et les Temps Modernes</h2>
-     <p>Lorem ipsum..</p>
+     <p>Du XVe au XIXème siècle</p>
    </div>
  </div>
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/guerres/" | relative_url }}';">
      <h2 style="color:white;">Les Guerres Mondiales</h2>
-     <p>Lorem ipsum..</p>
+     <p>De 1914 à 1945</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/internet/" | relative_url }}';">
      <h2 style="color:white;">L'ère d'Internet</h2>
-     <p>Lorem ipsum..</p>
+     <p>De l'après-guerre à nos jours</p>
    </div>
  </div>
 
