@@ -12,11 +12,8 @@ menu: /antiquite/
 
 À partir de cette date, le califat est centralisé à Bagdad, ceci afin d’affirmer une continuité avec les grands États moyen-orientaux de l’Antiquité : les royaumes assyriens et babyloniens, et surtout les empires perses. Comme le feront plus tard les Occidentaux à la Renaissance, les Abbassides, dans l’ancienne Mésopotamie ou à Alexandrie, utilisent les connaissances scientifiques grecques pour bâtir la science arabe. L'unité linguistique du territoire favorise la construction d’une connaissance globale : tous les textes grecs (Euclide, Aristote, Archimède, Démocrite…) à disposition sont traduits en Arabe et tous les savants de la période écrivent dans cette langue. De plus, le développement des voies de communication et la technique de fabrication du papier ont permis un meilleur échange de connaissances entre les scientifiques.
 
-
-![maison-de-la-sagesse]({{ "/assets/1_Antiquite/maison-de-la-sagesse.jpg" | relative_url }}){: .center-image }
-<p align="center"> <em>La maison de la sagesse, dont le bâtiment demeure aujourd'hui</em> </p>
-
-
+<img src="{{ "/assets/1_Antiquite/maison-de-la-sagesse.jpg" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 800px;"/>
+<p align="center"> <em>La Maison de la sagesse, dont le bâtiment demeure aujourd'hui</em> </p>
 
 C’est au IXe siècle que la civilisation arabe connaît son apogée, notamment scientifique.
 Le calife Al-Mamun crée une Maison de la sagesse à Bagdad : c’est alors un centre culturel majeur où échangent des mathématiciens de tous horizons.
