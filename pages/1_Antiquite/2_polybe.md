@@ -16,7 +16,7 @@ Le carré de Polybe a été inventé aux environs de 150 avant J-C en Grèce. C'
 
 Polybe (203 avant J-C - 126 av. J-C) était un historien grec à qui l’on doit une oeuvre considérable traitant notamment du fonctionnement de la République et de la Guerre Punique. Il est né en Arcadie mais fut pris comme otage par Rome en 167 av. J-C. Il devient, après sa libération, un proche de certaines élites romaines de la République romaine. Il est mandaté comme diplomate par le Sénat en Espagne, en Gaule et en Mauréitanie avant d’avoir la charge de négocier avec les cités du Péloponnèse. Il va ensuite en Orient puis, de retour à Rome, il observe le fonctionnement des institutions et écoute les conseils d’anciens militaires. Il devient alors le mentor de Scipion Emilien et participe avec lui à la destruction de Carthage.
 
-<img src="{{ "/assets/1_Antiquite/carthage.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;"/>
+<img src="{{ "/assets/1_Antiquite/scipion-polybe.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Scipion Emelien et Polybe dans Carthage, gravure de Jacob Buys, fin du XVIIIème siècle</em> </p>
 
 ### La chute de Cathage
