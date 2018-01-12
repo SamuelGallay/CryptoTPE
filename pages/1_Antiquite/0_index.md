@@ -11,28 +11,28 @@ suivante: /temps-modernes/
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/scytale/" | relative_url }}';">
      <h2 style="color:white;">La Scytale</h2>
-     <p>Lorem ipsum..</p>
+     <p>Ve siècle avant J-C</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/polybe/" | relative_url }}';">
      <h2 style="color:white;">Le Carré de Polybe</h2>
-     <p>Lorem ipsum..</p>
+     <p>150 avant J-C</p>
    </div>
  </div>
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/cesar/" | relative_url }}';">
      <h2 style="color:white;">Le Chiffre de César</h2>
-     <p>Lorem ipsum..</p>
+     <p>Ier siècle avant J-C</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/al-kindi/" | relative_url }}';">
      <h2 style="color:white;">Al-Kindi</h2>
-     <p>Lorem ipsum..</p>
+     <p>IXème siècle après J-C</p>
    </div>
  </div>
 
