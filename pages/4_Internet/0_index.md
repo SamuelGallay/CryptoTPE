@@ -31,7 +31,7 @@ precedente: /guerres/
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/quantique/" | relative_url }}';">
      <h2 style="color:white;">La Cryptographie Quantique</h2>
-     <p>AUjourd'hui et demain</p>
+     <p>Aujourd'hui et demain</p>
    </div>
  </div>
 
