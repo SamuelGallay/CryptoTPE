@@ -12,28 +12,28 @@ suivante: /guerres/
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/alberti/" | relative_url }}';">
      <h2 style="color:white;">Alberti</h2>
-     <p>Lorem ipsum..</p>
+     <p>XVème siècle</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/vigenere/" | relative_url }}';">
      <h2 style="color:white;">Vigenère</h2>
-     <p>Lorem ipsum..</p>
+     <p>XVIème siècle</p>
    </div>
  </div>
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/louis14/" | relative_url }}';">
      <h2 style="color:white;">Louis XIV</h2>
-     <p>Lorem ipsum..</p>
+     <p>XVIIème siècle</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/cryptanalyse-vigenere/" | relative_url }}';">
      <h2 style="color:white;">Cryptanalyse de Vigenère</h2>
-     <p>Lorem ipsum..</p>
+     <p>XIXème siècle</p>
    </div>
  </div>
 
