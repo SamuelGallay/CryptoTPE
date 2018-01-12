@@ -38,18 +38,6 @@ precedente: /guerres/
 </div>
 
 
-# Hello
-
-## **IT WORKS !!!**
-
-background-color: #474e5d;
-
-background-image: linear-gradient(90deg, #155799, #159957);
-
-#159957 : vert
-
-
-## L'ère d'Internet
 * [Le DES]({{ "/des/" | relative_url }})
 * [Le Diffie-Hellman]({{ "/diffie-hellman/" | relative_url }})
 * [Le RSA]({{ "/rsa/" | relative_url }})
