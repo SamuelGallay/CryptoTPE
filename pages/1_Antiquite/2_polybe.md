@@ -32,14 +32,14 @@ Il fut utilisé pendant très longtemps et notamment par les nihilistes russes a
 
 Il existe plusieurs variantes à ce carré comme celle qui remplace les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres). Une autre variante consiste donc à remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. On peut aussi remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes.
 
-<p align="center">
+
 |       | 1 | 2 | 3 | 4 | 5 |
 |-------|---|---|---|---|---|
 | **1** | A | B | C | D | E |
 | **2** | F | G | H | I | J |
 | **3** | K | L | M | N | O |
 | **4** | P | Q | R | S | T |
-| **5** | U | V | X | Y | Z | </p>
+| **5** | U | V | X | Y | Z | 
 
 * Message en clair : `Polybe a eu accès à la bibliothèque de Persée`
 
