@@ -12,28 +12,28 @@ suivante: /internet/
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/adfgvx/" | relative_url }}';">
      <h2 style="color:white;">ADFGVX</h2>
-     <p>Lorem ipsum..</p>
+     <p>1918</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-contexte/" | relative_url }}';">
      <h2 style="color:white;">Enigma, Contexte</h2>
-     <p>Lorem ipsum..</p>
+     <p>1939-1945</p>
    </div>
  </div>
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-fonctionnement/" | relative_url }}';">
      <h2 style="color:white;">Enigma, Fonctionnement</h2>
-     <p>Lorem ipsum..</p>
+     <p>1939-1945</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-cryptanalyse/" | relative_url }}';">
      <h2 style="color:white;">Enigma, Cryptanalyse</h2>
-     <p>Lorem ipsum..</p>
+     <p>1939-1945</p>
    </div>
  </div>
 
