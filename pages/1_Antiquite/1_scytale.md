@@ -40,7 +40,7 @@ Imaginons que le texte à transmettre soit “Sparte” (6 lettres) et que la sc
 
 ## Faiblesse
 
-Lorsque l'on sait que le texte a été chiffré avec la scytale, on peut essayer de lire une lettre sur deux, sur trois, sur quatre, jusqu'à que le texte prenne sens : cela revient à essayer tous les "T" possible. Il s'agit d'une [attaque par force brute](glossaire) qu'il est fort aisé de réaliser.
+Lorsque l'on sait que le texte a été chiffré avec la scytale, on peut essayer de lire une lettre sur deux, sur trois, sur quatre, jusqu'à que le texte prenne sens : cela revient à essayer tous les "T" possible. Il s'agit d'une [attaque par force brute]({{ "/glossaire/" | relative_url }}) qu'il est fort aisé de réaliser.
 
 
 ## A vous de jouer !
