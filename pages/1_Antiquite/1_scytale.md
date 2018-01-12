@@ -15,7 +15,7 @@ Ces dernières ont été déclenchées par la révolte des cités grecques d’I
 Des plans d’invasions sophistiqués y ont vu le jour et, pour la première fois, il est apparu nécessaire d’établir un moyen de communication secret entre le front et l’arrière. La scytale fut alors inventée dans la cité de Sparte.
 
 <img src="{{ "/assets/1_Antiquite/guerres-mediques.jpg" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
-<p align="center"> <em>Carte légendée des gueres médiques</em> </p>
+<p align="center"> <em>Carte légendée des guerres médiques</em> </p>
 
 Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê a un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Ce dispositif n’existait que chez les Lacédémoniens et seuls les éphores et les généraux de la cité en connaissaient le procédé.
 
