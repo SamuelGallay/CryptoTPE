@@ -29,7 +29,7 @@ Cette répétition de 3 lettres permit à Marian Rejewski de retrouver l’ordre
 * La lettre ‘U’ est chiffrée par la lettre ‘A’ quand le rotor est en première position mais est chiffrée par ‘Q’ quand le rotor est en 4ème position.
 * On peut en déduire que quand le 1er rotor tourne de 3 crans, il passe de la lettre ‘A’ à ‘Q’. Donc on a une information sur le câblage interne du rotor.
 
-L’astuce révolutionnaire de Marian est qu’il a divisé le problème de la recherche de l’ordre de des lettres sur le rotor de celui de la recherche des associations sur le tableau de fiches. Le tableau de fiches augmente en effet le nombre de clefs possibles d’environ 1,5 x 1014.
+L’astuce révolutionnaire de Marian est qu’il a divisé le problème de la recherche de l’ordre de des lettres sur le rotor de celui de la recherche des associations sur le tableau de fiches. Le tableau de fiches augmente en effet le nombre de clefs possibles d’environ $$ 1,5 \times 1014 $$.
 On peut rechercher la position des lettres sur les rotors sans se soucier des fiches, car le tableau de connection, contrairement au rotors est immobile. Dans la même journée, une lettre ‘A’ entrant dans le tableau de fiches ressortira transformée en une autre, comme ‘H’, mais cette association persistera tout au long du message.
 
 En analysant les 6 premiers caractères de plusieures dizaines de messages de la même journée Marian parvint à un tableau associant chaque lettre de avec laquelle était chiffrée un caractère de la clef avec le rotor en 1ere position et la lettre avec laquelle était chiffré ce même caractère avec le rotor en 4eme position.
