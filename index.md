@@ -65,4 +65,26 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 * Et notre [Glossaire](glossaire) !
 
 
-* Une [page d'exemple](exemple), pour tester n'importe quoi !
+## Travail à faire
+* Louis XIV : Illustrer, mise en page, formules... dites moi ce que vous en pensez
+* Ne pas hésiter à sauter des lignes
+  * Contexte enigma
+* Formules propres :
+  * `\bmod`pour faire le modulo
+  * Fonctionnement d'Enigma nb possibilités
+  * Cryptanalyse d'Enigma nb possibilités
+* Rédiger
+  * [Le RSA](rsa)
+  * [La Cryptographie sur Courbes Elliptiques](ecc)
+  * [La Cryptographie Quantique](quantique)
+* Les Sources
+* [Glossaire](glossaire)
+* Rédiger Page d'Accueil / Introductions
+Je vous propose la chose suivante : boutons suivants et précédents en bas et en haut 8 boutons pour faire un menu : Accueil/Antiquité/Renaissance/Guerres/Internet/Bilan-Conclu/Glossaire/Sources !
+
+## Liens vers les (autres) pages du site
+
+* [Page d'exemple \| Pour tester n'importe quoi !](exemple)
+* [Le JavaScript](javascript)
+
+# [Sources](sources)
