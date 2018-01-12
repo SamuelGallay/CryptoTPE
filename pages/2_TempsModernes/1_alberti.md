@@ -3,6 +3,7 @@ title: Le cadran d’Alberti et la mécanisation du chiffrement
 permalink: /alberti/
 suivante: /vigenere/
 partie: Les Temps Modernes
+menu: /temps-modernes/
 ---
 
 # Le cadran d’Alberti : La mécanisation du chiffrement
@@ -21,7 +22,7 @@ L’usage de la cryptologie se répand en Italie aux XVe et XVIe siècles car le
 
 C’est un architecte, mathématicien, linguiste, véritable archétype de l’humaniste de la Renaissance, Leon Battista Alberti, qui trouve la parade en 1467 avec son cadran chiffrant : c’est la naissance de la substitution polyalphabétique, qui dilue la fréquence d’apparition des lettres.
 
-## Fonctionnement 
+## Fonctionnement
 
 <img src="{{ "/assets/2_TempsModernes/cadran.png" | relative_url }}" alt="Cadran" style="margin: 0 auto;display: block; width: 400px;"/>
 

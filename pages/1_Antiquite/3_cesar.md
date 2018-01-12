@@ -4,6 +4,7 @@ permalink: /cesar/
 precedente: /polybe/
 suivante: /al-kindi/
 partie: "L'Antiquité"
+menu: /antiquite/
 ---
 
 ## Le chiffre de César

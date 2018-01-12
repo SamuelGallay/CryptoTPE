@@ -3,6 +3,7 @@ title: Compte-rendu d'expérience
 permalink: /experience/
 precedente: /cryptanalyse-vigenere/
 partie: "Les Temps Modernes"
+menu: /temps-modernes/
 ---
 
 

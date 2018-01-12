@@ -3,6 +3,7 @@ title: La scytale
 permalink: /scytale/
 suivante: /polybe/
 partie: "L'Antiquité"
+menu: /antiquite/
 ---
 
 ## Eléments de contexte

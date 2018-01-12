@@ -1,8 +1,9 @@
 ---
 title: "La Cryptographie Quantique"
-precedente: /ecc/
+precedente: /rsa/
 permalink: /quantique/
 partie: "L'ère d'Internet, et après ?"
+menu: /internet/
 ---
 
 La *Cryptographie Quantique* que nous allons vous exposer n'est pas a proprement parler une nouvelle forme de cryptographie dans le sens où elle n'offre pas de nouveau protocole de chiffrement. Elle offre en revanche un moyen extrêmement sécurisé de transmettre un message aléatoire et secret entre deux correspondants. On parle de *distribution quantique des clefs.*

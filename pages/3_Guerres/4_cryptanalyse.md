@@ -3,6 +3,7 @@ title: "La cryptanalyse d'Enigma"
 permalink: /enigma-cryptanalyse/
 precedente: /enigma-fonctionnement/
 partie: "Seconde Guerre Mondiale"
+menu: /guerres/
 ---
 
 Dès 1920, plusieurs réseaux de renseignements se sont attaqués à la version commerciale d’Enigma, mais aucune méthode de cryptanalyse traditionnelle n’a abouti et le chiffrement a été considéré comme inviolable.

@@ -4,6 +4,7 @@ precedente: /des/
 permalink: /diffie-hellman/
 suivante: /rsa/
 partie: "L'ère d'Internet"
+menu: /internet/
 ---
 
 ## Le protocole d'échange de clefs Diffie-Hellman
@@ -16,17 +17,17 @@ Dans les années 70, une nouvelle problématique émerge : bien que les chiffrem
 Avec l’informatique, ils doivent pouvoir s’échanger au travers de messages (de fait publics) la clef.
 
 Avec l'ère d'Internet, les mathématiciens s'intéressent particulièrement à la cryptograhie. \\
-Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte. 
+Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte.
 
 <img src="{{ "/assets/4_Internet/diffie-hellman.jpeg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em> Whitfield Diffie (à gauche) et Martin Hellman (à droite) </em> </p>
 
-Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisée en cryptographie moderne. 
+Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisée en cryptographie moderne.
 
 <img src="{{ "/assets/4_Internet/diffie-hellman1.png" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em> Une analogie avec de la peinture pour comprendre </em> </p>
 
-### Modélisation mathématique et fonctionnement 
+### Modélisation mathématique et fonctionnement
 
 * Alice et Bob veulent s’échanger une clé
 * Alice choisit un grand nombre premier $$ p $$ et une base $$ g $$ avec $$ g \leq p $$
@@ -50,5 +51,3 @@ En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs for
 * Bob en fait de même et obtient la clé identique : $$ 29^{15} \bmod 41 = 14 $$
 
 Alice et Bob ont bien partagé la clef 14 !
-
-

@@ -4,6 +4,7 @@ permalink: /vigenere/
 precedente: /alberti/
 suivante: /louis14/
 partie: Les Temps Modernes
+menu: /temps-modernes/
 ---
 
 ## Eléments de contexte

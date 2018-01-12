@@ -4,6 +4,7 @@ permalink: /louis14/
 precedente: /vigenere/
 suivante: /cryptanalyse-vigenere/
 partie: Les temps Modernes
+menu: /temps-modernes/
 ---
 
 Dans un contexte de ravivement des guerres de religion après la mort prématurée d’Henri IV dont le règne avait permis d’apaiser les tensions entre catholiques et protestants, le Cardinal de Richelieu, premier ministre de Louis XIII, traque activement les huguenots. Il assiège la Rochelle, bastion huguenot pendant plusieurs mois, en vain. Ayant intercepté un message à déchiffrer et ayant entendu parler par une lettre du prince de Condé des talents d’un décrypteur, Antoine Rossignol, qui avait assuré à Condé la prise de la ville de Réalmont en déchiffrant un message, il demande au jeune homme de déchiffrer le message. Rossignol y parvient : il rentre ainsi au service du Chiffre de la Couronne et devient le cryptologue le plus réputé de son temps. Il sert la diplomatie de Louis XIII, puis de Louis XIV pendant cinquante ans. Signe de son rang, son bureau est contigu à celui du Roi-Soleil. Son rôle est de décrypter les messages (cryptanalyse) et d’améliorer les principes cryptographiques existants.

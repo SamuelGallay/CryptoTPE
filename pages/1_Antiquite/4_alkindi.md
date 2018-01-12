@@ -3,11 +3,12 @@ title: La cryptanalyse d'Al-Kindi
 permalink: /al-kindi/
 precedente: /cesar/
 partie: "L'Antiquité"
+menu: /antiquite/
 ---
 
 ## Cryptanalyse des chiffrements monoalphabétiques
 
-À la mort de Mahomet, un califat dynastique appelé Omeyyade administre les territoires dominés par l’Islam. Les quatre califes Omeyyades refusent tout mouvement intellectuel profane, ce qui explique à cette période l’impossibilité de l'émergence d’une culture et d’une science dans cette région. Or, en 750 un basculement majeur s'opère : lors de la bataille du Grand Zab, les Abbassides, adversaires des Omeyyades, triomphent : c’est la fin du califat Omeyyade, remplacé par le califat Abbasside. 
+À la mort de Mahomet, un califat dynastique appelé Omeyyade administre les territoires dominés par l’Islam. Les quatre califes Omeyyades refusent tout mouvement intellectuel profane, ce qui explique à cette période l’impossibilité de l'émergence d’une culture et d’une science dans cette région. Or, en 750 un basculement majeur s'opère : lors de la bataille du Grand Zab, les Abbassides, adversaires des Omeyyades, triomphent : c’est la fin du califat Omeyyade, remplacé par le califat Abbasside.
 
 À partir de cette date, le califat est centralisé à Bagdad, ceci afin d’affirmer une continuité avec les grands États moyen-orientaux de l’Antiquité : les royaumes assyriens et babyloniens, et surtout les empires perses. Comme le feront plus tard les Occidentaux à la Renaissance, les Abbassides, dans l’ancienne Mésopotamie ou à Alexandrie, utilisent les connaissances scientifiques grecques pour bâtir la science arabe. L'unité linguistique du territoire favorise la construction d’une connaissance globale : tous les textes grecs (Euclide, Aristote, Archimède, Démocrite…) à disposition sont traduits en Arabe et tous les savants de la période écrivent dans cette langue. De plus, le développement des voies de communication et la technique de fabrication du papier ont permis un meilleur échange de connaissances entre les scientifiques.
 

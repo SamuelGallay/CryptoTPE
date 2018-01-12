@@ -4,6 +4,7 @@ permalink: /cryptanalyse-vigenere/
 suivante: /experience/
 precedente: /louis14/
 partie: Les Temps Modernes
+menu: /temps-modernes/
 ---
 
 # Les Temps Modernes
@@ -18,7 +19,7 @@ $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
 
 En calculant l'indice de coïncidence pour toutes les lettres du message modulo la taille de la clé que l'on veut tester, on peut pour la taille de la clé où cet indice est anormalement grand, affirmer que ceci est la taille de la clé du message.
 
-$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n_{i}}{n^2-n} \approx \sum_{i=a}^z \frac{n_{i}^2}{n^2} = \sum_{i=a}^z (\frac{n_{i}}{n})^2 $$ 
+$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n_{i}}{n^2-n} \approx \sum_{i=a}^z \frac{n_{i}^2}{n^2} = \sum_{i=a}^z (\frac{n_{i}}{n})^2 $$
 
 vaut si n suffisamment grand \\
 où n est la longueur du texte et $$ n_{i} $$ la fréquence d’apparition de la lettre i dans le texte

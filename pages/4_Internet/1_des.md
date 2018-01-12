@@ -3,6 +3,7 @@ title: "Le DES : Un chiffrement symétrique"
 permalink: /des/
 suivante: /diffie-hellman/
 partie: "L'ère d'Internet"
+menu: /internet/
 ---
 
 Jusque dans les années 1970, seules les hautes instances de l’Etat utilisaient la cryptographie. Elle était réservée à des applications principalement militaires et diplomatiques. Mais le besoin de protéger les communications et les données personnelles mémorisées sur les ordinateurs se fait de plus en plus pressant et pousse en 1973 le NBS (National Bureau of Standards) à publier un appel à contributions pour définir un algorithme  de  chiffrement  standard, qui serait utilisable par les entreprises qui ont besoin de protéger les fichiers et les communications sensibles.
