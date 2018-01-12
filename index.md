@@ -84,6 +84,7 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 * Les Sources
 * [Glossaire](glossaire)
 * Rédiger Page d'Accueil / Introductions
+Je vous propose la chose suivante : boutons suivants et précédents en bas et en haut 8 boutons pour faire un menu : Accueil/Antiquité/Renaissance/Guerres/Internet/Bilan-Conclu/Glossaire/Sources !
 
 ## Liens vers les (autres) pages du site
 
