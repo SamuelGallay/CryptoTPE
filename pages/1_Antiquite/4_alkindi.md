@@ -2,7 +2,7 @@
 title: La cryptanalyse d'Al-Kindi
 permalink: /al-kindi/
 precedente: /cesar/
-partie: "L'Antiquité"
+partie: "L'Antiquité et le Moyen-Âge"
 menu: /antiquite/
 ---
 
@@ -21,7 +21,7 @@ A cette époque pacifiste, les Arabes et notamment leurs dirigeants utilisent co
 
 On peut s’étonner de la manière dont les Arabes ont acquis une place si importante dans l’histoire des codes secrets à partir des méthodes existantes. C’est qu’Ils ont justement pour la première fois de l’histoire réussi à les briser ! Et c’est de là que, grâce à cette curiosité intellectuelle, est née la [cryptanalyse]({{ "/glossaire/" | relative_url }}).
 
-Les Arabes, historiquement, cherchaient à prouver l’authenticité et à ordonner chronologiquement les révélations de leur prophète Mahomet. Celles-ci ont certes été notées par écrit de son vivant, mais seulement par fragments. Des érudits, et notamment l’un des plus grands savants arabes, le philosophe et scientifique Al-Kindi (800-873) ont entrepris d’analyser chaque mot des textes pour savoir s’ils étaient déjà utilisés à cette époque, car en effet, certains mots sont apparus après d’autres. 
+Les Arabes, historiquement, cherchaient à prouver l’authenticité et à ordonner chronologiquement les révélations de leur prophète Mahomet. Celles-ci ont certes été notées par écrit de son vivant, mais seulement par fragments. Des érudits, et notamment l’un des plus grands savants arabes, le philosophe et scientifique Al-Kindi (800-873) ont entrepris d’analyser chaque mot des textes pour savoir s’ils étaient déjà utilisés à cette époque, car en effet, certains mots sont apparus après d’autres.
 
 <img src="{{ "/assets/1_Antiquite/alkindi.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 300px;"/>
 <p align="center"> <em>Le savant Al-Kindi</em> </p>

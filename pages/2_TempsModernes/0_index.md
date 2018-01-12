@@ -11,29 +11,29 @@ suivante: /guerres/
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/alberti/" | relative_url }}';">
-     <h2 style="color:white;">Alberti</h2>
-     <p>XVème siècle</p>
+     <h2 style="color:white;">Le cadran d'Alberti</h2>
+     <p>Premier chiffrement polyalphabétique, XV<SUP>ème</SUP> siècle</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/vigenere/" | relative_url }}';">
-     <h2 style="color:white;">Vigenère</h2>
-     <p>XVIème siècle</p>
+     <h2 style="color:white;">Le carré de Vigenère</h2>
+     <p>XVI<SUP>ème</SUP> siècle</p>
    </div>
  </div>
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/louis14/" | relative_url }}';">
      <h2 style="color:white;">Louis XIV</h2>
-     <p>XVIIème siècle</p>
+     <p>Chiffre du Roi au XVII<SUP>ème</SUP> siècle</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/cryptanalyse-vigenere/" | relative_url }}';">
-     <h2 style="color:white;">Cryptanalyse de Vigenère</h2>
-     <p>XIXème siècle</p>
+     <h2 style="color:white;">Cryptanalyse du chiffre de Vigenère</h2>
+     <p>XIX<SUP>ème</SUP> siècle</p>
    </div>
  </div>
 

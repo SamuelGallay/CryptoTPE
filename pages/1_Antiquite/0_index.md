@@ -1,5 +1,5 @@
 ---
-title: L'antiquité
+title: L'Antiquité et le Moyen-Âge
 permalink: /antiquite/
 suivante: /temps-modernes/
 ---
@@ -11,28 +11,28 @@ suivante: /temps-modernes/
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/scytale/" | relative_url }}';">
      <h2 style="color:white;">La Scytale</h2>
-     <p>Ve siècle avant J-C</p>
+     <p>Le premier système de chiffrement, au V<SUP>ème</SUP> siècle avant J.-C.</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/polybe/" | relative_url }}';">
      <h2 style="color:white;">Le Carré de Polybe</h2>
-     <p>150 avant J-C</p>
+     <p>150 avant J.-C.</p>
    </div>
  </div>
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/cesar/" | relative_url }}';">
      <h2 style="color:white;">Le Chiffre de César</h2>
-     <p>Ier siècle avant J-C</p>
+     <p>Le célèbre chiffre par substitution du I<SUP>er</SUP> siècle avant J.-C.</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/al-kindi/" | relative_url }}';">
      <h2 style="color:white;">Al-Kindi</h2>
-     <p>IXème siècle après J-C</p>
+     <p>La naissance de la cryptanalyse au IX<SUP>ème</SUP> siècle après J.-C.</p>
    </div>
  </div>
 

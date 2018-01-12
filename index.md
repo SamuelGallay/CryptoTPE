@@ -28,15 +28,15 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 
  <div class="container left">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/antiquite/" | relative_url }}';">
-     <h2 style="color:white;">L'Antiquité</h2>
-     <p>Du Vème avant notre ère au IXème siècle de notre ère</p>
+     <h2 style="color:white;">L'Antiquité et le Moyen-Âge</h2>
+     <p>Du V<SUP>ème</SUP> avant notre ère au IX<SUP>ème</SUP> siècle de notre ère</p>
    </div>
  </div>
 
  <div class="container right">
    <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/temps-modernes/" | relative_url }}';">
      <h2 style="color:white;">La Renaissance et les Temps Modernes</h2>
-     <p>Du XVème au XIXème siècle</p>
+     <p>Du XV<SUP>ème</SUP> au XIX<SUP>ème</SUP> siècle</p>
    </div>
  </div>
 
@@ -56,38 +56,13 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 
 </div>
 
-
-## Parties
-
-* [Antiquité](antiquite)
-* [Temps Modernes](temps-modernes)
-* [Les Guerres Mondiales](guerres)
-* [L'ère d'internet](internet)
+## Conclusion :
 
 
-## Notre expérience
+## Regardez aussi :
 * Notre [Compte-Rendu](experience) de l'expérience !
+* Nos [Sources](sources)
+* Et notre [Glossaire](glossaire) !
 
 
-## Travail à faire
-* Louis XIV : Illustrer, mise en page, formules... dites moi ce que vous en pensez
-* Ne pas hésiter à sauter des lignes
-  * Contexte enigma
-* Formules propres :
-  * `\bmod`pour faire le modulo
-  * Fonctionnement d'Enigma nb possibilités
-  * Cryptanalyse d'Enigma nb possibilités
-* Rédiger
-  * [Le RSA](rsa)
-  * [La Cryptographie sur Courbes Elliptiques](ecc)
-  * [La Cryptographie Quantique](quantique)
-* Les Sources
-* [Glossaire](glossaire)
-* Rédiger Page d'Accueil / Introductions
-
-## Liens vers les (autres) pages du site
-
-* [Page d'exemple \| Pour tester n'importe quoi !](exemple)
-* [Le JavaScript](javascript)
-
-# [Sources](sources)
+* Une [page d'exemple](exemple), pour tester n'importe quoi !
