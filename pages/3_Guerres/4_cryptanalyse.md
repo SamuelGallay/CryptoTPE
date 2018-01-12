@@ -68,7 +68,6 @@ Les Allemands apportèrent des modifications au brouilleur, mais les cryptanalys
 
 Malheureusement, en 1938, les allemands modifièrent le fonctionnement du brouilleur. À la place de disposer de 3 rotors et de les arranger selon les 6 positions possibles, ils disposaient alors de 5 rotors à arranger dans les 3 emplacements. Cela donne 60 possibilités.
 
-Petit rappel pour Hugo qui en grand fan des probabilités connaît les formules des binômes de Newton par coeur :
 Quand il y a un tirage d’une quantité d’objets dans l’ordre et que l’on ne peut pas tirer deux fois le même objet, on a :
 $$ Possibilités =  \frac{(Ntotal !)}{(Ntotal - Ntirés)!} \\
 = \frac{5!}{(5-3)!}\\
@@ -97,7 +96,7 @@ On peut dire que Turing a transformé la cryptographie qui consistait en la rech
 
 La faiblesse intrinsèque d’Enigma vient du réflecteur, aucune lettre ne peut être chiffrée par elle même. Enigma est donc bien la seule machine à écrire à ne jamais écrire un ‘a’ quand on tape un ‘a’.
 
-Cette faiblesse mécanique couplée avec les maladresse des chiffreurs allemands peut aboutir à de très bons résultats. Par exemple il est arrivé que pour effectuer un test, un opérateur allemand envoya un message composé uniquement de ‘T’s. Les cryptanalystes allemands ayant reçus ce message remarquèrent aussitôt que le message chiffré ne présentait aucune occurrence de la lettre T, ils en déduisirent le message clair et la position des rotors, donc la clef du jour, par la même occasion.
+Cette faiblesse mécanique couplée avec les maladresse des chiffreurs allemands peut aboutir à de très bons résultats. Par exemple il est arrivé que pour effectuer un test, un opérateur allemand envoya un message composé uniquement de ‘T’. Les cryptanalystes allemands ayant reçu ce message remarquèrent aussitôt que le message chiffré ne présentait aucune occurrence de la lettre T, ils en déduisirent le message clair et la position des rotors, donc la clef du jour, par la même occasion.
 
 Alan Turing développe la “bombe cryptographique”, qui est en fait se rapproche en fait du premier ordinateur. La ‘bombe’ permet premièrement d’identifier les emplacements possibles d’un mot probable, comme ‘Wetter’, ou encore ‘Heil Hitler’. Il faut que aucune des lettres du texte chiffré ne soit identique à celle du mot probable. Ensuite des hypothèses sont faites sur la position initiale des rotors et sont très rapidement analysées jusqu’à tomber sur une contradiction permettant de les réfuter.
 Comme Turing travaille sur les chaînes, qui permettent de séparer le problème du brouilleur de celui du tableau de fiches. il montre que dès lors qu’une contradiction est détectée, on peut éliminer toutes les autres hypothèses qui entraînent celle-ci. Cela permit de minimiser considérablement le nombre de position des rotors à essayer.
