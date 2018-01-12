@@ -3,160 +3,33 @@ title: L'ère d'Internet
 permalink: /internet/
 ---
 
-<style>
-
-* {
-  box-sizing: border-box;
-}
-
-/* Set a background color */
-body {
-  background-color: white;
-
-  font-family: Helvetica, sans-serif;
-}
-
-/* The actual timeline (the vertical ruler) */
-.timeline {
-  position: relative;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-/* The actual timeline (the vertical ruler) */
-.timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: #155799;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-/* Container around content */
-.container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 50%;
-}
-
-/* The circles on the timeline */
-.container::after {
-  content: '';
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -17px;
-  background-color: white;
-  border: 4px solid #FF9F55;
-  top: 15px;
-  border-radius: 50%;
-  z-index: 1;
-}
-
-/* Place the container to the left */
-.left {
-  left: 0;
-}
-
-/* Place the container to the right */
-.right {
-  left: 50%;
-}
-
-/* Add arrows to the left container (pointing right) */
-.left::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  right: 30px;
-  border: medium solid white;
-  border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
-}
-
-/* Add arrows to the right container (pointing left) */
-.right::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  left: 30px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
-}
-
-/* Fix the circle for containers on the right side */
-.right::after {
-  left: -16px;
-}
-
-/* The actual content */
-.content {
-  padding: 20px 30px;
-  background-color: white;
-  background-image: linear-gradient(120deg, #155799, #159957);
-  position: relative;
-  border-radius: 6px;
-  color: white;
-}
-
-/* Media queries - Responsive timeline on screens less than 600px wide */
-@media all and (max-width: 600px) {
-/* Place the timelime to the left */
-  .timeline::after {
-    left: 31px;
-  }
-
-/* Full-width containers */
-  .container {
-    width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
-  }
-
-/* Make sure that all arrows are pointing leftwards */
-  .container::before {
-    left: 60px;
-    border: medium solid white;
-    border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
-  }
-
-/* Make sure all circles are at the same spot */
-  .left::after, .right::after {
-    left: 15px;
-  }
-
-/* Make all right containers behave like the left ones */
-  .right {
-    left: 0%;
-  }
-}
-
-</style>
-
+<link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}">
 <div class="timeline">
 
  <div class="container left">
-   <div class="content">
-     <h2 style="color:white;">2017</h2>
+   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/des/" | relative_url }}';">
+     <h2 style="color:white;">Le DES</h2>
      <p>Lorem ipsum..</p>
    </div>
  </div>
 
  <div class="container right">
-   <div class="content">
-     <h2 style="color:white;">2016</h2>
+   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/diffie-hellman/" | relative_url }}';">
+     <h2 style="color:white;">Le Diffie-Hellman</h2>
+     <p>Lorem ipsum..</p>
+   </div>
+ </div>
+
+ <div class="container left">
+   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/rsa/" | relative_url }}';">
+     <h2 style="color:white;">Le RSA</h2>
+     <p>Lorem ipsum..</p>
+   </div>
+ </div>
+
+ <div class="container right">
+   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/quantique/" | relative_url }}';">
+     <h2 style="color:white;">La Cryptographie Quantique</h2>
      <p>Lorem ipsum..</p>
    </div>
  </div>
@@ -173,3 +46,10 @@ background-color: #474e5d;
 background-image: linear-gradient(90deg, #155799, #159957);
 
 #159957 : vert
+
+
+## L'ère d'Internet
+* [Le DES]({{ "/des/" | relative_url }})
+* [Le Diffie-Hellman]({{ "/diffie-hellman/" | relative_url }})
+* [Le RSA]({{ "/rsa/" | relative_url }})
+* [La Cryptographie Quantique]({{ "/quantique/" | relative_url }})
