@@ -7,7 +7,7 @@ partie: "L'Antiquité"
 menu: /antiquite/
 ---
 
-## Le chiffre de César
+## Elements de contexte
 
 Le plus populaire des chiffrements est sûrement le chiffre de César. Il fut utilisé, si ce n’est inventé, par Jules César lors de la Guerre des Gaules.
 
@@ -23,13 +23,14 @@ En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de resta
 
 César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, les assiégés doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
 
-![alésia]({{ "/assets/1_Antiquite/alesia.jpg" | relative_url }})
+<img src="{{ "/assets/1_Antiquite/alesia.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 600px;"/>
+<p align="center"> <em>Vercingétorix jette ses armes aux pieds de César, Lionel Royer, 1899</em> </p>
 
 Les Commentaires sur la guerre des Gaules de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car elle offre un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits, et il occulte le rôle des druides dans la société gauloise.
 
 Pour garder contact avec ses généraux, César utilisait un procédé de chiffrement rendant le message, s’il était saisi, incompréhensible pour l'ennemi.
 
-### Fonctionnement
+## Fonctionnement et exemple
 
 Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou vers la gauche : il s'agit d'un [chiffrement par substitution monoalphabétique]({{ "/glossaire/" | relative_url }}).
 
@@ -53,6 +54,7 @@ Voici un message d'exemple :
 |---------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Message chiffré** | Y | H | Q | L |   | Y | L | G | L |   | Y | L | F | L |
 
+## Modélisation mathématique et exemple
 
 On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit au modulo 26 (longueur de l'alphabet)
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
@@ -73,7 +75,7 @@ $$ (n_{i} + k) \bmod 26 = n_{f} $$
 Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrement, notamment ceux d'érudits comme Aulu-Gelle et Dion Cassius.
 
 
-### *Commentaires sur la Guerre des Gaules* de Jules César
+## *Commentaires sur la Guerre des Gaules* de Jules César
 Les Commentaires sur la Guerre des Gaules n’évoquent en réalité jamais le chiffre de César mais parlent bien d’un moyen de cacher les messages aux yeux de l’ennemi comme dans cet extrait :
 >"Il [César] persuade alors un cavalier gaulois, en lui promettant de grandes récompenses, de porter une lettre à Cicéron. Il envoie celle-ci écrite en lettres grecques, afin que, si elle est interceptée, nos desseins ne soient pas pénétrés par les ennemis."
 
