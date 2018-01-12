@@ -3,14 +3,14 @@ title: Glossaire
 permalink: /glossaire/
 ---
 
-**Algorithme** : suite d'opérations élémentaires à aplliquer à des données pour aboutir à un réultat désiré.
+**Algorithme** : suite d'opérations élémentaires à appliquer à des données pour aboutir à un réultat désiré.
 
 **Analyse des fréquences** : étude statistique des fréquences d’apparition de chaque lettre dans un message par rapport à sa langue. 
 Elle permet de faire la cryptanalyse des textes chiffrés par substitution monoalphabétique.
 
 **Attaque par force brute** : elle consiste à tester de façon exhaustive l’ensemble des clefs possibles pour une message donné.
 
-**Chiffrement asymétrique** : chiffrement qui utilise deux clefs distinctes pour chiffrer et déchiffrer. En pratique.
+**Chiffrement asymétrique** : chiffrement qui utilise deux clefs distinctes pour chiffrer et déchiffrer. En pratique, on utilise une clef publique et une clef privée. Exemple : le [protocole d'échange de clefs Diffie-Hellman]({{ "/diffie-hellman/" | relative_url }}) et le [chiffrement RSA]({{ "/rsa/" | relative_url }})
 
 **Chiffrement par substitution monoalphabétique** : chiffrement dans lequel une lettre claire est toujours remplacée par le même signe, qu'il s'agisse d'une lettre ou d'un chiffre, dans le message chiffré. Exemple : le [carré de Polybe]({{ "/polybe/" | relative_url }}) et le [chiffre de César]({{ "/cesar/" | relative_url }})
 
