@@ -8,13 +8,15 @@ menu: /antiquite/
 ---
 
 
-Le carré de Polybe a été inventé aux environs de 150 avant J-C en Grèce. C'est le premier système de chiffrement par [substitution monoalphabétique]({{ "/glossaire/" | relative_url }})connu.
+Le carré de Polybe a été inventé aux environs de 150 avant J-C en Grèce. C'est le premier système de chiffrement par [substitution monoalphabétique]({{ "/glossaire/" | relative_url }}) connu.
 
-## Polybe
+## Eléments de contexte
+
+### Polybe
 
 Polybe (203 avant J-C - 126 av. J-C) était un historien grec à qui l’on doit une oeuvre considérable traitant notamment du fonctionnement de la République et de la Guerre Punique. Il est né en Arcadie mais fut pris comme otage par Rome en 167 av. J-C. Il devient, après sa libération, un proche de certaines élites romaines de la République romaine. Il est mandaté comme diplomate par le Sénat en Espagne, en Gaule et en Mauréitanie avant d’avoir la charge de négocier avec les cités du Péloponnèse. Il va ensuite en Orient puis, de retour à Rome, il observe le fonctionnement des institutions et écoute les conseils d’anciens militaires. Il devient alors le mentor de Scipion Emilien et participe avec lui à la destruction de Carthage.
 
-## La chute de Cathage
+### La chute de Cathage
 
 Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et la fin de la Troisième Guerre Punique. Au début, la ville, malgré son isolement, résiste à la pression militaire de Rome et connaît même quelques succès tactiques. Mais en 147-146, grâce à l'arrivée du nouveau chef romain Scipion Emilien, petit fils adoptif de Scipion l’Africain, Carthage est méthodiquement investie. Prise d'assaut, la capitale punique est mise à sac, puis détruite. Jules César reconstruira plus tard une ville romaine sur son emplacement. Les possessions africaines de Carthage deviennent la province romaine d'Afrique. Désormais, et pour longtemps, rien ne résiste plus à Rome. Cette cité italienne parmi d'autres est devenue à la faveur des guerres puniques un empire à vocation universelle. L'année même où Carthage est rasée, les Romains s'emparent de Corinthe et transforment la Grèce prestigieuse en province ordinaire.
 
@@ -30,13 +32,14 @@ Il fut utilisé pendant très longtemps et notamment par les nihilistes russes a
 
 Il existe plusieurs variantes à ce carré comme celle qui remplace les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres). Une autre variante consiste donc à remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. On peut aussi remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes.
 
+<p align="center">
 |       | 1 | 2 | 3 | 4 | 5 |
 |-------|---|---|---|---|---|
 | **1** | A | B | C | D | E |
 | **2** | F | G | H | I | J |
 | **3** | K | L | M | N | O |
 | **4** | P | Q | R | S | T |
-| **5** | U | V | X | Y | Z |
+| **5** | U | V | X | Y | Z | </p>
 
 * Message en clair : `Polybe a eu accès à la bibliothèque de Persée`
 
