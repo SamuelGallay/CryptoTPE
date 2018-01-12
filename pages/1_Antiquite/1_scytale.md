@@ -14,12 +14,12 @@ Ces dernières ont été déclenchées par la révolte des cités grecques d’I
 
 Des plans d’invasions sophistiqués y ont vu le jour et, pour la première fois, il est apparu nécessaire d’établir un moyen de communication secret entre le front et l’arrière. La scytale fut alors inventée dans la cité de Sparte.
 
-<img src="{{ "/assets/1_Antiquite/scytale.png" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
-<p align="center"> <em>Une scytale</em> </p>
+<img src="{{ "/assets/1_Antiquite/guerres-mediques.jpg" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
+<p align="center"> <em>Carte légendée des gueres médiques</em> </p>
 
-Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Ce dispositif n’existait que chez les Lacédémoniens et seuls les éphores et les généraux de la cité en connaissaient le procédé.
+Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê a un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Ce dispositif n’existait que chez les Lacédémoniens et seuls les éphores et les généraux de la cité en connaissaient le procédé.
 
-##  Fonctionnement et odélisation mathématique 
+##  Fonctionnement et modélisation mathématique 
 
 <img src="{{ "/assets/1_Antiquite/plutarque.jpeg" | relative_url }}" alt="Plutarque" style="margin: 0 auto;display: block; width: 200px;"/>
 <p align="center"> <em>Plutarque, Ier siècle avant J.-C.</em> </p>
@@ -30,6 +30,9 @@ Plutarque, philosophe majeur de la Rome antique d’origine grec ayant vécu au 
 > *Tome 2 (traduction d'Alexis Pierron), Vie de Lysandre, p. 379.*
 
 Mathématiquement, on peut traduire cette technique de la manière suivante. On appelle T le nombre de lettres par tour de ruban (ce qui revient à connaître la taille du cylindre) et L le nombre de tours de ruban, c’est à dire la taille du message que l’on veut transmettre ou encore le nombre de lettres du message. Enfin, on nomme N le nombre total de lettres écrites sur le ruban.On peut ainsi dire que TxL = N. La personne en possession du ruban connaît forcément N (il lui suffit de compter le nombre de lettres inscrites), elle peut donc décoder le message si elle connaît T ou L.
+
+<img src="{{ "/assets/1_Antiquite/scytale.png" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
+<p align="center"> <em>Une scytale</em> </p>
 
 ## Exemple
 
