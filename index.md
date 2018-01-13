@@ -27,31 +27,39 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 <div class="timeline">
 
  <div class="container left">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/antiquite/" | relative_url }}';">
+  <a href="{{ "/antiquite/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">L'Antiquité et le Moyen-Âge</h2>
      <p>Du V<SUP>ème</SUP> avant notre ère au IX<SUP>ème</SUP> siècle de notre ère</p>
    </div>
+  </a>
  </div>
 
  <div class="container right">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/temps-modernes/" | relative_url }}';">
+ <a href="{{ "/temps-modernes/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">La Renaissance et les Temps Modernes</h2>
      <p>Du XV<SUP>ème</SUP> au XIX<SUP>ème</SUP> siècle</p>
    </div>
+   </a>
  </div>
 
  <div class="container left">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/guerres/" | relative_url }}';">
+ <a href="{{ "/guerres/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">Les Guerres Mondiales</h2>
      <p>De 1914 à 1945</p>
    </div>
+   </a>
  </div>
 
  <div class="container right">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/internet/" | relative_url }}';">
+ <a href="{{ "/internet/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">L'ère d'Internet</h2>
      <p>De l'après-guerre à nos jours</p>
    </div>
+   </a>
  </div>
 
 </div>

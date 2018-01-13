@@ -9,31 +9,39 @@ suivante: /temps-modernes/
 <div class="timeline">
 
  <div class="container left">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/scytale/" | relative_url }}';">
+ <a href="{{ "/scytale/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">La Scytale</h2>
      <p>Le premier système de chiffrement, au V<SUP>ème</SUP> siècle avant J.-C.</p>
    </div>
+   </a>
  </div>
 
  <div class="container right">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/polybe/" | relative_url }}';">
+ <a href="{{ "/polybe/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">Le Carré de Polybe</h2>
      <p>150 avant J.-C.</p>
    </div>
+   </a>
  </div>
 
  <div class="container left">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/cesar/" | relative_url }}';">
+ <a href="{{ "/cesar/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">Le Chiffre de César</h2>
      <p>Le célèbre chiffre par substitution du I<SUP>er</SUP> siècle avant J.-C.</p>
    </div>
+   </a>
  </div>
 
  <div class="container right">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/al-kindi/" | relative_url }}';">
+ <a href="{{ "/al-kindi/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">Al-Kindi</h2>
      <p>La naissance de la cryptanalyse au IX<SUP>ème</SUP> siècle après J.-C.</p>
    </div>
+   </a>
  </div>
 
 </div>

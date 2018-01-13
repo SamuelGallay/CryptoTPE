@@ -10,31 +10,39 @@ suivante: /internet/
 <div class="timeline">
 
  <div class="container left">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/adfgvx/" | relative_url }}';">
+ <a href="{{ "/adfgvx/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">ADFGVX</h2>
      <p>1918</p>
    </div>
+   </a>
  </div>
 
  <div class="container right">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-contexte/" | relative_url }}';">
+ <a href="{{ "/enigma-contexte/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">Enigma, Contexte</h2>
      <p>1939-1945</p>
    </div>
+   </a>
  </div>
 
  <div class="container left">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-fonctionnement/" | relative_url }}';">
+ <a href="{{ "/enigma-fonctionnement/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">Enigma, Fonctionnement</h2>
      <p>Années 30-40</p>
    </div>
+   </a>
  </div>
 
  <div class="container right">
-   <div class="content" style="cursor: pointer;" onclick="window.location='{{ "/enigma-cryptanalyse/" | relative_url }}';">
+ <a href="{{ "/enigma-cryptanalyse/" | relative_url }}">
+   <div class="content">
      <h2 style="color:white;">Enigma, Cryptanalyse</h2>
      <p>Années 30-40</p>
    </div>
+   </a>
  </div>
 
 </div>
