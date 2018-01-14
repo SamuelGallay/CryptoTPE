@@ -120,11 +120,11 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
   * connaissant de considérables innovations -> connaissent de considérables innovations
   * (vu précédemment) : remplacer par un lien
   * occidentaux -> Occidentaux
-  * **disque mobile ci-dessous -> disque mobile ci-dessus ?
-  * Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA**
+  * **disque mobile ci-dessous -> disque mobile ci-dessus ?**
+  * **Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA**
 * Le chiffrement de Vigenère
-  * **Ceci correspond à une clef littérale de 26 lettres : difficile à comprendre puisqu'on n'a pas encore parlé de chiffrement polyalphabétique
-  * "le principe de clef de Belaso : il change donc d’alphabet à chaque
+  * **Ceci correspond à une clef littérale de 26 lettres : difficile à comprendre puisqu'on n'a pas encore parlé de chiffrement polyalphabétique**
+  * **"le principe de clef de Belaso : il change donc d’alphabet à chaque
   nouvelle lettre" (le "donc" semble indiquer qu'on a déjà vu ce
   principe, ce qui n'est pas le cas).**
   * Partout : Clef ou clé ??
