@@ -9,8 +9,14 @@ menu: /temps-modernes/
 
 ## Cryptanalyse du chiffre de Vigenère
 
-Babbage et Kasiki se sont appuyés sur la répétition au moins deux fois dans le message chiffré d’une séquence de 3 lettres et ont calculé la distance entre elles. En calculant le PGCD des distances on obtient la longueur probable de la clé.
+Dans la deuxième moitié du XIXe siècle, le mathméaticen anglais Babbage et l'officien prussien Kasiki parvinrent quasiment en même temps à briser le chiffre de Vigenère.
+
+Pour déchiffrer un tel code, la première étape est de déterminer la longueur du mot clé. Avec un chiffre de Vigenère, si une même séquence de lettres dans le texte en clair a été cryptée avec une même partie de mot-clé, elle donnera alors une même séquence de lettres cryptées. Si une séquence de lettres en clair est fréquente dans le texte alors la probabilité qu’elle soit codée avec une même partie du mot clé sera plus forte, ce qui permet de détecter sa présence en recherchant des séquences de lettres identiques dans le texte chiffré. Pour faire cette détection de façon statistiquement fiable, une séquence d’au moins trois lettres est préférable et doit se répéter plusieurs fois dans le texte. De telles séquences varient suivant le type de texte, mais par exemple, en français, la séquence « LES » peut se retrouver assez souvent dans la plupart des textes.
+
+Ils se sont donc tous deux appuyés sur la répétition d’une séquence de 3 lettres dans le message chiffré et ont calculé la distance entre elles. En calculant le PGCD des distances on obtient la longueur probable de la clé.
 Soit un message chiffré comportant deux séquences répétées S et T. On note l'emplacement dans le message de leurs répétitions S1, S2, T1 et T2. La longueur probable de la clé est PGCD (S2-S1 ; T2-T1)/
+
+Il faut ensuite déterminer le mot clef grâce à l'analyse des fréquences et déchiffrer le texte avec le mot clef.
 
 ## L'indice de coïncidence
 
@@ -25,4 +31,4 @@ $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n
 vaut si n suffisamment grand \\
 où n est la longueur du texte et $$ n_{i} $$ la fréquence d’apparition de la lettre i dans le texte
 
-Notre [expérience]({{ "/experience/" | relative_url }}) est un déchiffrage à la main d'un message chiffré avec le chiffre de Vigenère !
+Notre [expérience]({{ "/experience/" | relative_url }}) est un déchiffrage à la main d'un message chiffré avec le chiffre de Vigenère. Nous avons pour ce faire utilisé la méthode de Babbage et Kasiki.
