@@ -6,7 +6,7 @@ partie: "L'Antiquité"
 menu: /antiquite/
 ---
 
-## Eléments de contexte
+## Eléments de contexte : la Grèce Antique
 
 La scytale est le premier système de cryptographie connu. Il a été utilisé à des fins militaires lors des guerres médiques qui ont opposé la Perse et les cités autonomes de Grèce au Ve siècle avant J-C.
 
