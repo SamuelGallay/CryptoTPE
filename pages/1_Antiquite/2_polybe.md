@@ -52,7 +52,7 @@ Le carré de Polybe est un système composé d’un carré de 25 cases dans lesq
 
 Lorsqu’on sait que ce message a été codé avec le carré de Polybe, il est très facile de le décrypter. Il suffit de mettre les chiffres par groupes de deux et de regarder dans le tableau à quelles lettres correspondent ces coordonnées. 
 Il existe donc plusieurs variantes à ce carré :
-* remplacer les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres)
+* remplacer les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres, voir )
 *  remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. 
 * remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes. \\
 Reprenons l'exemple précédent avec cette dernière variante. 
