@@ -12,11 +12,11 @@ Mais comment faire pour préserver la confidentialité du message ?
 
 L’art, ou la science de cacher des messages a connu plusieurs formes au cours de l’histoire :
 
-- La première a été de cacher le message dans un autre message, une sorte de mise en abyme : c’est de la stéganographie.
+- La première a été de cacher le message aux yeux de ceux ne connaissant pas la méthode : c’est de la stéganographie.
 
-- La seconde consiste à protéger un message par le biais de clés (secrètes ou publiques) : c'est de la cryptographie, sujet de notre TPE.
+- La seconde consiste à protéger un message en le chiffrant par le biais de clés (secrètes ou publiques) qui le rendent incompréhensible : c'est de la cryptographie, sujet de notre TPE.
 
-Mais les techniques de cryptographie ont été cassées au cours de l'histoire : on parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clé. Ces deux disciplines réunies composent la cryptologie.
+Mais les techniques de cryptographie ont été vaincues au cours de l'histoire par des cryptanalystes. On parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clé ou la méthode de chiffrement. Ces deux disciplines réunies composent la cryptologie.
 
 
 **Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins en communication.**
@@ -88,7 +88,7 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
   * Plutarque n'était pas un philosophe, mais un écrivain
   * Problèmes dates Plutarque: 1er siècle après J.-C. et pas avant J.-C.
   * la roule autour de la scytale -> la roulent autour de la scytale
-  * "Donne et tu recevras" (mais ce n'est pas un codage du type décrit dans le texte !)
+  * **"Donne et tu recevras" (mais ce n'est pas un codage du type décrit dans le texte !)**
 * Le carré de Polybe
   * élites romaines de la République romaine -> élites de la République romaine
   * Mauréitanie -> Mauritanie ?
@@ -97,7 +97,7 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
   * sont placés les lettres de l’alphabet -> sont placées les lettres de l’alphabet
   * représentée ses coordonnées -> représentée par ses coordonnées
   * par autres choses que -> par autre chose que
-  * correspond chaque coordonnées -> ??
+  * **correspond chaque coordonnées -> ??**
   * "audaces fortuna juvat"
 * Le chiffre de César
   * dans Vies des douze Césars -> dans ses (les) "Vies des douze Césars"
@@ -105,7 +105,7 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
   * "ave Ceasr, morituri te salutant"
 * La cryptanalyse d'Al-Kindi
   * C’est qu’Ils ont justement -> C’est qu’ils ont justement
-  * Cette section se termine un peu en queue de poisson, ne manque-t-il pas quelque chose ?
+  * **Cette section se termine un peu en queue de poisson, ne manque-t-il pas quelque chose ?**
 
 
 
