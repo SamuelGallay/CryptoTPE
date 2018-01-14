@@ -31,3 +31,5 @@ Ils se sont aussi intéressés aux lettres mêmes, et ils ont remarqué que cert
 ![4]({{ "/assets/exp/4.png" | relative_url }})
 
 Dans le cas d’un message chiffré avec la substitution monoalphabétique, un symbole (une lettre dans le cas du chiffre de César, une combinaison de deux chiffres pour le carré de Polybe) représente toujours la même lettre. Il convient alors de remplacer le symbole le plus fréquent du message chiffré par la lettre E (qui est la lettre la plus fréquente en français), et d'en déduire les autres. Ce principe n'est véritablement applicable que si le message contient une grande quantité de symboles afin que les fréquences soient statistiquement significatives.
+
+Rendant obsolète la substitution monoalphabétique pratiquée par toutes les civilisations antiques, la cryptanalyse arabe ouvrit une nouvelle ère en cryptologie. Toutefois ces travaux parvinrent en Occident plusieurs siècles après ; c'est pourquoi l'invention de nouvelles techniques ne survint qu'à la Renaissance. En Orient, l'hégémonie du califat minimisait l'enjeu de la confidentialité des communications.
