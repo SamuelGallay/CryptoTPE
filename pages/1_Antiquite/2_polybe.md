@@ -30,7 +30,7 @@ Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et l
 
 ### Le carré initial
 
-Le carré de Polybe est un système composé d’un carré de 25 cases dans lesquelles sont placés les lettres de l’alphabet (en français, le w est mis dans la même case que le v). Chaque lettre est représentée ses coordonnées dans ce carré : d’abord le chiffre de sa ligne puis celui de sa colonne. Ce système présente plusieurs avantages : la conversion de lettres en chiffres, la réduction du nombre de symboles utilisé pour coder (5) et la représentation de chaque lettre par deux éléments séparés.
+Le carré de Polybe est un système composé d’un carré de 25 cases dans lesquelles sont placées les lettres de l’alphabet (en français, le w est mis dans la même case que le v). Chaque lettre est représentée ses coordonnées dans ce carré : d’abord le chiffre de sa ligne puis celui de sa colonne. Ce système présente plusieurs avantages : la conversion de lettres en chiffres, la réduction du nombre de symboles utilisé pour coder (5) et la représentation de chaque lettre par deux éléments séparés.
 
 |       | 1 | 2 | 3 | 4 | 5 |
 |-------|---|---|---|---|---|
