@@ -23,11 +23,11 @@ Cet algorithme est encore utilisé aujourd'hui notamment pour le comerce électr
 Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$ tel que
 * p et q soient deux nombres premiers ; n est le produit pq
 * pour $$ \phi (n) = (p-1)(q-1) $$ où $$ \phi (n) $$ est l'indicatrice d'Euler, i.e la quantité de nombres inférieurs à $$ n $$ et premiers avec $$ n $$
-* e soit un entier premier avec $$ \phi (n) $$ 
+* e soit un entier premier avec $$ \phi (n) $$
 * d respecte l'égalité $$ ed = 1 \bmod \phi (n) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ \phi (n) $$
 On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres (remarque : il existe un unique d respectant l'égalité) \\
-Bob a donc une **clé publique (n ; e)** et une **clé privée, secrète (n ; d)** \\
-Alice pour envoyer un message à Bob a accès à sa clé publique \\
+Bob a donc une **clef publique (n ; e)** et une **clef privée, secrète (n ; d)** \\
+Alice pour envoyer un message à Bob a accès à sa clef publique \\
 Ce message constituera en un ou plusieurs entiers codés de la façon suivante :
 * Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$
 * Elle calcule le nombre $$ C = M^e \bmod n $$ qu'elle envoie à Bob \\
@@ -46,13 +46,13 @@ Le RSA repose donc sur deux fondements :
 * Bob choisit deux nombres premiers :
 $$ p = 11 $$ et $$ q = 19 $$ alors $$n = pq = 209 $$
 * Bob choisit par exemple 7 qui est premier avec 180 $$ (180 = (p-1)(q-1)) $$
-**La clé publique est (7 ; 209).**
+**La clef publique est (7 ; 209).**
 * Bob calcule maintenant d tel que le reste de 7d, dans la division par 180, soit 1. \\
-Il trouve 103 : **La clé secrète est (103 ; 209)**
+Il trouve 103 : **La clef secrète est (103 ; 209)**
 * Alice choisit le nombre 63.
-* Elle a reçu la clé publique (7 ; 209) et calcule donc $$ 63^7 \bmod 209 = 123 $$
+* Elle a reçu la clef publique (7 ; 209) et calcule donc $$ 63^7 \bmod 209 = 123 $$
 * Elle envoie cette valeur à Bob
-* Bob reçoit 123. Il utilise sa clé secrète 103 et calcule $$ 123^{103} \bmod 209 = 63 $$
+* Bob reçoit 123. Il utilise sa clef secrète 103 et calcule $$ 123^{103} \bmod 209 = 63 $$
 * Il a bien retrouvé le nombre choisi par Alice.
 
 ## Limites du RSA

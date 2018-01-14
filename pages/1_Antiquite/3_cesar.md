@@ -40,7 +40,7 @@ Il est décrit par l’historien romain Suétone dans son oeuvre biographique *V
 Ce qui donne en français :
 > « On a conservé en outre ses lettres à Cicéron, et celles qu'il adressait à ses familiers sur ses affaires domestiques; quand il avait à leur faire quelque communication secrète, il usait d'un chiffre, c'est-à-dire qu'il brouillait les lettres de telle façon qu'on ne pût reconstituer aucun mot: si l'on veut en découvrir le sens et les déchiffrer, il faut substituer à chaque lettre la troisième qui la suit dans l'alphabet, c'est-à-dire le D à l'A, et ainsi de suite. »
 
-La clé de déchiffrement est donc simple : connaissant la valeur de décalage de l’alphabet (trois rangs) il suffit de décaler pour avoir l’alphabet clair. Le message clair est à l’alphabet traditionnel ce que le message chiffré est à l’alphabet décalé.
+La clef de déchiffrement est donc simple : connaissant la valeur de décalage de l’alphabet (trois rangs) il suffit de décaler pour avoir l’alphabet clair. Le message clair est à l’alphabet traditionnel ce que le message chiffré est à l’alphabet décalé.
 
 
 | **Alphabet clair**   | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |

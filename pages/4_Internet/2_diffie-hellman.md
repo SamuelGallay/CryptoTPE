@@ -29,16 +29,16 @@ Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisé
 
 ### Modélisation mathématique et fonctionnement
 
-* Alice et Bob veulent s’échanger une clé
+* Alice et Bob veulent s’échanger une clef
 * Alice choisit un grand nombre premier $$ p $$ et une base $$ g $$ avec $$ g \leq p $$
 * Elle choisit un nombre secret a
 * Elle envoie à Bob le nombre $$ A = g^a \bmod p $$
 * Bob choisit à son tour le nombre secret b
 * Il envoie à Alice $$ B = g^b \bmod p $$
-* Alice peut déterminer la clé secrète : $$ B^a \bmod p = (g^a)^b \bmod p = g^{ab} \bmod p $$
-* Bob en fait de même et obtient la clé identique : $$ A^b \bmod p = (g^b)^a = g^{ba} \bmod p = g^{ab} \bmod p $$ \\
+* Alice peut déterminer la clef secrète : $$ B^a \bmod p = (g^a)^b \bmod p = g^{ab} \bmod p $$
+* Bob en fait de même et obtient la clef identique : $$ A^b \bmod p = (g^b)^a = g^{ba} \bmod p = g^{ab} \bmod p $$ \\
 Ceci est rendu possible par la commutativité de la fonction puissance ! \\
-En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs fort complexes pour trouver la clé secrète $$ g^{ab} $$
+En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs fort complexes pour trouver la clef secrète $$ g^{ab} $$
 
 ### Exemple (on considérera des petits entiers par souci de simplicité)
 
@@ -47,7 +47,7 @@ En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs for
 * Elle envoie à Bob le nombre $$ 6^7 \bmod 41 = 29 $$
 * Bob choisit à son tour le nombre secret 15
 * Il envoie à Alice $$ 6^{15} \bmod 41 = 3 $$
-* Alice peut déterminer la clé secrète : $$ 3^7 \bmod 41 = 14 $$
-* Bob en fait de même et obtient la clé identique : $$ 29^{15} \bmod 41 = 14 $$
+* Alice peut déterminer la clef secrète : $$ 3^7 \bmod 41 = 14 $$
+* Bob en fait de même et obtient la clef identique : $$ 29^{15} \bmod 41 = 14 $$
 
 Alice et Bob ont bien partagé la clef 14 !
