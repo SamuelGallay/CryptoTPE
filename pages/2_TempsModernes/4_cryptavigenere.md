@@ -9,7 +9,7 @@ menu: /temps-modernes/
 
 ## Cryptanalyse du chiffre de Vigenère
 
-Dans la deuxième moitié du XIXe siècle, le mathméaticen anglais Babbage et l'officien prussien Kasiki parvinrent quasiment en même temps à briser le chiffre de Vigenère.
+La "méthode historique" fut inventée par le mathématicien britannique Charles Babbage, connu notamment pour ses machines à différence, vers 1854 mais sa découverte resta ignorée en l'absence d'écrit. Pendant ce temps, un officier prussien à la retraite, Kasiski, parvint au même résultat et publia en 1863 "Die Geheimschriftren und die Dechiffrir-kunst".
 
 Pour déchiffrer un tel code, la première étape est de déterminer la longueur du mot clé. Avec un chiffre de Vigenère, si une même séquence de lettres dans le texte en clair a été cryptée avec une même partie de mot-clé, elle donnera alors une même séquence de lettres cryptées. Si une séquence de lettres en clair est fréquente dans le texte alors la probabilité qu’elle soit codée avec une même partie du mot clé sera plus forte, ce qui permet de détecter sa présence en recherchant des séquences de lettres identiques dans le texte chiffré. Pour faire cette détection de façon statistiquement fiable, une séquence d’au moins trois lettres est préférable et doit se répéter plusieurs fois dans le texte. De telles séquences varient suivant le type de texte, mais par exemple, en français, la séquence « LES » peut se retrouver assez souvent dans la plupart des textes.
 
