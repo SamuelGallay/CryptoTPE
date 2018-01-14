@@ -265,6 +265,11 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
+#menu {
+  margin: 0px;
+  padding: 0px;
+}
+
 #menu::after {
   content: "";
   display: block;
