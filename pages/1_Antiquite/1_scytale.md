@@ -48,6 +48,3 @@ Lorsque l'on sait que le texte a été chiffré avec la scytale, on peut essayer
 Ce message représente un parchemin à enrouler autour d'une scytale d'un diamètre tel qu'on lit 3 lettres par tour. Tentez de le déchiffrer. Petit indice : c'est une citation du philosophe grec Platon.
 
 dsfojknicnwrezf egntqe tvduku rlpemgcxeefsvrqrdlahyseb
-
-   
-                              Poursuivez votre navigation avec [le carré de Polybe]({{ "/polybe/" | relative_url }})
