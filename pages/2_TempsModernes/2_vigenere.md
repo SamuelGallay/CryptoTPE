@@ -16,7 +16,7 @@ C'est en s’inspirant des travaux d’un bénédictin allemand, Johannes von He
 
 ## Modélisation mathématique et fonctionnement
 
-Les correspondants définissent préalablement une clef qui servira à chiffrer et déchiffrer leurs messages. Le mot clef est épelé bien clairement au-dessus du message, et répété en boucle de sorte que chaque lettre du message soit associée à une lettre de la clef. Ils décalent ensuite la lettre du message du nombre associé à la lettre de la clef correspondante (A associé à 1, B à 2, etc…).
+Les correspondants définissent préalablement une clef qui servira à chiffrer et déchiffrer leurs messages. Le mot-clef est épelé bien clairement au-dessus du message, et répété en boucle de sorte que chaque lettre du message soit associée à une lettre de la clef. Ils décalent ensuite la lettre du message du nombre associé à la lettre de la clef correspondante (A associé à 1, B à 2, etc…).
 
 Exemple : `Vigenère est remarquable` avec comme clef : `crypto`
 
