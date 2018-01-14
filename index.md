@@ -86,6 +86,7 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 * Scytale :
   * elles se sont conclus -> elles se sont conclues
   * Plutarque n'était pas un philosophe, mais un écrivain
+  * Problèmes dates Plutarque: 1er siècle après J.-C. et pas avant J.-C.
   * la roule autour de la scytale -> la roulent autour de la scytale
   * "Donne et tu recevras" (mais ce n'est pas un codage du type décrit dans le texte !)
 * Le carré de Polybe
