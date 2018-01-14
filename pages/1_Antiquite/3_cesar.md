@@ -34,7 +34,7 @@ Pour garder contact avec ses généraux, César utilisait un procédé de chiffr
 
 Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou vers la gauche : il s'agit d'un [chiffrement par substitution monoalphabétique]({{ "/glossaire/" | relative_url }}).
 
-Il est décrit par l’historien romain Suétone dans *Vies des douze Césars*, Livre premier, César, LVI publié entre 119 et 122 :
+Il est décrit par l’historien romain Suétone dans son oeuvre biographique *Vies des douze Césars*, Livre premier, César, LVI publié entre 119 et 122 :
  > « Extant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset: quae si qui investigare et persequi velit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet. »
 
 Ce qui donne en français :
@@ -54,15 +54,16 @@ Voici un message d'exemple :
 |---------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Message chiffré** | Y | H | Q | L |   | Y | L | G | L |   | Y | L | F | L |
 
-## Modélisation mathématique et exemple
+## Modélisation mathématique
 
-On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit au modulo 26 (longueur de l'alphabet)
+On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit modulo 26 (longueur de l'alphabet)
 Réduire au modulo, c’est récupérer uniquement le reste de la division euclidienne : on note a mod b le reste de la division de a par b.  Ex : 7 mod 5 = 2
 Soit k la longueur du décalage, $$ n_{i} $$ le nombre associé à la lettre claire, et $$ n_{f} $$ le nombre associé à la lettre chiffrée, on peut alors écrire :
 
 $$ (n_{i} + k) \bmod 26 = n_{f} $$
 
-*Exemple* :
+## Exemple
+
 `Dura lex, sed lex` (la loi est dure, mais c’est la loi)
 
 * D=4, 4+3=7 et 7=G, donc on code D par G
