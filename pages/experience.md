@@ -15,9 +15,9 @@ Nous supposons dans notre raisonnement que le texte codé est en français.
 
 ## 1. Hypothèse “Chiffre de César”
 
-* Hypothèse : Nous supposons que le texte est codé avec un chiffrement de substitution mono-alphabétique (une lettre est toujours codé par une même autre lettre) et plus précisément un chiffre de César, c’est-à-dire un décalage alphabétique de quelques crans (jusqu’à 26) vers la droite ou vers la gauche.
+* Hypothèse : Nous supposons que le texte est codé avec un chiffrement de substitution mono-alphabétique (une lettre est toujours codé par une même autre lettre) et plus précisément un [chiffre de César]({{ "/cesar/" | relative_url }}), c’est-à-dire un décalage alphabétique de quelques crans (jusqu’à 26) vers la droite ou vers la gauche.
 
-* Si c’est un chiffre de César, alors les fréquences d’apparition de chaque lettre devraient être similaires à celle d’un texte français : avec d’importantes variations comme par exemple une fréquence importante pour la lettre “e” et beaucoup plus faible pour le “k” ou le “w”. Nous allons donc compter le nombre d’apparitions de chaque lettre et en déduire leur fréquence que nous comparerons ensuite aux fréquences moyennes trouvées dans la langue française.
+* Si c’est un chiffre de César, alors les fréquences d’apparition de chaque lettre devraient être similaires à celle d’un texte français : avec d’importantes variations comme par exemple une fréquence élevée pour la lettre “e” et beaucoup plus faible pour le “k” ou le “w”. Nous allons donc compter le nombre d’apparitions de chaque lettre et en déduire leur fréquence que nous comparerons ensuite aux fréquences moyennes trouvées dans la langue française.
 
 * Résultats : Nous voyons que les fréquences mesurées sont moins dispersées par rapport à la langue française (voir figure 1). Ainsi, aucune lettre ne se distingue clairement: la lettre la plus fréquente est à 7,2 % (pour la lettre M) contre 15,9 % pour le E en français et l’étendue de la fréquence est de 6,5 % contre 15.9% en français.
 
@@ -35,14 +35,7 @@ Le graphique montrant la corrélation entre la fréquence mesurée et celle de l
 
 ## 2. Hypothèse “Chiffre de Vigenère”
 
-* Hypothèse : nous supposons que le texte est codé avec le chiffre de Vigenère. C’est un chiffrement par substitution poly-alphabétique utilisant 26 alphabets codés distincts et un mot-clé pour crypter ou décrypter un message. Le mot-clé est épelé bien clairement au-dessus du message, et répété en boucle de sorte que chaque lettre du message soit associée à une lettre de la clé. On peut ensuite coder à l’aide du carré de Vigenère (voir figure 8), chaque lettre du mot-clé déterminant un alphabet de substitution.
-
-Exemple avec le mot-clé KILO :
-
-|Mot-clé    |    `KILOKILOKILOKILOKILO` |
-|Texte clair |   `thérussethéjasminthé` |
-|Texte chiffré | `DPPFEADSDPPXKAXWXBSS` |
-
+* Hypothèse : nous supposons que le texte est codé avec le [chiffre de Vigenère]({{ "/vigenere/" | relative_url }}). C’est un chiffrement par substitution polyalphabétique utilisant 26 alphabets codés distincts et un mot-clé pour crypter ou décrypter un message. Le mot-clé est épelé bien clairement au-dessus du message, et répété en boucle de sorte que chaque lettre du message soit associée à une lettre de la clé. On peut ensuite coder à l’aide du carré de Vigenère (voir figure 8), chaque lettre du mot-clé déterminant un alphabet de substitution.
 
 Il existe deux grandes méthodes de déchiffrement :
 
