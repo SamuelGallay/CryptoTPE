@@ -106,3 +106,75 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 * La cryptanalyse d'Al-Kindi
   * C’est qu’Ils ont justement -> C’est qu’ils ont justement
   * Cette section se termine un peu en queue de poisson, ne manque-t-il pas quelque chose ?
+
+
+
+* La Renaissance et les Temps Modernes
+  * Accent sur Moyen Âge
+  * rivalités entre les états -> rivalités entre les Etats (et ainsi de suite)
+  * La cryptologie est devenue professionnelle, [et constitue] un enjeu diplomatique et politique majeur.    
+  * on l’utilise toujours autant -> on utilise toujours autant la cryptologie ?
+  * La Cryptanalyse du chiffre de Vigenère ?? Phrase sans conclusion.
+* Le cadran d’Alberti : La mécanisation du chiffrement
+  * Garribaldi -> Garibaldi
+  * connaissant de considérables innovations -> connaissent de considérables innovations
+  * (vu précédemment) : remplacer par un lien
+  * occidentaux -> Occidentaux
+  * disque mobile ci-dessous -> disque mobile ci-dessus ?
+  * Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA
+* Le chiffrement de Vigenère
+  * Ceci correspond à une clé littérale de 26 lettres : difficile à comprendre puisqu'on n'a pas encore parlé de chiffrement polyalphabétique
+  * "le principe de clé de Belaso : il change donc d’alphabet à chaque
+  nouvelle lettre" (le "donc" semble indiquer qu'on a déjà vu ce
+  principe, ce qui n'est pas le cas).
+  * Partout : Clef ou clé ??
+  * "Modélisation mathématique par une fonction définie..." : mettre une
+  vraie phrase. Fonction définie SUR les entiers...
+  * "Au plus la clé est grande, au plus le niveau de sécurité est élevé" ??? (plus la clef est grande)
+  * Trop de : dans la dernière phrase.
+  * science sans conscience n'est que ruine de l'ame
+* Le grand chiffre de Louis XIV
+  * bastion huguenot, pendant plusieurs mois (virgule essentielle !)
+  * “les ennemis” qu’il remplace pour (??) les quatre syllabes
+  * guerre de dévolution -> guerre de Dévolution
+  * "crée un bureau spécialisé : à la fin du XVIIe et au cours du XVIIIe
+  siècle, les cabinets noirs sévissent dans toute l’Europe : le Geheime
+  Kabinetskanzlei de Vienne est le plus efficace : en moins de deux
+  heures, tout le contenu du sac postal est ouvert, recopié, et
+  recacheté." Enumération désordonnée, trop de : .
+  * 3 x "mener une politique" dans la même partie de texte !
+  * "augmentation exponentielle" -> "augmentation spectaculaire" ou ...
+* La cryptanalyse du chiffre de Vigenère
+  * Kasiski -> Friedrich Kasiski
+  * Die Geheimschriftren -> Die Geheimschriften
+  * die Dechiffrir-kunst” -> die Dechiffrir-Kunst”.
+  * mot clé ou mot-clé ??
+  * "Ils se sont donc tous deux" : de qui parle-t-on ?
+  * "la distance entre elles" : peu clair.
+  * Soit un message chiffré... En pratique, étant donné un message
+  chiffré comportant... ?
+  * Friedman -> Willian Friedman
+  * "En calculant l’indice de coïncidence pour toutes les lettres du message
+  modulo la taille de la clé que l’on veut tester" : expliquer bien mieux,
+  non compréhensible en l'état !
+  * une série de lettre -> une série de lettres
+  * vaut si n suffisamment grand ??
+* Les Guerres Mondiales
+  * des communications ennemis -> des communications ennemies.
+  * l’entre-deux guerre -> l’entre-deux-guerres,
+  * Scherbius -> Arthur Scherbius
+  * fastidueuse attaque d’Enigma par les Alliées -> fastidieuse attaque d’Enigma par les Alliés (enlever les majuscules inutiles).
+  * plus aucun des chiffrements n’est sûr -> car plus aucun des chiffrements n’est sûr
+  * Marconi -> Guglielmo Marconi
+  * par dessus -> par-dessus
+  * les ondes radio [dans certaines gammes de fréquence]
+  * Image disparue ??
+  * l’enjeux -> l’enjeu
+  * les allemands -> les Allemands
+  * George Painvin -> Georges Painvin
+  * éclairant les français -> éclairant ainsi les Français
+  * une grille de 6x6 -> une grille de taille 6x6 ?
+  * entre autre 128 -> entre autres 128
+  * les américains -> les Américains, idem les Allemands, les Anglais, occupés ??
+  * l’amirauté -> l’Amirauté
+  * Les allemands exigeaient un combat direct : but de cette phrase ?
