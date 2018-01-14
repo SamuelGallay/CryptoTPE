@@ -77,3 +77,31 @@ Mais les techniques de cryptographie ont été cassées au cours de l'histoire :
 
 ## Travail à faire
 * Je vous propose la chose suivante : boutons suivants et précédents en bas et en haut 8 boutons pour faire un menu : Accueil/Antiquité/Renaissance/Guerres/Internet/Bilan-Conclu/Glossaire/Sources !
+
+### Remarques d'un relecteur externe :
+
+* Introduction :
+  * abyme -> abîme
+  * définir le mot "casser" à la première apparition
+* Scytale :
+  * elles se sont conclus -> elles se sont conclues
+  * Plutarque n'était pas un philosophe, mais un écrivain
+  * la roule autour de la scytale -> la roulent autour de la scytale
+  * "Donne et tu recevras" (mais ce n'est pas un codage du type décrit dans le texte !)
+* Le carré de Polybe
+  * élites romaines de la République romaine -> élites de la République romaine
+  * Mauréitanie -> Mauritanie ?
+  * Scipion Emelien -> Scipion Emilien (légende de la figure)
+  * petit fils adoptif -> petit-fils adoptif
+  * sont placés les lettres de l’alphabet -> sont placées les lettres de l’alphabet
+  * représentée ses coordonnées -> représentée par ses coordonnées
+  * par autres choses que -> par autre chose que
+  * correspond chaque coordonnées -> ??
+  * "audaces fortuna juvat"
+* Le chiffre de César
+  * dans Vies des douze Césars -> dans ses (les) "Vies des douze Césars"
+  * réduire au modulo -> "réduire modulo" ?
+  * "ave Ceasr, morituri te salutant"
+* La cryptanalyse d'Al-Kindi
+  * C’est qu’Ils ont justement -> C’est qu’ils ont justement
+  * Cette section se termine un peu en queue de poisson, ne manque-t-il pas quelque chose ?
