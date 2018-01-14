@@ -21,7 +21,7 @@ La tactique militaire allemande de guerre éclair (Blitzkrieg) constituait en un
 
 Du côté des alliés, pour casser le secret des communications, on centralisa les recherches à Bletchley Park, manoir victorien situé au nord du Londres où furent réunis mathématiciens brillants (d’Oxford et de Cambrige notamment), des linguistes et même des cruciverbistes émérites. A proximité du bâtiment, de nombreuses huttes furent érigées, chacune d’entre elles ayant une tâche particulière. Les allemands utilisaient une clef par jour ; cependant chaque armée avait sa propre clef : ainsi, trouver celle de la Luftwaffe ne permettait en aucune façon de connaître celle utilisée par les sous-marins. Cet effort de guerre des Alliés porta ses fruits : de 1940 à 1942, ils étaient en mesure déchiffrer les messages allemands, transmettant les plus sensibles aux ministères, influant ainsi de façon cruciale les décisions militaires prises par l’Etat-major.
 
-## Exemple
+### Exemple
 
 Pour rester sur le sujet des sous-marins, nous pouvons aborder la question de la “bataille de l’Atlantique” (expression de Churchill désignant l’ensemble des combats maritimes entre anglais et allemands) qui constitua un enjeu majeur pour le lien primordial entre le Royaume-Uni et les Etats-Unis. Comme nous l’indique le graphique ci-dessus, la qualité et l’efficience du projet Ultra permirent de réduire considérablement le nombre et le rôle des sous-marins allemands.
 
