@@ -14,9 +14,9 @@ L’art, ou la science de cacher des messages a connu plusieurs formes au cours 
 
 - La première a été de cacher le message aux yeux de ceux ne connaissant pas la méthode : c’est de la stéganographie.
 
-- La seconde consiste à protéger un message en le chiffrant par le biais de clés (secrètes ou publiques) qui le rendent incompréhensible : c'est de la cryptographie, sujet de notre TPE.
+- La seconde consiste à protéger un message en le chiffrant par le biais de clefs (secrètes ou publiques) qui le rendent incompréhensible : c'est de la cryptographie, sujet de notre TPE.
 
-Mais les techniques de cryptographie ont été vaincues au cours de l'histoire par des cryptanalystes. On parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clé ou la méthode de chiffrement. Ces deux disciplines réunies composent la cryptologie.
+Mais les techniques de cryptographie ont été vaincues au cours de l'histoire par des cryptanalystes. On parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clef ou la méthode de chiffrement. Ces deux disciplines réunies composent la cryptologie.
 
 
 **Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins en communication.**
@@ -120,22 +120,22 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
   * connaissant de considérables innovations -> connaissent de considérables innovations
   * (vu précédemment) : remplacer par un lien
   * occidentaux -> Occidentaux
-  * disque mobile ci-dessous -> disque mobile ci-dessus ?
-  * Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA
+  * **disque mobile ci-dessous -> disque mobile ci-dessus ?
+  * Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA**
 * Le chiffrement de Vigenère
-  * Ceci correspond à une clé littérale de 26 lettres : difficile à comprendre puisqu'on n'a pas encore parlé de chiffrement polyalphabétique
-  * "le principe de clé de Belaso : il change donc d’alphabet à chaque
+  * **Ceci correspond à une clef littérale de 26 lettres : difficile à comprendre puisqu'on n'a pas encore parlé de chiffrement polyalphabétique
+  * "le principe de clef de Belaso : il change donc d’alphabet à chaque
   nouvelle lettre" (le "donc" semble indiquer qu'on a déjà vu ce
-  principe, ce qui n'est pas le cas).
+  principe, ce qui n'est pas le cas).**
   * Partout : Clef ou clé ??
   * "Modélisation mathématique par une fonction définie..." : mettre une
   vraie phrase. Fonction définie SUR les entiers...
-  * "Au plus la clé est grande, au plus le niveau de sécurité est élevé" ??? (plus la clef est grande)
+  * "Au plus la clef est grande, au plus le niveau de sécurité est élevé" ??? (plus la clef est grande)
   * Trop de : dans la dernière phrase.
   * science sans conscience n'est que ruine de l'ame
 * Le grand chiffre de Louis XIV
   * bastion huguenot, pendant plusieurs mois (virgule essentielle !)
-  * “les ennemis” qu’il remplace pour (??) les quatre syllabes
+  * **“les ennemis” qu’il remplace pour (??) les quatre syllabes**
   * guerre de dévolution -> guerre de Dévolution
   * "crée un bureau spécialisé : à la fin du XVIIe et au cours du XVIIIe
   siècle, les cabinets noirs sévissent dans toute l’Europe : le Geheime
@@ -148,22 +148,24 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
   * Kasiski -> Friedrich Kasiski
   * Die Geheimschriftren -> Die Geheimschriften
   * die Dechiffrir-kunst” -> die Dechiffrir-Kunst”.
-  * mot clé ou mot-clé ??
+  * mot clef ou mot-clef ??
   * "Ils se sont donc tous deux" : de qui parle-t-on ?
-  * "la distance entre elles" : peu clair.
+  * **"la distance entre elles" : peu clair.**
   * Soit un message chiffré... En pratique, étant donné un message
   chiffré comportant... ?
   * Friedman -> Willian Friedman
-  * "En calculant l’indice de coïncidence pour toutes les lettres du message
-  modulo la taille de la clé que l’on veut tester" : expliquer bien mieux,
-  non compréhensible en l'état !
+  * **"En calculant l’indice de coïncidence pour toutes les lettres du message
+  modulo la taille de la clef que l’on veut tester" : expliquer bien mieux,
+  non compréhensible en l'état !**
   * une série de lettre -> une série de lettres
-  * vaut si n suffisamment grand ??
+  * **vaut si n suffisamment grand ??**
+
 * Les Guerres Mondiales
   * des communications ennemis -> des communications ennemies.
   * l’entre-deux guerre -> l’entre-deux-guerres,
   * Scherbius -> Arthur Scherbius
   * fastidueuse attaque d’Enigma par les Alliées -> fastidieuse attaque d’Enigma par les Alliés (enlever les majuscules inutiles).
+* ADFGVX
   * plus aucun des chiffrements n’est sûr -> car plus aucun des chiffrements n’est sûr
   * Marconi -> Guglielmo Marconi
   * par dessus -> par-dessus
