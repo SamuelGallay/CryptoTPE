@@ -26,14 +26,11 @@ Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et l
 <img src="{{ "/assets/1_Antiquite/carthage.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Reconstitution de la ville antique de Carthage</em> </p>
 
-## Le chiffrement
+## Fonctionnement et exemple
+
+### Le carré initial
 
 Le carré de Polybe est un système composé d’un carré de 25 cases dans lesquelles sont placés les lettres de l’alphabet (en français, le w est mis dans la même case que le v). Chaque lettre est représentée ses coordonnées dans ce carré : d’abord le chiffre de sa ligne puis celui de sa colonne. Ce système présente plusieurs avantages : la conversion de lettres en chiffres, la réduction du nombre de symboles utilisé pour coder (5) et la représentation de chaque lettre par deux éléments séparés.
-
-Il fut utilisé pendant très longtemps et notamment par les nihilistes russes au XIXe siècle, une organisation secrète dont le but était de tuer le tsar et ses représentants. Ils utilisaient ce code en prison en tapant contre le mur le nombre coups correspondant aux chiffres du messages. Cependant, une fois le système connu, n’importe qui peut déchiffrer le message.
-
-Il existe plusieurs variantes à ce carré comme celle qui remplace les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres). Une autre variante consiste donc à remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. On peut aussi remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes.
-
 
 |       | 1 | 2 | 3 | 4 | 5 |
 |-------|---|---|---|---|---|
@@ -51,9 +48,15 @@ Il existe plusieurs variantes à ce carré comme celle qui remplace les coordonn
 | **Clair**   | P  | O  | L  | Y  | B  | E  | A  | E  | U  | A  | C  | C  | E  | S  |
 | **Chiffré** | 41 | 35 | 32 | 54 | 12 | 15 | 11 | 15 | 51 | 11 | 13 | 13 | 15 | 44 |
 
+### Variantes
 
 Lorsqu’on sait que ce message a été codé avec le carré de Polybe, il est très facile de le décrypter. Il suffit de mettre les chiffres par groupes de deux et de regarder dans le tableau à quelles lettres correspondent ces coordonnées. 
-Maintenant, nous pouvons aussi créer une grille avec un alphabet désordonné commençant par le mot “POLYBE”
+Il existe donc plusieurs variantes à ce carré :
+* remplacer les coordonnées par autres choses que les chiffres 1 2 3 4 5 (par exemple d’autres chiffres ou des lettres)
+*  remplir les cases avec les lettres de l’alphabet, toujours, mais dans le désordre. Il devient alors plus compliqué de deviner à quelle lettre correspond chaque coordonnées. 
+* remplir le carré en commençant par un mot clé et compléter avec les lettres de l’alphabet restantes. \\
+Reprenons l'exemple précédent avec cette dernière variante. 
+On crée une grille avec un alphabet désordonné commençant par le mot “POLYBE”
 
 |       | 1 | 2 | 3 | 4 | 5 |
 |-------|---|---|---|---|---|
@@ -67,7 +70,7 @@ Le message “bibliothèque de Persée” ne sera plus codé `122412322435452315
 
 ## Faiblesse
 
-Il est aisé de briser ce chiffrement par [analyse des fréquences]({{ "/glossaire/" | relative_url }}) car une lettre est toujours remplacée par la même combinaison de chiffres.
+Il est aisé de briser ce chiffrement par [analyse des fréquences]({{ "/glossaire/" | relative_url }}) car une lettre est toujours remplacée par la même combinaison de chiffres. En dépit de sa grande faiblesse, il fut utilisé pendant très longtemps et notamment par les nihilistes russes au XIXe siècle, une organisation secrète dont le but était de tuer le tsar et ses représentants. Ils utilisaient ce code en prison en tapant contre le mur le nombre coups correspondant aux chiffres du messages. Cependant, une fois le système connu, n’importe qui peut déchiffrer le message.
 
 ## A vous de jouer !
 
