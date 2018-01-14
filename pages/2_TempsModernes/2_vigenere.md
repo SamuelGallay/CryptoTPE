@@ -22,7 +22,7 @@ Exemple : `Vigenère est remarquable` avec comme clef : `crypto`
 | **Clef**     |C|R|Y|P|T|O|C|R|Y|P|T|O|C|R|Y|P|T|O|C|R|Y|P|
 | **Chiffré** |X|Z|E|T|G|S|T|V|C|H|M|F|G|D|Y|G|J|I|C|S|J|T|
 
-Dans le tableau de Vigenère, les lignes sont pour la clef et les colonnes pour l'alphabet clair. La lettre chiffrée se trouve à l'intersection entre la ligne de la clef et de la colonne de la lettre claire. Pour chiffrer la première lettre, V, on identifie la lettre de la clef placée au-dessous, C, qui détermine la ligne. On repère ensuite la colonne commençant par V et on repère la lettre se trouvant à l'intersection de la ligne C et de la colonne V, c'est bien X.
+Dans le tableau de Vigenère, les lignes sont pour la clef et les colonnes pour l'alphabet clair. La lettre chiffrée se trouve à l'intersection entre la ligne de la clef et la colonne de la lettre claire. Pour chiffrer la première lettre, V, on identifie la lettre de la clef placée au-dessous, C, qui détermine la ligne. On repère ensuite la colonne commençant par V et on repère la lettre se trouvant à l'intersection de la ligne C et de la colonne V, c'est bien X.
 
 <img src="{{ "/assets/2_TempsModernes/vigenere.png" | relative_url }}" alt="Vigenere" style="margin: 0 auto;display: block; width: 700px;"/>
 <p align="center"> <em>La table de Vigenère</em> </p>
