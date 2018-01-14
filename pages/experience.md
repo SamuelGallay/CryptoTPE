@@ -15,9 +15,9 @@ Nous supposons dans notre raisonnement que le texte codé est en français.
 
 ## 1. Hypothèse “Chiffre de César”
 
-* Hypothèse : Nous supposons que le texte est codé avec un chiffrement de substitution mono-alphabétique (une lettre est toujours codé par une même autre lettre) et plus précisément un chiffre de César, c’est-à-dire un décalage alphabétique de quelques crans (jusqu’à 26) vers la droite ou vers la gauche.
+* Hypothèse : Nous supposons que le texte est codé avec un chiffrement de substitution mono-alphabétique (une lettre est toujours codé par une même autre lettre) et plus précisément un [chiffre de César]({{ "/cesar/" | relative_url }}), c’est-à-dire un décalage alphabétique de quelques crans (jusqu’à 26) vers la droite ou vers la gauche.
 
-* Si c’est un chiffre de César, alors les fréquences d’apparition de chaque lettre devraient être similaires à celle d’un texte français : avec d’importantes variations comme par exemple une fréquence importante pour la lettre “e” et beaucoup plus faible pour le “k” ou le “w”. Nous allons donc compter le nombre d’apparitions de chaque lettre et en déduire leur fréquence que nous comparerons ensuite aux fréquences moyennes trouvées dans la langue française.
+* Si c’est un chiffre de César, alors les fréquences d’apparition de chaque lettre devraient être similaires à celle d’un texte français : avec d’importantes variations comme par exemple une fréquence élevée pour la lettre “e” et beaucoup plus faible pour le “k” ou le “w”. Nous allons donc compter le nombre d’apparitions de chaque lettre et en déduire leur fréquence que nous comparerons ensuite aux fréquences moyennes trouvées dans la langue française.
 
 * Résultats : Nous voyons que les fréquences mesurées sont moins dispersées par rapport à la langue française (voir figure 1). Ainsi, aucune lettre ne se distingue clairement: la lettre la plus fréquente est à 7,2 % (pour la lettre M) contre 15,9 % pour le E en français et l’étendue de la fréquence est de 6,5 % contre 15.9% en français.
 
@@ -35,14 +35,7 @@ Le graphique montrant la corrélation entre la fréquence mesurée et celle de l
 
 ## 2. Hypothèse “Chiffre de Vigenère”
 
-* Hypothèse : nous supposons que le texte est codé avec le chiffre de Vigenère. C’est un chiffrement par substitution poly-alphabétique utilisant 26 alphabets codés distincts et un mot-clé pour crypter ou décrypter un message. Le mot-clé est épelé bien clairement au-dessus du message, et répété en boucle de sorte que chaque lettre du message soit associée à une lettre de la clé. On peut ensuite coder à l’aide du carré de Vigenère (voir figure 8), chaque lettre du mot-clé déterminant un alphabet de substitution.
-
-Exemple avec le mot-clé KILO :
-
-|Mot-clé    |    `KILOKILOKILOKILOKILO` |
-|Texte clair |   `thérussethéjasminthé` |
-|Texte chiffré | `DPPFEADSDPPXKAXWXBSS` |
-
+* Hypothèse : nous supposons que le texte est codé avec le [chiffre de Vigenère]({{ "/vigenere/" | relative_url }}). C’est un chiffrement par [substitution polyalphabétique]({{ "/glossaire/" | relative_url }}) utilisant 26 alphabets codés distincts et un mot-clef pour chiffrer ou déchiffrer un message. Chaque lettre du mot-clef détermine un alphabet de substitution.
 
 Il existe deux grandes méthodes de déchiffrement :
 
@@ -72,7 +65,7 @@ Une autre méthode possible consiste à calculer le PGCD des écarts. PGCD (75 ;
 <table><tr><th rowspan="2">Séquence répétée<br></th><th rowspan="2">Espace de répétition<br></th><th colspan="12">Longueurs de clefs possibles<br></th></tr><tr><td>2</td><td>3</td><td>5</td><td>7</td><td>10</td><td>15</td><td>21</td><td>23</td><td>25</td><td>35</td><td>50</td><td>75</td></tr><tr><td>SPWYDS</td><td>75</td><td></td><td>x</td><td>x</td><td></td><td></td><td>x</td><td></td><td></td><td>x</td><td></td><td></td><td>x</td></tr><tr><td>BWY</td><td>50</td><td>x</td><td></td><td>x</td><td></td><td>x</td><td></td><td></td><td></td><td>x</td><td></td><td>x</td><td></td></tr><tr><td>GAU</td><td>105</td><td></td><td>x</td><td>x</td><td>x</td><td></td><td>x</td><td>x</td><td></td><td></td><td>x</td><td></td><td></td></tr><tr><td>JMQM</td><td>115</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr><tr><td>YUT</td><td>15</td><td>x</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 <p align="center"> <em>Table 1</em> </p>
 
-* Il s’agit désormais de découvrir les lettres du mot-clé en question. Appelons le mot-clé L1-L2-L3-L4-L5 représentant la première lettre du mot-clé et ainsi de suite. La lettre L1 définit une ligne du carré de Vigenère, et procure un alphabet chiffré de substitution monoalphabétique pour la première lettre du texte en clair. Toutefois, pour crypter la deuxième lettre du texte clair, le cryptographe aura utilisé L2 pour définir une autre ligne du carré de Vigenère, procurant évidemment un autre alphabet chiffré de substitution monoalphabétique. La troisième lettre serait cryptée suivant L3, la quatrième suivant L4 et la cinquième suivant L5. Chaque lettre du mot-clé fournit un alphabet chiffré différent. Toutefois, la sixième lettre du texte clair sera à nouveau cryptée selon L1, la septième lettre selon L2 et le cycle se répète jusqu’au bout. En d’autres termes, le chiffre polyalphabétique est fait de 5 chiffres monoalphabétique, chaque chiffre monoalphabétique est responsable d’un cinquième du message. Or nous savons comment analyser des chiffres monoalphabétiques.
+* Il s’agit désormais de découvrir les lettres du mot-clé en question. Appelons le mot-clé L1-L2-L3-L4-L5 représentant la première lettre du mot-clé et ainsi de suite. La lettre L1 définit une ligne du carré de Vigenère, et procure un alphabet chiffré de substitution monoalphabétique pour la première lettre du texte en clair. Toutefois, pour crypter la deuxième lettre du texte clair, le cryptographe aura utilisé L2 pour définir une autre ligne du carré de Vigenère, procurant évidemment un autre alphabet chiffré de substitution monoalphabétique. La troisième lettre serait cryptée suivant L3, la quatrième suivant L4 et la cinquième suivant L5. Chaque lettre du mot-clé fournit un alphabet chiffré différent. Toutefois, la sixième lettre du texte clair sera à nouveau cryptée selon L1, la septième lettre selon L2 et le cycle se répète jusqu’au bout. En d’autres termes, le chiffre polyalphabétique est fait de 5 chiffres monoalphabétique, chaque chiffre monoalphabétique est responsable d’un cinquième du message. Or nous savons [comment analyser des chiffres monoalphabétiques]({{ "/al-kindi/" | relative_url }}).
 
 Nous savons que l’une des lignes du carré de Vigenère, définie par L1, commande l’alphabet chiffré pour la 1ère, la 6e, la 11e, la 16e… lettres du message. Donc si nous regardons la 1ère, la 6e, la 11e, la 16e… lettres du texte chiffré, nous pourrons utiliser l’analyse des fréquences pour déterminer l’alphabet en question. Nous calculons donc la fréquence de chaque lettre mais uniquement en en prenant une sur cinq (surlignées en jaune dans le texte suivant).
 
@@ -90,9 +83,6 @@ La figure 3 ci-dessous montre la fréquence de distribution des lettres apparais
 <p align="center"> <em>Figure 4</em> </p>
 
 Le graphique de la répétition usuelle est animé de pics, de plateaux et de creux. Son pic le plus important se trouve sous le E, précédé d’un creux sous BCD avec, pour A une présence relativement importante. Nous retrouvons dans la répartition de fréquences L1 un schéma du même type avec un pic pour Q, un creux pour NOP et un M un peu plus long. Cela nous donne envie de superposer les alphabets en faisant coÏncider le Q de l’alphabet chiffré avec le E de l’alphabet normal. Dans le cas où les deux graphiques présenteraient alors à peu près la même silhouette, nous pourrions en déduire que la première lettre du mot-clé, L1, est probablement M.
-
-
-
 
 ![figure5]({{ "/assets/exp/5.png" | relative_url }}){: .center-image }
 <p align="center"> <em>Figure 5</em> </p>

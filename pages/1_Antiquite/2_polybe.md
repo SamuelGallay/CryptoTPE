@@ -52,7 +52,7 @@ Il existe plusieurs variantes à ce carré comme celle qui remplace les coordonn
 | **Chiffré** | 41 | 35 | 32 | 54 | 12 | 15 | 11 | 15 | 51 | 11 | 13 | 13 | 15 | 44 |
 
 
-Lorsqu’on sait que ce message a été codé avec le carré de Polybe, il est très facile de le décrypter. Il suffit de mettre les chiffres par groupes de deux et de regarder dans le tableau à quelles lettres correspondent ces coordonnées.
+Lorsqu’on sait que ce message a été codé avec le carré de Polybe, il est très facile de le décrypter. Il suffit de mettre les chiffres par groupes de deux et de regarder dans le tableau à quelles lettres correspondent ces coordonnées. 
 Maintenant, nous pouvons aussi créer une grille avec un alphabet désordonné commençant par le mot “POLYBE”
 
 |       | 1 | 2 | 3 | 4 | 5 |
