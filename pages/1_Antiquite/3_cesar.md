@@ -26,7 +26,7 @@ César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la c
 <img src="{{ "/assets/1_Antiquite/alesia.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 600px;"/>
 <p align="center"> <em>Vercingétorix jette ses armes aux pieds de César, Lionel Royer, 1899</em> </p>
 
-Les Commentaires sur la guerre des Gaules de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car elle offre un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits, et il occulte le rôle des druides dans la société gauloise.
+Les *Commentaires sur la guerre des Gaules* de Jules César constituent une source presque unique de connaissance sur le déroulement de la conquête. C’est une source primaire qui est cependant à étudier avec un oeil critique car elle offre un point de vue subjectif. César cherche à y rehausser son mérite. II parle à la troisième personne, et utilise la forme impersonnelle pour évoquer les échecs. Il insiste sur la figure de Vercingétorix et tente de masquer le sens de l’organisation gauloise. Il n’évoque pas non plus les négociations, nombreuses, pour écourter des conflits, et il occulte le rôle des druides dans la société gauloise.
 
 Pour garder contact avec ses généraux, César utilisait un procédé de chiffrement rendant le message, s’il était saisi, incompréhensible pour l'ennemi.
 
@@ -34,7 +34,7 @@ Pour garder contact avec ses généraux, César utilisait un procédé de chiffr
 
 Ce procédé, appelé chiffre de César, consiste à décaler les lettres de l'alphabet de quelques crans vers la droite ou vers la gauche : il s'agit d'un [chiffrement par substitution monoalphabétique]({{ "/glossaire/" | relative_url }}).
 
-Il est décrit par l’historien romain Suétone dans Vies des douze Césars, Livre premier, César, LVI publié entre 119 et 122 :
+Il est décrit par l’historien romain Suétone dans *Vies des douze Césars*, Livre premier, César, LVI publié entre 119 et 122 :
  > « Extant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset: quae si qui investigare et persequi velit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet. »
 
 Ce qui donne en français :
@@ -71,15 +71,14 @@ $$ (n_{i} + k) \bmod 26 = n_{f} $$
 * Pour X, X=23, 23+3=26 et 26 modulo 26 = 0, 0=A, donc on code X par A
 * Dura lex, sed lex est chiffré `gxud oha, vhg oha`
 
-
-Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrement, notamment ceux d'érudits comme Aulu-Gelle et Dion Cassius.
-
-
 ## *Commentaires sur la Guerre des Gaules* de Jules César
-Les Commentaires sur la Guerre des Gaules n’évoquent en réalité jamais le chiffre de César mais parlent bien d’un moyen de cacher les messages aux yeux de l’ennemi comme dans cet extrait :
+
+Les *Commentaires sur la Guerre des Gaules* n’évoquent en réalité jamais le chiffre de César mais parlent bien d’un moyen de cacher les messages aux yeux de l’ennemi, comme dans cet extrait :
 >"Il [César] persuade alors un cavalier gaulois, en lui promettant de grandes récompenses, de porter une lettre à Cicéron. Il envoie celle-ci écrite en lettres grecques, afin que, si elle est interceptée, nos desseins ne soient pas pénétrés par les ennemis."
 
 La technique de chiffrement se borne ici à traduire le texte en grec. On peut supposer que Jules César considérait que les barbares auxquels il était confronté ne connaissaient pas l’écriture grecque. Cela ne l’empêchait pas, dans certains cas, d’utiliser une double protection grâce à la stéganographie : en effet le message chiffré envoyé à Cicéron était dissimulé sur la courroie d’une tragule (javelot).
+
+Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrement, notamment ceux d'érudits comme Aulu-Gelle et Dion Cassius.
 
 Tous ces témoignages sur la cryptographie en usage chez les grands chefs romains montrent la réalité de l’existence d’une réflexion sur la sécurité des missives, même dans la correspondance privée. Leur position dans la société et leurs actes militaires ont fait que nous avons gardé des traces de leurs techniques cryptographiques mais il semble évident que, dans les milieux lettrés aussi, ces tentatives de protection du contenu des lettres par la substitution devaient exister.
 
