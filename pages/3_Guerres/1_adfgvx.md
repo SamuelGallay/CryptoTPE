@@ -11,7 +11,7 @@ menu: /guerres/
 A la fin du XIXème siècle, la [cryptanalyse des chiffres polyalphabétiques]({{ "/cryptanalyse-vigenere/" | relative_url }}) par Babbage et Kasiski met la cryptographie en mauvais état, car plus aucun des chiffrements n'est sûr.
 En même temps, en Grande-Bretagne, Guglielmo Marconi inventa la Télégraphie Sans Fil (TSF, 1894) qui permettait d'envoyer sans câble des messages sur de très grandes distances. Un premier message sur 2km, puis un par-dessus la Manche, et enfin un d'un bout à l'autre de l'Atlantique, en 1901. On ne comprit pas tout de suite comment une onde parvenait à franchir la ligne d'horizon (la courbure de la Terre pose un problème), mais il fut montré plus tard que la couche ionisée de l'Atmosphère (60 km d'altitude) agit comme un miroir pour les ondes radio dans certaines gammes de fréquence.
 
-<img src="{{ "/assets/3_Guerres/propaTSF.png" | relative_url }}" alt="propaTSF" style="margin: 0 auto;display: block; width:400px;"/>
+<img src="{{ "/assets/3_Guerres/propaTSF.png" | relative_url }}" alt="propaTSF" style="margin: 0 auto;display: block; width:250px;"/>
 <p align="center"> <em> Propagations des ondes dans l'atmosphère </em> </p>
 
 A l'aube de la première Guerre Mondiale, les militaires virent tout de suit l'enjeu de cette découverte qui permettait de rester en contact avec les bataillons ou la flotte où qu'ils soient. Mais tous ces signaux, magiquement transmis à travers l'éther, sont reçus aussi bien par les alliés que par les ennemis… Cela renforce le besoin d'un cryptage efficace.
