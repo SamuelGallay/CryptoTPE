@@ -14,7 +14,7 @@ menu: /internet/
 
 Dans les années 70, une nouvelle problématique émerge : bien que les chiffrements symétriques soient efficaces pour chiffrer et déchiffrer rapidement de longs messages, il faut au préalable que les deux correspondants se soient échangés une clef.
 
-Avec l’informatique, ils doivent pouvoir s’échanger au travers de messages (de fait publics) la clef.
+Avec l’informatique, ils doivent pouvoir s’échanger la clef au travers de messages visibles de tous.
 
 Avec l'ère d'Internet, les mathématiciens s'intéressent particulièrement à la cryptograhie. \\
 Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte.
@@ -38,7 +38,7 @@ Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisé
 * Alice peut déterminer la clef secrète : $$ B^a \bmod p = (g^a)^b \bmod p = g^{ab} \bmod p $$
 * Bob en fait de même et obtient la clef identique : $$ A^b \bmod p = (g^b)^a = g^{ba} \bmod p = g^{ab} \bmod p $$ \\
 Ceci est rendu possible par la commutativité de la fonction puissance ! \\
-En connaissant p, g, A et B, il faudrait tout de même résoudre des calculs fort complexes pour trouver la clef secrète $$ g^{ab} $$
+En connaissant p, g, A et B, il faudrait en revanche effectuer des calculs fort complexes pour trouver la clef secrète $$ g^{ab} $$
 
 ### Exemple (on considérera des petits entiers par souci de simplicité)
 

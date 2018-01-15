@@ -11,31 +11,31 @@ menu: /internet/
 
 ## Eléments de contexte
 
-Dans la lignée de leurs contemporains mathématiciens-cryptographges Diffie et Hellman, trois chercheurs du MIT, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA.
+Dans la lignée de leurs contemporains mathématiciens-cryptographes Diffie et Hellman, trois chercheurs du MIT, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA.
 
 <img src="{{ "/assets/4_Internet/rsa.jpg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; width:400px; "/>
 <p align="center"> <em> Shamir, Rivest et Adleman </em> </p>
 
-Cet algorithme est encore utilisé aujourd'hui notamment pour le comerce électronique.
+Cet algorithme est encore utilisé aujourd'hui notamment pour le commerce électronique.
 
 ## Modélisation mathématique et fonctionnement
 
-Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$ tel que
+Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$ tels que
 * p et q soient deux nombres premiers ; n est le produit pq
-* pour $$ \phi (n) = (p-1)(q-1) $$ où $$ \phi (n) $$ est l'indicatrice d'Euler, i.e la quantité de nombres inférieurs à $$ n $$ et premiers avec $$ n $$
+* pour $$ \phi (n) = (p-1)(q-1) $$ où $$ \phi (n) $$ est l'indicatrice d'Euler, i.e le nombre d'entiers inférieurs à $$ n $$ et premiers avec $$ n $$
 * e soit un entier premier avec $$ \phi (n) $$
-* d respecte l'égalité $$ ed = 1 \bmod \phi (n) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ \phi (n) $$
+* d vérifie l'égalité $$ ed = 1 \bmod \phi (n) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ \phi (n) $$
 On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres (remarque : il existe un unique d respectant l'égalité) \\
 Bob a donc une **clef publique (n ; e)** et une **clef privée, secrète (n ; d)** \\
 Alice pour envoyer un message à Bob a accès à sa clef publique \\
-Ce message constituera en un ou plusieurs entiers codés de la façon suivante :
+Ce message sera constitué de un ou plusieurs entiers codés de la façon suivante :
 * Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$
 * Elle calcule le nombre $$ C = M^e \bmod n $$ qu'elle envoie à Bob \\
 Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
 $$ D = C^d \bmod n = (M^e)^d \bmod n = \color{red} {M^{ed}\bmod n} \color{red} {=} \color{red} {M \bmod n}  $$ \\
 Bob a bien retrouvé le message d'Alice
 
-Il n'est pas inutile de préciser que dans le cas où l'on associerait pour chaque lettre du message le nombre de la norme ASCII correspondant, puis que l'on chiffre, il suffirait à partir du message chiffré public de déchiffrer le message par analyse des fréquences. C'est pourquoi on ajoute des nombres aléatoires au sein de la suite de chiffres, ce qui résout de fait cet écueil.
+Il n'est pas inutile de préciser que dans le cas où l'on associerait à chaque lettre du message le nombre de la norme ASCII correspondant, puis que l'on chiffre, il suffirait à partir du message chiffré public de déchiffrer le message par analyse des fréquences. C'est pourquoi on ajoute des nombres aléatoires au sein de la suite de chiffres, ce qui résout de fait cet écueil.
 
 Le RSA repose donc sur deux fondements :
 * Mathématiquement du théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
