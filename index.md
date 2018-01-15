@@ -80,15 +80,6 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
 
 ### Remarques d'un relecteur externe :
 
-* Scytale :
-  * "Donne et tu recevras" (mais ce n'est pas un codage du type décrit dans le texte !)
-* Le carré de Polybe
-  * correspond chaque coordonnées -> ??
-* La cryptanalyse d'Al-Kindi
-  * Cette section se termine un peu en queue de poisson, ne manque-t-il pas quelque chose ?
-
-
-
 * Le cadran d’Alberti : La mécanisation du chiffrement
   * disque mobile ci-dessous -> disque mobile ci-dessus ?
   * Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA
@@ -117,6 +108,4 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
   * Calcul du nombre de clefs potentielles avec 3 rotors : Les exposants n'apparaissent pas correctement
   * Il faut absolument dire que le cryptage est symétrique (involutif).
   * Le fonctionnement du tableau de connexion n'est pas expliqué, donc on ne comprend pas les calculs combinatoires qui suivent.
-* La cryptanalyse d'Enigma
-  * la clef de 3 lettres -> quelle clef ? Non expliqué au préalable.
-  * retrouver la clef du jour, qui était composée, rappelons-le : cela n'a pas été précisé dans la section précédente, et cela manque !
+  * *Je pense qu'il faut plus parler de la méthode d'utilisation d'énigma par les allemands, quelle est la clef du jour, quelle est la clef de trois lettres au début de chaque message car c'est très important pour comprendre la cryptanalyse (Samuel)*
