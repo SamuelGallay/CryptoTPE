@@ -80,103 +80,43 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
 
 ### Remarques d'un relecteur externe :
 
-* Introduction :
-  * abyme -> abîme
-  * définir le mot "casser" à la première apparition
 * Scytale :
-  * elles se sont conclus -> elles se sont conclues
-  * Plutarque n'était pas un philosophe, mais un écrivain
-  * Problèmes dates Plutarque: 1er siècle après J.-C. et pas avant J.-C.
-  * la roule autour de la scytale -> la roulent autour de la scytale
-  * **"Donne et tu recevras" (mais ce n'est pas un codage du type décrit dans le texte !)**
+  * "Donne et tu recevras" (mais ce n'est pas un codage du type décrit dans le texte !)
 * Le carré de Polybe
-  * élites romaines de la République romaine -> élites de la République romaine
-  * Mauréitanie -> Mauritanie ?
-  * Scipion Emelien -> Scipion Emilien (légende de la figure)
-  * petit fils adoptif -> petit-fils adoptif
-  * sont placés les lettres de l’alphabet -> sont placées les lettres de l’alphabet
-  * représentée ses coordonnées -> représentée par ses coordonnées
-  * par autres choses que -> par autre chose que
-  * **correspond chaque coordonnées -> ??**
-  * "audaces fortuna juvat"
-* Le chiffre de César
-  * dans Vies des douze Césars -> dans ses (les) "Vies des douze Césars"
-  * réduire au modulo -> "réduire modulo" ?
-  * "ave Ceasr, morituri te salutant"
+  * correspond chaque coordonnées -> ??
 * La cryptanalyse d'Al-Kindi
-  * C’est qu’Ils ont justement -> C’est qu’ils ont justement
-  * **Cette section se termine un peu en queue de poisson, ne manque-t-il pas quelque chose ?**
+  * Cette section se termine un peu en queue de poisson, ne manque-t-il pas quelque chose ?
 
 
 
-* La Renaissance et les Temps Modernes
-  * Accent sur Moyen Âge
-  * rivalités entre les états -> rivalités entre les Etats (et ainsi de suite)
-  * La cryptologie est devenue professionnelle, [et constitue] un enjeu diplomatique et politique majeur.    
-  * on l’utilise toujours autant -> on utilise toujours autant la cryptologie ?
-  * La Cryptanalyse du chiffre de Vigenère ?? Phrase sans conclusion.
 * Le cadran d’Alberti : La mécanisation du chiffrement
-  * Garribaldi -> Garibaldi
-  * connaissant de considérables innovations -> connaissent de considérables innovations
-  * (vu précédemment) : remplacer par un lien
-  * occidentaux -> Occidentaux
-  * **disque mobile ci-dessous -> disque mobile ci-dessus ?**
-  * **Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA**
+  * disque mobile ci-dessous -> disque mobile ci-dessus ?
+  * Tableau en fin de page difficile à comprendre : que signifient xX, vD, mA
 * Le chiffrement de Vigenère
-  * **Ceci correspond à une clef littérale de 26 lettres : difficile à comprendre puisqu'on n'a pas encore parlé de chiffrement polyalphabétique**
-  * **"le principe de clef de Belaso : il change donc d’alphabet à chaque
+  * Ceci correspond à une clef littérale de 26 lettres : difficile à comprendre puisqu'on n'a pas encore parlé de chiffrement polyalphabétique
+  * "le principe de clef de Belaso : il change donc d’alphabet à chaque
   nouvelle lettre" (le "donc" semble indiquer qu'on a déjà vu ce
-  principe, ce qui n'est pas le cas).**
-  * Partout : Clef ou clé ??
-  * "Modélisation mathématique par une fonction définie..." : mettre une
-  vraie phrase. Fonction définie SUR les entiers...
-  * "Au plus la clef est grande, au plus le niveau de sécurité est élevé" ??? (plus la clef est grande)
-  * Trop de : dans la dernière phrase.
-  * science sans conscience n'est que ruine de l'ame
+  principe, ce qui n'est pas le cas).
 * Le grand chiffre de Louis XIV
-  * bastion huguenot, pendant plusieurs mois (virgule essentielle !)
-  * **“les ennemis” qu’il remplace pour (??) les quatre syllabes**
-  * guerre de dévolution -> guerre de Dévolution
-  * "crée un bureau spécialisé : à la fin du XVIIe et au cours du XVIIIe
-  siècle, les cabinets noirs sévissent dans toute l’Europe : le Geheime
-  Kabinetskanzlei de Vienne est le plus efficace : en moins de deux
-  heures, tout le contenu du sac postal est ouvert, recopié, et
-  recacheté." Enumération désordonnée, trop de : .
-  * 3 x "mener une politique" dans la même partie de texte !
-  * "augmentation exponentielle" -> "augmentation spectaculaire" ou ...
+  * “les ennemis” qu’il remplace pour (??) les quatre syllabes
 * La cryptanalyse du chiffre de Vigenère
-  * Kasiski -> Friedrich Kasiski
-  * Die Geheimschriftren -> Die Geheimschriften
-  * die Dechiffrir-kunst” -> die Dechiffrir-Kunst”.
-  * mot clef ou mot-clef ??
-  * "Ils se sont donc tous deux" : de qui parle-t-on ?
-  * **"la distance entre elles" : peu clair.**
-  * Soit un message chiffré... En pratique, étant donné un message
-  chiffré comportant... ?
-  * Friedman -> Willian Friedman
-  * **"En calculant l’indice de coïncidence pour toutes les lettres du message
+  * "la distance entre elles" : peu clair.
+  * "En calculant l’indice de coïncidence pour toutes les lettres du message
   modulo la taille de la clef que l’on veut tester" : expliquer bien mieux,
-  non compréhensible en l'état !**
-  * une série de lettre -> une série de lettres
-  * **vaut si n suffisamment grand ??**
+  non compréhensible en l'état !
+  * vaut si n suffisamment grand ??
 
-* Les Guerres Mondiales
-  * des communications ennemis -> des communications ennemies.
-  * l’entre-deux guerre -> l’entre-deux-guerres,
-  * Scherbius -> Arthur Scherbius
-  * fastidueuse attaque d’Enigma par les Alliées -> fastidieuse attaque d’Enigma par les Alliés (enlever les majuscules inutiles).
-* ADFGVX
-  * plus aucun des chiffrements n’est sûr -> car plus aucun des chiffrements n’est sûr
-  * Marconi -> Guglielmo Marconi
-  * par dessus -> par-dessus
-  * les ondes radio [dans certaines gammes de fréquence]
-  * Image disparue ??
-  * l’enjeux -> l’enjeu
-  * les allemands -> les Allemands
-  * George Painvin -> Georges Painvin
-  * éclairant les français -> éclairant ainsi les Français
-  * une grille de 6x6 -> une grille de taille 6x6 ?
-  * entre autre 128 -> entre autres 128
-  * les américains -> les Américains, idem les Allemands, les Anglais, occupés ??
-  * l’amirauté -> l’Amirauté
-  * Les allemands exigeaient un combat direct : but de cette phrase ?
+
+* Le contexte de la seconde Guerre Mondiale : page à relire !!
+  * "la conquête de l'Axe" : paragraphe au titre étrange, et à la rédaction à relire !
+  * cependant chaque armée avait sa propre clef : phrase en suspens
+  * l’efficience du projet Ultra : ce projet n'est pas mentionné au préalable
+  * Le graphique bateaux/sous-marins n'indique rien.
+  * Le Japon ne participait pas à ce moment à la guerre : à quel moment ??
+* Le fonctionnement d'Enigma
+  * Calcul du nombre de clefs potentielles avec 3 rotors : Les exposants n'apparaissent pas correctement
+  * Il faut absolument dire que le cryptage est symétrique (involutif).
+  * Le fonctionnement du tableau de connexion n'est pas expliqué, donc on ne comprend pas les calculs combinatoires qui suivent.
+* La cryptanalyse d'Enigma
+  * la clef de 3 lettres -> quelle clef ? Non expliqué au préalable.
+  * retrouver la clef du jour, qui était composée, rappelons-le : cela n'a pas été précisé dans la section précédente, et cela manque !
