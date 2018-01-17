@@ -37,3 +37,5 @@ Exemple avec lettre index A et le disque mobile ci-dessus :
 
 | **Clair**   |A |L|B|E|R|T|I|E |S|T|G |E|N|I|A|L|
 | **Chiffre** |xX|E|K|M|B|S|L|vD|F|C|mA|E|B|G|M|Q|
+
+On précisera que les minuscules ne sont pas des caractères correspondant à une lettre claire, mais des lettres qui indiquent que l'on doit tourner le cadran en alignant cette lettre index (ici A)
