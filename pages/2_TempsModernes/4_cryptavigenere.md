@@ -7,7 +7,7 @@ partie: Les Temps Modernes
 menu: /temps-modernes/
 ---
 
-## Cryptanalyse du chiffre de Vigenère
+## Un peu d'histoire
 
 La "méthode historique" fut inventée par le mathématicien britannique Charles Babbage, connu notamment pour ses machines à différence, vers 1854 mais sa découverte resta ignorée en l'absence d'écrit. Pendant ce temps, un officier prussien à la retraite, Friedrich Kasiski, parvint au même résultat et publia en 1863 "Die Geheimschriften und die Dechiffrir-Kunst".
 
@@ -18,13 +18,13 @@ En pratique, étant donné un message chiffré comportant deux séquences répé
 
 Il faut ensuite déterminer le mot-clef grâce à l'analyse des fréquences et déchiffrer le texte avec le mot-clef.
 
-## L'indice de coïncidence
+## Un outil mathématique : l'indice de coïncidence
 
 En 1920, le cryptologue de l’armée américaine Willian Friedman met au point l’indice de coïncidence. Avec un texte de n lettres et $$ n_{i} $$ occurences d'une lettre donnée dans le message, on a :
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
 
-En calculant l'indice de coïncidence pour toutes les lettres du message modulo la taille de la clef que l'on veut tester, on peut, pour la taille de la clef où cet indice est anormalement grand, affirmer que ceci est la taille de la clef du message. En effet, prendre une lettre sur n lorsque n est la longueur de la clef revient à prendre une série de lettres toujours chiffrée avec le même décalage, l’indice de coïncidence est donc égal à celui du texte clair.
+En supposant que la clef est d'une longueur n, on regarde une lettre sur n et on calcule l'indice de coïncidence pour cette série de lettre. En effet, prendre une lettre sur n lorsque n est la longueur de la clef revient à prendre une série de lettres toujours chiffrée avec le même décalage, l’indice de coïncidence est donc égal à celui du texte clair. Si ccet indice est anormalement grand pour une longueur de clef testée, c'est probablement la bonne taille de clef ou le cas échéant un multiple de celle-ci.
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n_{i}}{n^2-n} \approx \sum_{i=a}^z \frac{n_{i}^2}{n^2} = \sum_{i=a}^z (\frac{n_{i}}{n})^2 $$
 
