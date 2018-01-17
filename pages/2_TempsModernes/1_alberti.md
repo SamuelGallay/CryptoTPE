@@ -30,7 +30,7 @@ L’instrument comporte deux disques de cuivres ; l’un, fixe, est gravé de l�
 
 ## Exemple
 
-Exemple avec lettre index A et le disque mobile ci-dessous :
+Exemple avec lettre index A et le disque mobile ci-dessus :
 * message en clair : `Alberti est génial`
 * Message codé : `x xekmbsl v dfc m aebgmq`
 
