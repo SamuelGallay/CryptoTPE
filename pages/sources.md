@@ -21,3 +21,6 @@ permalink: /sources/
 http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883
 # Images
+* http://www.union-gaulliste-de-france.org (débarquement)
+* www.bild.bundesarchiv.de (blitzkrieg)
+* www.secondeguerre.net (enigma machine)
