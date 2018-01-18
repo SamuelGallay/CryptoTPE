@@ -24,8 +24,7 @@ Les allemands utilisaient une clef par jour ; cependant chaque armée avait sa p
 
 ### Exemple
 
-Pour rester sur le sujet des sous-marins, nous pouvons aborder la question de la “bataille de l’Atlantique” (expression de Churchill désignant l’ensemble des combats maritimes entre anglais et allemands) qui constitua un enjeu majeur pour le lien primordial entre le Royaume-Uni et les Etats-Unis. Comme nous l’indique le graphique ci-dessus, la qualité d'Ultra permirent de réduire considérablement le nombre et le rôle des sous-marins allemands.
-
+Pour rester sur le sujet des sous-marins, nous pouvons aborder la question de la “bataille de l’Atlantique” (expression de Churchill désignant l’ensemble des combats maritimes entre anglais et allemands) qui constitua un enjeu majeur pour le lien maritime primordial entre le Royaume-Uni et les Etats-Unis. Comme nous l’indique le graphique ci-dessus, la qualité d'Ultra permit de réduire considérablement le nombre et le rôle des sous-marins allemands.
 
 <img src="{{ "/assets/3_Guerres/sous-marins.png" | relative_url }}" alt="SousMarins" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Graphique des sous-marins allemands coulés et de la quantité de navires alliés coulés</em> </p>
