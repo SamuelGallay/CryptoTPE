@@ -19,7 +19,7 @@ Nous supposons dans notre raisonnement que le texte codé est en français.
 
 * Si c’est un chiffre de César, alors les fréquences d’apparition de chaque lettre devraient être similaires à celle d’un texte français : avec d’importantes variations comme par exemple une fréquence élevée pour la lettre “e” et beaucoup plus faible pour le “k” ou le “w”. Nous allons donc compter le nombre d’apparitions de chaque lettre et en déduire leur fréquence que nous comparerons ensuite aux fréquences moyennes trouvées dans la langue française.
 
-* Résultats : Nous voyons que les fréquences mesurées sont moins dispersées par rapport à la langue française (voir figure 1). Ainsi, aucune lettre ne se distingue clairement: la lettre la plus fréquente est à 7,2 % (pour la lettre M) contre 15,9 % pour le E en français et l’étendue de la fréquence est de 6,5 % contre 15.9% en français.
+* Résultats : Nous voyons que les fréquences mesurées sont moins dispersées par rapport à la langue française (voir figure 1). Ainsi, aucune lettre ne se distingue clairement: la lettre la plus fréquente est à 7,2 % (pour la lettre M) contre 15,9 % pour le E en français.
 
 ![figure1]({{ "/assets/exp/1.png" | relative_url }}){: .center-image }
 <p align="center"> <em>Figure 1</em> </p>
@@ -39,7 +39,7 @@ Le graphique montrant la corrélation entre la fréquence mesurée et celle de l
 
 Il existe deux grandes méthodes de déchiffrement :
 
-* Méthode moderne : [l’indice de coïncidence]({{ "/cryptanalyse-vigenere/" | relative_url }}). Le test de l'indice de coïncidence consiste à prendre une lettre sur n dans le message, et de mesurer l'indice de coïncidence. Cela nécessite de calculer pour le texte en prenant toutes les lettres (comme fait précédemment) puis une lettre sur 2, puis en ne prenant qu'une lettre sur 3, etc... On calcule l'indice de coïncidence à chaque fois. L'indice de coïncidence maximal est obtenu quand le texte est le moins aléatoire possible.
+* Méthode moderne : [l’indice de coïncidence]({{ "/cryptanalyse-vigenere/" | relative_url }}). Le test de l'indice de coïncidence consiste à prendre une lettre sur n dans le message, et de mesurer l'indice de coïncidence. Cela nécessite de calculer l'indice de coïncidence pour le texte en prenant toutes les lettres (comme fait précédemment) puis une lettre sur 2, puis en ne prenant qu'une lettre sur 3, etc... On calcule l'indice de coïncidence à chaque fois. L'indice de coïncidence maximal est obtenu quand le texte est le moins aléatoire possible.
 
 Nous avons tenté de calculer l'indice de coïncidence pour une clé de longueur 2 ; au vu du temps que cela nous a pris, nous en avons conclu que cette méthode était inapropriée pour trois lycéens armés seulement de stylos et de feuilles.
 
