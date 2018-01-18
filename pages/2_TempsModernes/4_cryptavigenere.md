@@ -32,8 +32,8 @@ En supposant que la clef est d'une longueur k, on regarde une lettre sur k et on
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n_{i}}{n^2-n} \approx \sum_{i=a}^z \frac{n_{i}^2}{n^2} = \sum_{i=a}^z (\frac{n_{i}}{n})^2 $$
 
-vaut si n suffisamment grand \\
-où $$ n $$ est la longueur du texte et $$ n_{i} $$ la fréquence d’apparition de la lettre i dans le texte
+
+Ici $$ n $$ est la longueur du message et $$ n_{i} $$ est la fréquence d’apparition de la lettre i dans le texte.
 
 Dans sa définition de l'indice de coïncidendce par, Friedman utilise, à la place du carré traditionnel, le carré utilisé en statistiques défini par $$ x \times (x-1) $$ qui offre de meilleures propriétés dans le problème donné. Le calcul ci-dessus montre que si la taille du message est suffisament grande, alors l'indice de coïncidence se rapproche de la somme des écarts types des fréquences d'apparition des lettres. C'est pour cela qu'en pratique et notamment en informatique on utilise plus souvent cette seconde énonciation.
 
