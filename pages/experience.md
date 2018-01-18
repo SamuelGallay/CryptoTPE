@@ -63,7 +63,11 @@ Nous avons tenté de calculer l'indice de coïncidence pour une clé de longueur
 <span style="color:LimeGreen;">SPWYDS</span>
 <span>RMWEOOVWCUOTIEDKDSDETBSGBRQILLKALQUXMYJMGQWVE</span>
 <span style="color:DodgerBlue;">JMQM</span>
-<span>NJMIZVGQRCUKTUGEYUSYETBWQNIWVQLKBIYPYUIOHGXTQEZNYUTPMHUSGKIFTKVYUTYWMEPRCWXETBIQTRIYDOXMZMDOAWUPKZPMNAQX</span>
+<span>NJMIZVGQRCUKTUGEYUSYETBWQNIWVQLKBIYPYUIOHGXTQEZN</span>
+<span style="color:Magenta;">YUT</span>
+<span>PMHUSGKIFTKV</span>
+<span style="color:Magenta;">YUT</span>
+<span>YWMEPRCWXETBIQTRIYDOXMZMDOAWUPKZPMNAQX</span>
 
 Pour trouver la longueur du mot-clé, on analyse l’espacement en nombre de lettres entre les occurrences de chaque séquence. Comme illustré dans l’exemple ci-dessous on voit que l’espacement entre les occurrences d’une séquence (ici “DPP” correspondant au mot “thé”)  correspond à la longueur du mot clé (ici 4) ou à un multiple de cette longueur (8, 12, 16, etc)  
 
