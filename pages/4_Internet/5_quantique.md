@@ -28,7 +28,7 @@ Dans le protocole que nous allons vous présenter, les photons pourrons prendre 
 <img src="{{ "/assets/4_Internet/polarisation2.png" | relative_url }}" alt="polarisation2" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Les 4 polarisations différentes : 0°, 90°, 45° et 135°</em> </p>
 
-Il est évident qu'un photon polarisé à 45° ne traversera pas un filtre polarisé à 135° puisque ces deux derniers sont polarisés de manière perpendiculaire. Mais qu'en est-il s'il essaye de traverser un filtre polarisé à 0° ou 90° ? La réponse est qu'il a exactement une chance sur deux.
+Il est évident qu'un photon polarisé à 45° ne traversera pas un filtre polarisé à 135° puisque la polarisation du photon est perpendiculaire à celle du filtre. Mais qu'en est-il s'il essaye de traverser un filtre polarisé à 0° ou 90° ? La réponse est qu'il a exactement une chance sur deux.
 
 Voici le tableau complet des 16 combinaisons possibles de photons et de filtres.
 
