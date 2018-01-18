@@ -11,11 +11,11 @@ menu: /internet/
 
 ### Eléments de contexte
 
+Le problème de distribution de la clef a été le problème constant des cryptographes au cours de l’histoire. Pendant la seconde guerre mondiale, le haut commandement allemand devait ainsi distribuer le registre mensuel des clefs quotidiennes à tous les opérateurs d’Enigma, ce qui constituait un problème de logistique considérable.
 
-Dans les années 70, une nouvelle problématique émerge : bien que les chiffrements symétriques soient efficaces pour chiffrer et déchiffrer rapidement de longs messages, il faut au préalable que les deux correspondants se soient échangés une clef.
+La distribution des clefs constitua le problème primordial pour les cryptographes de l’après-guerre. La cryptologie était vouée à se développer pour des applications civiles et quotidienne, telles que le commerce, l’échange d’e-mail, etc. via internet. Il fallait pour cela qu’elle soit capable d’assurer son objectif premier, c’est-à-dire protéger la confidentialité des données. Pour les transactions commerciales, le dilemme se posait clairement : si les gouvernement, avec tout leur argent, avaient peine à garantir la sécurité de leurs clefs, comment des entreprises civiles pourraient-elles jamais espérer jouir d’une distribution de clefs sûre et non ruineuse ?
 
-Avec l’informatique, ils doivent pouvoir s’échanger la clef au travers de messages visibles de tous.
-
+Ce problème ne fut résolu que durant les années 70. \\ 
 Avec l'ère d'Internet, les mathématiciens s'intéressent particulièrement à la cryptograhie. \\
 Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte.
 
