@@ -6,8 +6,6 @@ partie: Les Temps Modernes
 menu: /temps-modernes/
 ---
 
-# Le cadran d’Alberti : La mécanisation du chiffrement
-
 ## L'Italie de la Renaissance
 
 Aux XIV et XVe siècles, l’Italie, territoire morcelé et fragmenté en de nombreuses cité-états indépendantes et rivales (son unité ne viendra qu’à la fin du XIXe siècle sous l’impulsion de Garibaldi), est le terrain propice pour un essor des écritures secrètes. Les villes marchandes, enrichies grâce au commerce, sont en conflit permanent. Il s’agit pour les souverains de fomenter en toute confidentialité des complots contre leurs adversaires d’une part et d’autre part d’intercepter et de déchiffrer les missives adverses pour déjouer les intrigues. Selon l’historien David Kahn, “le développement de la cryptologie est directement lié à l’épanouissement de la diplomatie moderne. Pour la première fois les Etats entretiennent des relations permanentes. Les ambassadeurs en poste - appelés “honorables espions” - envoient régulièrement des rapports qu’il est nécessaire de chiffrer en raison des jalousies, des suspicions et des intrigues qui empoisonnent les rapports entre les cités-états d’Italie.” La course au chiffrement commence : Venise se dote de secrétaires-chiffreurs ; ces “espions postaux” étudient les courriers destinés aux ambassadeurs des principautés voisines, suivie par ses rivales Florence, Gênes et Naples. Cette pratique se généralise en Europe, notamment en France et en Angleterre. En revanche, les pays d’Europe du Nord et de l’Est, tels que la Suède, la Pologne et l’Allemagne sont ignorants en la matière.
