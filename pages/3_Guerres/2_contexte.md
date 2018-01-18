@@ -29,7 +29,12 @@ Pour rester sur le sujet des sous-marins, nous pouvons aborder la question de la
 <img src="{{ "/assets/3_Guerres/sous-marins.png" | relative_url }}" alt="SousMarins" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Graphique des sous-marins allemands coulés et de la quantité de navires alliés coulés</em> </p>
 
-Dans l’autre sens, lorsqu’au cours de l’année 1942, Bletchley Park se trouva impuissant à trouver les clefs quotidiennes des allemands, ce qui impliqua des pertes considérables dans l’Atlantique : les allemands, de peur que les alliés ne découvrissent le fonctionnement d’Enigma, le modifièrent au cours de la guerre : plusieurs versions se succédèrent, et la nouvelle de 1942 donna beaucoup de difficulté aux cryptanalystes.
+Nous voyons sur le graphique ci-dessus qu'au cours de l'année 1942, le nombre de navires coulés par les allemands explose (multiplié par enivron 6) tandis que le nombre de U-boote coulés est très faible (moins de 5). Ceci s'explique par une modification d'Enigma par l'armée allemande. Bletchley Park se trouve alors impuissant à trouver les clefs quotidiennes des allemands et donc à déterminer les agissements des allemands dans l'Atlantique. \\
+Afin de déterminer les clefs du jour des allemands, les Alliés utilisent la force en capturant des sous-marins contenant les clefs utilisées pour le chiffrement. \\
+A partir de 1943, la cryptanalyse est rendue de nouveau possible à Bletchley Park. \\
+Sur le graphique, on remarque une importante baisse du nomrbe de navires Alliés coulés (divisé par 7) et une considérable hausse du nombre de sous-marins allemands coulés (de 5 à environ 40). \\
+Ceci montre l'impact concret de la cryptologie sur la guerre.
+
 
 ## La contre-offensive des Alliés (1942-1945)
 
