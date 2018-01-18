@@ -79,13 +79,6 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
 
 ## Remarques d'un relecteur externe :
 
-### La cryptanalyse du chiffre de Vigenère
-  * "la distance entre elles" : peu clair.
-  * "En calculant l’indice de coïncidence pour toutes les lettres du message
-  modulo la taille de la clef que l’on veut tester" : expliquer bien mieux,
-  non compréhensible en l'état !
-  * vaut si n suffisamment grand ??
-
 ### Le contexte de la seconde Guerre Mondiale : page à relire !!
   * "la conquête de l'Axe" : paragraphe au titre étrange, et à la rédaction à relire !
   * cependant chaque armée avait sa propre clef : phrase en suspens
@@ -105,7 +98,6 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
 
 ### Le DES : Un chiffrement symétrique
   * Mentionner brièvement comment déchiffrer un message chiffré avec Lucifer, de façon à justifier l'appellation "chiffrement symétrique"
-  * Préciser qui est la NSA (Glossaire ?)
 
 ### Le RSA
   * Il manque de la ponctuation un peu partout, et la présentation est un peu chaotique.
@@ -115,9 +107,4 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
   * Eve peut aisément, sans factoriser n, retrouver le message : comment ?
   * On parle de Kerckoffs ???
 
-
-### Compte-rendu d'expérience
-  * l’étendue de la fréquence est de 6,5 % : cela signifie quoi ?
-  * je ne comprends pas la figure 2
-  * Cela nécessite de calculer pour le texte ?
   
