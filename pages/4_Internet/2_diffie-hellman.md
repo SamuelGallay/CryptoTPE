@@ -7,9 +7,7 @@ partie: "L'ère d'Internet"
 menu: /internet/
 ---
 
-## Le protocole d'échange de clefs Diffie-Hellman
-
-### Eléments de contexte
+## Eléments de contexte
 
 Le problème de distribution de la clef a été le problème constant des cryptographes au cours de l’histoire. Pendant la seconde guerre mondiale, le haut commandement allemand devait ainsi distribuer le registre mensuel des clefs quotidiennes à tous les opérateurs d’Enigma, ce qui constituait un problème de logistique considérable.
 
@@ -27,7 +25,7 @@ Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisé
 <img src="{{ "/assets/4_Internet/diffie-hellman1.png" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em> Une analogie avec de la peinture pour comprendre </em> </p>
 
-### Modélisation mathématique et fonctionnement
+## Modélisation mathématique et fonctionnement
 
 * Alice et Bob veulent s’échanger une clef
 * Alice choisit un grand nombre premier $$ p $$ et une base $$ g $$ avec $$ g \leq p $$
@@ -40,7 +38,7 @@ Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisé
 Ceci est rendu possible par la commutativité de la fonction puissance ! \\
 En connaissant p, g, A et B, il faudrait en revanche effectuer des calculs fort complexes pour trouver la clef secrète $$ g^{ab} $$
 
-### Exemple (on considérera des petits entiers par souci de simplicité)
+## Exemple (on considérera des petits entiers par souci de simplicité)
 
 * Alice et Bob définissent p = 41 et g = 6
 * Alice choisit comme nombre secret a = 7
