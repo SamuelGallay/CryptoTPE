@@ -48,16 +48,20 @@ Nous avons tenté de calculer l'indice de coïncidence pour une clé de longueur
 * Recherche de la longueur du mot-clé: Nous relevons plusieurs séquences qui se répètent, elles sont en couleur dans le texte ci-dessous.
 
 <span>ATKUTESAATQNJAXANBWPQT</span>
-<span style="color:#8B0000;">BWY</span>
+<span  style="color:DarkRed;">BWY</span>
 <span>EHKCVQSVZSBIIMWEUYXIZDKHZATXM</span>
 <span style="color:orange;">GAU</span>
 <span>XAPMIYAILNUCWEA</span>
-<span style="color:#8B0000;">BWY</span>
-<span>DEXTIERGXMPEYLIXIIMWPEYXPGSHMEGXJMRASPWYDSGAWQZ</span>
+<span style="color:DarkRed;">BWY</span>
+<span>DEXTIERGXMPEYLIXIIMWPEYXPGSHMEGXJMRA</span>
+<span style="color:LimeGreen;">SPWYDS</span>
+<span>GAWQZ</span>
 <span style="color:DodgerBlue;">JMQM</span>
 <span>LNMYDEAFMOIHIWHOAAMYPRWVQNZKSGLKH</span>
 <span style="color:orange;">GAU</span>
-<span>RMDBOAZIGXVZIZEFIZQCRMYDSPWYDSRMWEOOVWCUOTIEDKDSDETBSGBRQILLKALQUXMYJMGQWVE</span>
+<span>RMDBOAZIGXVZIZEFIZQCRMYD</span>
+<span style="color:LimeGreen;">SPWYDS</span>
+<span>RMWEOOVWCUOTIEDKDSDETBSGBRQILLKALQUXMYJMGQWVE</span>
 <span style="color:DodgerBlue;">JMQM</span>
 <span>NJMIZVGQRCUKTUGEYUSYETBWQNIWVQLKBIYPYUIOHGXTQEZNYUTPMHUSGKIFTKVYUTYWMEPRCWXETBIQTRIYDOXMZMDOAWUPKZPMNAQX</span>
 
