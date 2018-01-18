@@ -11,7 +11,7 @@ menu: /guerres/
 
 La machine Enigma était faite de composants ingénieux combinés dans une incroyable machine à chiffrer. Toutefois, si on les prend un à un, ses principes de base deviennent compréhensibles. Enigma est la première méthode de cryptographie électronique.
 
-<img src="{{ "/assets/3_Guerres/enigma.jpeg" | relative_url }}" alt="Enigma" style="margin: 0 auto;display: block;"/>
+<img src="{{ "/assets/3_Guerres/enigma.jpg" | relative_url }}" alt="Enigma" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Machine Enigma avec ses parties légendées</em> </p>
 
 Dans sa forme élémentaire, Enigma consiste en trois éléments reliés par des câbles : un clavier pour entrer chaque lettre du texte clair, un brouilleur qui crypte chaque lettre du texte clair en une lettre chiffrée, et un tableau lumineux fait d’un certain nombre de lampes pour afficher la lettre du texte crypté. Pour crypter une lettre du texte clair, on envoie une impulsion électrique qui passe dans le brouilleur puis allume une lampe du tableau, qui indique la lettre correspondante du texte chiffré. On y ajoutera par la suite le tableaux de connexions pour augmenter le nombres de possibilités
