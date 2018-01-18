@@ -115,13 +115,9 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
   * Eve peut aisément, sans factoriser n, retrouver le message : comment ?
   * On parle de Kerckoffs ???
 
-### La Cryptographie Quantique
-  * ces deux derniers sont polarisés ??
-  * ils seront sûrs de la sûreté... à modifier.
 
 ### Compte-rendu d'expérience
   * l’étendue de la fréquence est de 6,5 % : cela signifie quoi ?
   * je ne comprends pas la figure 2
   * Cela nécessite de calculer pour le texte ?
-  * elles sont en couleur dans le texte ci-dessous : pas chez moi !
-  * (surlignées en jaune dans le texte suivant) : pas chez moi...
+  
