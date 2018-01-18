@@ -28,11 +28,11 @@ En 1920, le cryptologue de l’armée américaine Willian Friedman met au point 
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
 
-En supposant que la clef est d'une longueur n, on regarde une lettre sur n et on calcule l'indice de coïncidence pour cette série de lettre. En effet, prendre une lettre sur n lorsque n est la longueur de la clef revient à prendre une série de lettres toujours chiffrée avec le même décalage, l’indice de coïncidence est donc égal à celui du texte clair. Si ccet indice est anormalement grand pour une longueur de clef testée, c'est probablement la bonne taille de clef ou le cas échéant un multiple de celle-ci.
+En supposant que la clef est d'une longueur k, on regarde une lettre sur k et on calcule l'indice de coïncidence pour cette série de lettres. En effet, prendre une lettre sur k revient à prendre une série de lettres toujours chiffrée avec le même décalage, l’indice de coïncidence est donc égal à celui du texte clair. Quand on cherche la longueur k de la clef pour la cryptanalyse d'un texte, k est très probablement la valeur testée pour laquelle l'indice de coïncidence est particulièrement élevé. 
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n_{i}}{n^2-n} \approx \sum_{i=a}^z \frac{n_{i}^2}{n^2} = \sum_{i=a}^z (\frac{n_{i}}{n})^2 $$
 
 vaut si n suffisamment grand \\
-où n est la longueur du texte et $$ n_{i} $$ la fréquence d’apparition de la lettre i dans le texte
+où $$ n $$ est la longueur du texte et $$ n_{i} $$ la fréquence d’apparition de la lettre i dans le texte
 
 Notre [expérience]({{ "/experience/" | relative_url }}) est un déchiffrage à la main d'un message chiffré avec le chiffre de Vigenère. Nous avons pour ce faire utilisé la méthode de Babbage et Kasiski.
