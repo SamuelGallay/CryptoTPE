@@ -17,7 +17,7 @@ Cette guerre fut déclenchée par le IIIème Reich d’Hitler et des puissances 
 
 La tactique militaire allemande de guerre éclair (Blitzkrieg) constituait en une attaque fulgurante mettant en déroute l’adversaire contraint de signer une reddition quelques semaines plus tard. Le plan offensif devait être effectué avec une grande rapidité et impliquait de surcroît une coordination optimale entre les corps d’armée (aviation qui bombardait préalablement à l’attaque de l’infanterie), nécessitant une communication efficace et confidentielle. Le Blietzkrieg fut d’une efficacité diabolique dans l’invasion de la Pologne et celle de la France. Cette tactique atteignit cependant ses limites dès 1942.
 
-<img src="{{ "/assets/3_Guerres/blitzkrieg.jpg" | relative_url }}" alt="SousMarins" style="margin: 0 auto;display: block; width : 300px ;"/>
+<img src="{{ "/assets/3_Guerres/blitzkrieg.jpg" | relative_url }}" alt="SousMarins" style="margin: 0 auto;display: block; width : 350px ;"/>
 <p align="center"> <em>Les chars allemands utilisés pour le Blietzkrieg</em> </p>
 
 ### Répliques alliés
