@@ -11,6 +11,10 @@ menu: /temps-modernes/
 
 La "méthode historique" fut inventée par le mathématicien britannique Charles Babbage, connu notamment pour ses machines à différence, vers 1854 mais sa découverte resta ignorée en l'absence d'écrit. Pendant ce temps, un officier prussien à la retraite, Friedrich Kasiski, parvint au même résultat et publia en 1863 "Die Geheimschriften und die Dechiffrir-Kunst".
 
+
+<img src="{{ "/assets/2_TempsModernes/Babbage.jpg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; width:300px; "/>
+<p align="center"> <em> Charles Babbage </em> </p>
+
 Pour déchiffrer un tel code, la première étape est de déterminer la longueur du mot-clef. Avec un chiffre de Vigenère, si une même séquence de lettres dans le texte en clair a été cryptée avec une même partie de mot-clef, elle donnera alors une même séquence de lettres cryptées. Si une séquence de lettres en clair est fréquente dans le texte alors la probabilité qu’elle soit codée avec une même partie du mot-clef sera plus forte, ce qui permet de détecter sa présence en recherchant des séquences de lettres identiques dans le texte chiffré. Pour faire cette détection de façon statistiquement fiable, une séquence d’au moins trois lettres est préférable et doit se répéter plusieurs fois dans le texte. De telles séquences varient suivant le type de texte, mais par exemple, en français, la séquence « LES » peut se retrouver assez souvent dans la plupart des textes.
 
 Babbage et Kasiski se sont donc tous deux appuyés sur la répétition d’une séquence de 3 lettres dans le message chiffré et ont calculé la distance entre elles dans le message, ce qui revient à calculer par combien de lettres elles sont séparées l'une de l'autre ? En calculant le PGCD des distances on obtient la longueur probable de la clef.
