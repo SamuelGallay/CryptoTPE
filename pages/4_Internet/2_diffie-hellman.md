@@ -33,8 +33,8 @@ Ils s'appuient pour leur protocole sur l'arithmétique modulaire, très utilisé
 * Elle envoie à Bob le nombre $$ A = g^a \bmod p $$
 * Bob choisit à son tour le nombre secret b
 * Il envoie à Alice $$ B = g^b \bmod p $$
-* Alice peut déterminer la clef secrète : $$ B^a \bmod p = (g^a)^b \bmod p = g^{ab} \bmod p $$
-* Bob en fait de même et obtient la clef identique : $$ A^b \bmod p = (g^b)^a = g^{ba} \bmod p = g^{ab} \bmod p $$ \\
+* Alice peut déterminer la clef secrète : $$ B^a \bmod p = (g^b)^a \bmod p = = g^{ba} \bmod p = g^{ab} \bmod p $$
+* Bob en fait de même et obtient la clef identique : $$ A^b \bmod p = (g^a)^b = g^{ab} \bmod p $$ \\
 Ceci est rendu possible par la commutativité de la fonction puissance ! \\
 En connaissant p, g, A et B, il faudrait en revanche effectuer des calculs fort complexes pour trouver la clef secrète $$ g^{ab} $$
 
