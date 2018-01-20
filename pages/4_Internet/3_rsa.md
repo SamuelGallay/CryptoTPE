@@ -67,3 +67,7 @@ On parle de Kerckoffs ???
 ## Le principe de Kerckhoffs
 
 La sécurité d'un chiffrement a longtemps reposé sur la méthode utilisée pour chiffrer. Ce fut le cas du chiffre de César, du grand chiffre de Louis XIV ou encore du chiffrement AFDGVX durant la Première Guerre mondiale. Cependant, cette sécurité est très précaire : il suffit que l'ennemi ait connaissance de la méthode pour qu'il soit en capacité de déchiffrer tous les messages.
+
+Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de la méthode même, mais d'une clef que seules les correspondants connaissent et qui peut être modifiée comme on le souhaite.
+
+En 1883, le linguiste et cryptologue néerlandais Auguste Kerckhoffs énonce le principe suivant : *la sécurité d'un système de cryptage ne doit reposer que sur le secret de sa clef.*
