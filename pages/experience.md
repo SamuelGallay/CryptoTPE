@@ -45,7 +45,7 @@ Il existe deux grandes méthodes de déchiffrement :
 
 Nous avons tenté de calculer l'indice de coïncidence pour une clé de longueur 2 ; au vu du temps que cela nous a pris, nous en avons conclu que cette méthode était inapropriée pour trois lycéens armés seulement de stylos et de feuilles.
 
-* Méthode historique : Dans la deuxième moitié du XIXe siècle, le mathématicien anglais Babbage et l'officien prussien Kasiki parvinrent quasiment en même temps à [briser le chiffre de Vigenère]({{ "/cryptanalyse-vigenere/" | relative_url }}). Pour déchiffrer un tel code, la première étape est de déterminer la longueur du mot clé, puis de déterminer le mot-clé lui-même. On commence par chercher des séquences d’au moins trois lettres qui apparaissent plus d’une fois dans le texte. Nous calculerons ensuite l’espacement entre elles afin de trouver la longueur du mot-clé. Puis nous déterminerons le mot-clé grâce à l’analyse des fréquences.
+* Méthode historique : Dans la seconde moitié du XIXe siècle, le mathématicien anglais Babbage et l'officien prussien Kasiki parvinrent quasiment en même temps à [briser le chiffre de Vigenère]({{ "/cryptanalyse-vigenere/" | relative_url }}). Pour déchiffrer un tel code, la première étape est de déterminer la longueur du mot clé, puis de déterminer le mot-clé lui-même. On commence par chercher des séquences d’au moins trois lettres qui apparaissent plus d’une fois dans le texte. Nous calculerons ensuite l’espacement entre elles afin de trouver la longueur du mot-clé. Puis nous déterminerons le mot-clé grâce à l’analyse des fréquences.
 
 * Recherche de la longueur du mot-clé: Nous relevons plusieurs séquences qui se répètent, elles sont en couleur dans le texte ci-dessous.
 
