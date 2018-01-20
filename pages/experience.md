@@ -5,7 +5,7 @@ precedente: /cryptanalyse-vigenere/
 partie: "Les Temps Modernes"
 menu: /temps-modernes/
 ---
-# Une expérience de cryptanalyse
+# Exemple de cryptanalyse : notre compte-rendu d'expérience
 
 Dans l'esprit du TPE de 1ère S, nous nous sommes mis en situtation de confrontation avec un texte chiffré dans le but de réliser sa cryptanalyse.
 
