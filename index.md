@@ -23,6 +23,7 @@ L’art, ou la science de cacher des messages a connu plusieurs formes au cours 
 - La seconde consiste à protéger un message en le chiffrant par le biais de clefs (secrètes ou publiques) qui le rendent incompréhensible : c'est de la cryptographie, sujet de notre TPE.
 
 La cryptographie permet donc de transmettre un message chiffré sans nécessairement le dissimuler lors de son transport. Mais les techniques de cryptographie ont été vaincues au cours de l'histoire par des cryptanalystes. On parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clef ou la méthode de chiffrement. Ces deux disciplines réunies composent la cryptologie.
+
 **Comment la cryptographie s'est-elle adaptée à l'évolution des besoins en communication ?**
 
 Nous répondrons à cette problématique en privilégiant une approche chronologique au travers quatre grandes périodes accessibles depuis la frise chronologique interactive suivante.
