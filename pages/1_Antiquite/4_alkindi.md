@@ -6,7 +6,7 @@ partie: "L'Antiquité et le Moyen-Âge"
 menu: /antiquite/
 ---
 
-## Cryptanalyse des chiffrements monoalphabétiques
+## La science dans le monde arabo-musulman
 
 À la mort de Mahomet, un califat dynastique appelé Omeyyade administre les territoires dominés par l’Islam. Les quatre califes Omeyyades refusent tout mouvement intellectuel profane, ce qui explique à cette période l’impossibilité de l'émergence d’une culture et d’une science dans cette région. Or, en 750 un basculement majeur s'opère : lors de la bataille du Grand Zab, les Abbassides, adversaires des Omeyyades, triomphent : c’est la fin du califat Omeyyade, remplacé par le califat Abbasside.
 
@@ -18,6 +18,8 @@ menu: /antiquite/
 C’est au IXe siècle que la civilisation arabe connaît son apogée, notamment scientifique.
 Le calife Al-Mamun crée une Maison de la sagesse à Bagdad : c’est alors un centre culturel majeur où échangent des mathématiciens de tous horizons.
 A cette époque pacifiste, les Arabes et notamment leurs dirigeants utilisent couramment différent chiffres monoalphabétiques pour communiquer d’importantes missives. Ceci a été permis par la fabrication du papier. En effet, lors de la bataille de Talas en 751, les Arabes avaient fait prisonniers nombre de Chinois, dont certains connaissaient le processus de fabrication du papier.
+
+## La naissance de la cryptanalyse 
 
 On peut s’étonner de la manière dont les Arabes ont acquis une place si importante dans l’histoire des codes secrets à partir des méthodes existantes. C’est qu’ils ont justement pour la première fois de l’histoire réussi à les briser ! Et c’est de là que, grâce à cette curiosité intellectuelle, est née la [cryptanalyse]({{ "/glossaire/" | relative_url }}).
 
