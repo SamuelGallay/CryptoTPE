@@ -75,7 +75,7 @@ Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements
 
 ## De la théorie à la pratique...
 
-Lorsque nous avons expliqués les systèmes de chiffrements comme le RSA, nous n'avons parlés que du coeur du système, de l'avancée mathématique fondamentale. On nomme ce principe fondamental la primitive du chiffrement. Dans la vie réelle, un système cryptographique doit respecter 4 principes qui sont les suivants :
+Lorsque nous avons expliqué les systèmes de chiffrements comme le RSA, nous n'avons parlé que du coeur du système, de l'avancée mathématique fondamentale. On nomme ce principe fondamental la primitive du chiffrement. Dans la vie réelle, un système cryptographique doit respecter 4 principes qui sont les suivants :
 * Le chiffrement doit être, s'il n'est pas incassable, très difficile à casser.
 * Le message doit être authentifié, le receveur doit pouvoir être sûr de l'origine du message.
 * Le receveur doit pouvoir vérifier l'intégrité du message, c'est à dire savoir si son contenu a été modifié.
