@@ -19,7 +19,7 @@ Parallèlement à la croissance d'Internet, la puissance de calcul des ordinateu
 Si aujourd'hui les cryptanalystes ne peuvent rivaliser avec la force des chiffrements actuels s'ils sont bien utilisés, l'avenir leur réserve peut être encore des heures de gloire. Avec le développement des ordinateurs quantiques, maintenant une réalité, les chiffrements comme RSA pourraient devenir inefficaces.
 
 Conscients de cette menace, les cryptolographes orientent leurs recherches dans principalement deux autres directions :
-* La [la cryptographie quantique]({{ "/quantique/" | relative_url }}), qui est prouvée sécurisée par les lois de la physique mais qui nécessites d'autres canaux de transmission que ceux d'Internet.
+* [La cryptographie quantique]({{ "/quantique/" | relative_url }}), qui est prouvée sécurisée par les lois de la physique mais qui nécessites d'autres canaux de transmission que ceux d'Internet.
 * La cryptographie post-quantique tente de rivaliser avec les ordinateurs quantiques en utilisant les ordinateurs traditionnels.
 
 Parallèlement, l'utilisation du cloud pose de nouveaux problèmes. Les utilisateurs aimeraient que leurs données soient chiffrées, mais aussi pouvoir effectuer des calculs sur ces données chiffrées... C'est le domaine de recherche des chiffrements homomorphes.
