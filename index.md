@@ -84,7 +84,7 @@ A l'heure d'un monde globalisé où les nouvelles technologies occupent une plac
 La cryptographie d'aujourd'hui est fiable sans être totalement infaillible. Une prochaine étape dans cette quête d'une solution parfaite et inviolable pourrait être la cryptographie quantique, actuellement à l'état de recherche.
 
 ## Regardez aussi :
-* Notre [Compte-Rendu](experience) de l'expérience !
+* Exemple d'une cryptanalyse : notre [Compte-Rendu](experience) d'expérience !
 * Nos [Sources](sources)
 * Et notre [Glossaire](glossaire) !
 
