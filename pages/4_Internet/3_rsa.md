@@ -62,7 +62,7 @@ Aujourd'hui les ordinateurs peuvent factoriser des nombres produits de deux prem
 Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message avec le même $$ n $$ à Bob, Chris, et Daniel, Eve peut aisément, sans factoriser $$ n $$, retrouver le message. Elle utilisera pour cela le théorème des restes chinois, qui l'amènera non plus à calculer un logarithme discret, mais une racine cubique. \\
 Nous précisons en outre que la méthode présentée ici est la primitive ; dans un souci de sécurité, elle s'est considérablement complexifiée au fil du temps, mais nous nous bornons au principe initial.
 
-## Le principe de Kerckhoffs
+## Les principes de Kerckhoffs
 
 La sécurité d'un chiffrement a longtemps reposé sur la méthode utilisée pour chiffrer. Ce fut le cas du chiffre de César, du grand chiffre de Louis XIV ou encore du chiffrement AFDGVX durant la Première Guerre mondiale. Cependant, cette sécurité est très précaire : il suffit que l'ennemi ait connaissance de la méthode pour qu'il soit en capacité de déchiffrer tous les messages.
 
@@ -71,3 +71,14 @@ Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de l
 En 1883, le linguiste et cryptologue néerlandais Auguste Kerckhoffs énonce le principe suivant : *la sécurité d'un système de cryptage ne doit reposer que sur le secret de sa clef.*
 
 Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements depuis Enigma, respectent ce principe fondamental.
+
+
+## De la théorie à la pratique...
+
+Lorsque nous avons expliqués les systèmes de chiffrements comme le RSA, nous n'avons parlés que du coeur du système, de l'avancée mathématique fondamentale. On nomme ce principe fondamental la primitive du chiffrement. Dans la vie réelle, un système cryptographique doit respecter 4 principes qui sont les suivants :
+* Le chiffrement doit être, s'il n'est pas incassable, très difficile à casser.
+* Le message doit être authentifié, le receveur doit pouvoir être sûr de l'origine du message.
+* Le receveur doit pouvoir vérifier l'intégrité du message, c'est à dire savoir si son contenu a été modifié.
+* L'envoyeur ne doit pas pouvoir nier le fait qu'il a envoyé le message. (optionnel)
+
+Ces principes ne sont pas inclus dans le RSA présenté ici, mais ils ont plus tard été implantés dans le protocole RSA que nous utilisons encore aujourd'hui.
