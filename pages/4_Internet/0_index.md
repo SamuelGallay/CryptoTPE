@@ -29,7 +29,7 @@ precedente: /guerres/
  <a href="{{ "/rsa/" | relative_url }}">
    <div class="content">
      <h2 style="color:white;">Le RSA</h2>
-     <p>1977</p>
+     <p>De 1977 à nos jours</p>
    </div>
    </a>
  </div>
@@ -45,6 +45,8 @@ precedente: /guerres/
 
 </div>
 
+Je m'occupe de la rédac de l'intro d'internet dans un instant...
+Depuis les années 70, avec la naissance d'Internet,
 
 * [Le DES]({{ "/des/" | relative_url }})
 * [Le Diffie-Hellman]({{ "/diffie-hellman/" | relative_url }})
