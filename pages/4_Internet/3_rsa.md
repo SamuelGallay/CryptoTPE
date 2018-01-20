@@ -70,4 +70,4 @@ Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de l
 
 En 1883, le linguiste et cryptologue néerlandais Auguste Kerckhoffs énonce le principe suivant : *la sécurité d'un système de cryptage ne doit reposer que sur le secret de sa clef.*
 
-Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements asymétriques, respectent ce principe fondamental.
+Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements depuis Enigma, respectent ce principe fondamental.
