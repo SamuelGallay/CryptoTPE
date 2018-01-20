@@ -19,9 +19,9 @@ permalink: /sources/
 # Sites Web
 * Cryptographie et codes secrets. Bibmath.net [en ligne]. crée en 1999. [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma) et [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des)
 * Entrée en guerre des Etats-Unis en 1917. Chemin de mémoire. 25/11/2017.
-http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
-* Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883
-* Musée de la résistance en ligne. Fondation de la Résistance. mars 2015. http://museedelaresistanceenligne.org
+[http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917](http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917)
+* Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. [http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883](http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883)
+* Musée de la résistance en ligne. Fondation de la Résistance. mars 2015. [http://museedelaresistanceenligne.org](http://museedelaresistanceenligne.org)
 * Alan Turing. Wikipédia, l'encyclopédie libre. 18 janv. 2018, [http://fr.wikipedia.org/w/index.php?title=Alan_Turing&oldid=144607058](https://fr.wikipedia.org/wiki/Alan_Turing#Cryptanalyse_d'Enigma).
 * "Bletchley Park." Wikipédia, l'encyclopédie libre. 4 déc. 2017. [http://fr.wikipedia.org/w/index.php?title=Bletchley_Park&oldid=143183232](https://fr.wikipedia.org/wiki/Bletchley_Park).
 * Enigma et la Seconde guerre mondiale. Guillaume Munch et Julien Milli. août 2004. [http://www.irem.unilim.fr/fileadmin/user_upload/Convergences/tpe_enigma.pdf](http://www.irem.unilim.fr/fileadmin/user_upload/Convergences/tpe_enigma.pdf)
