@@ -85,5 +85,5 @@ La cryptographie d'aujourd'hui est fiable sans être totalement infaillible. Une
 
 ## Regardez aussi :
 * Exemple d'une cryptanalyse : notre [Compte-Rendu](experience) d'expérience !
-* Nos [Sources](sources)
-* Et notre [Glossaire](glossaire) !
+* Notre [Glossaire](glossaire) !
+* Et nos [Sources](sources)
