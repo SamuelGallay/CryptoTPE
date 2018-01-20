@@ -67,7 +67,7 @@ La cryptographie permet donc de transmettre un message chiffré sans nécessaire
 
 ## Conclusion
 
-La cryptologie est une science qui a occupé depuis l'Antiquité une place centrale dans la politique, la diplomatie et la guerre, tout en restant le plus secret possible. Elle a évolué, pour d’une part demeurer efficace (certaines méthodes ayant été découvertes par l’ennemi ou cassées par les cryptanalystes), et d’autre part s’adapter aux changements des moyens de transfert des communications.
+La cryptologie est une science qui a occupé depuis l'Antiquité une place centrale dans la politique, la diplomatie et la guerre, tout en restant le plus secret possible. Elle a évolué, pour d’une part demeurer efficace (certaines méthodes ayant été découvertes par l’ennemi ou cassées par les cryptanalystes), et pour d’autre part s’adapter aux changements des moyens de transfert des communications.
 
 Depuis l'Antiquité jusqu'à aujourd'hui, les méthodes de chiffrements se sont perfectionnées, passant de chiffrements manuels puis mécaniques peu sécurisés à des machines à chiffrer redoutables et enfin une discipline très théorique, branche des mathématiques appliquées pour de nos jours un niveau de sécurité et de complexité jusqu'ici inégalé, et qui grâce aux avancées scientifiques et technologiques a encore un potentiel d'amélioration. 
 
