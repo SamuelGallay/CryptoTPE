@@ -47,4 +47,4 @@ Lorsque l'on sait que le texte a été chiffré avec la scytale, on peut essayer
 
 Le message ci-dessous est écrit sur un ruban à enrouler autour d'une scytale d'un diamètre tel qu'on lit 3 lettres par tour. Tentez de le déchiffrer. Petit indice : c'est une citation du philosophe grec Platon.
 
-dsfojknicnwrezf egntqe tvduku rlpemgcxeefsvrqrdlahyseb
+dsfojknicnwrezfegntqetvdukurlpemgcxeefsvrqrdlahyseb
