@@ -23,7 +23,9 @@ Lucifer crypte les messages de la façon suivante. D’abord, le message est tra
 <p align="center"> <em> Schéma de l'algorithme du DES </em> </p>
 
 
-Les modalité précises de la fonction de transformation peuvent varier et sont déterminées par une clef choisie par l'émetteur et le receveur. Les clefs utilisées dans la cryptographie par ordinateur sont des nombres. L’envoyeur et le receveur doivent donc fixer ce nombre pour décider de la clef. Ensuite, pour chiffrer, l’envoyeur entre le nombre-clef et le message dans Lucifer, qui émet le texte chiffré. Pour décrypter, le receveur entre la même clef et le texte chiffré dans Lucifer, qui ressort le texte original.
+Les modalité précises de la fonction de transformation peuvent varier et sont déterminées par une clef choisie par l'émetteur et le receveur. Les clefs utilisées dans la cryptographie par ordinateur sont des nombres. L’envoyeur et le receveur doivent donc fixer ce nombre pour décider de la clef. Ensuite, pour chiffrer, l’envoyeur entre le nombre-clef et le message dans Lucifer, qui émet le texte chiffré.
+
+Pour déchiffrer, le receveur entre la même clef et le texte chiffré dans Lucifer. Il déroule alors l'algorithme dans le sens inverse et retrouve ainsi le texte clair. Ce type de chiffrement s'apelle un [chiffrement symétrique]({{ "/glossaire/" | relative_url }})
 
 ## Sécurité 
 
