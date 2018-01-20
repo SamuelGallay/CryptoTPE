@@ -7,8 +7,6 @@ partie: "L'ère d'Internet"
 menu: /internet/
 ---
 
-# Les chiffrements asymétriques perfectionnés : l'exemple du RSA
-
 ## Eléments de contexte
 
 Dans la lignée de leurs contemporains mathématiciens-cryptographes Diffie et Hellman, trois chercheurs du MIT, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA.
