@@ -63,11 +63,12 @@ Aujourd'hui les ordinateurs peuvent factoriser des nombres produits de deux prem
 Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message avec le même $$ n $$ à Bob, Chris, et Daniel, Eve peut aisément, sans factoriser $$ n $$, retrouver le message. \\
 Nous précisons en outre que la méthode présentée ici est la primitive ; dans un souci de sécurité, elle s'est considérablement complexifiée au fil du temps, mais nous nous bornons au principe initial.
 
-On parle de Kerckoffs ???
 ## Le principe de Kerckhoffs
 
 La sécurité d'un chiffrement a longtemps reposé sur la méthode utilisée pour chiffrer. Ce fut le cas du chiffre de César, du grand chiffre de Louis XIV ou encore du chiffrement AFDGVX durant la Première Guerre mondiale. Cependant, cette sécurité est très précaire : il suffit que l'ennemi ait connaissance de la méthode pour qu'il soit en capacité de déchiffrer tous les messages.
 
-Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de la méthode même, mais d'une clef que seules les correspondants connaissent et qui peut être modifiée comme on le souhaite.
+Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de la méthode même, mais d'une clef que seules les correspondants connaissent et qui peut être modifiée comme on le souhaite. 
 
 En 1883, le linguiste et cryptologue néerlandais Auguste Kerckhoffs énonce le principe suivant : *la sécurité d'un système de cryptage ne doit reposer que sur le secret de sa clef.*
+
+Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements asymétriques, respectent ce principe fondamental.
