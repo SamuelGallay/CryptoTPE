@@ -46,6 +46,8 @@ suivante: /temps-modernes/
 
 </div>
 
-
-
-La cryptographie de l’âge antique reste quelque chose d’assez simple. Elle débute avec la [Scytale]({{ "/scytale/" | relative_url }}), une manière mécanique de coder, puis évolue en plusieurs formes de chiffrement de substitution monoalphabétique comme [le Carré de Polybe]({{ "/polybe/" | relative_url }}) ou le célèbre [chiffre de César]({{ "/cesar/" | relative_url }}). Elle répond à des besoins de communications principalement militaires, liés aux guerres de territoire des civilisations grecque et romaine. Ces méthodes de cryptographie ont suffi à assurer le secret des communications durant près de 1500 ans. Cependant, avec la cryptanalyse arabe par [Al-Kindi]({{ "/al-kindi/" | relative_url }}), la cryptologie se doit d’évoluer et de se perfectionner pour pouvoir toujours répondre à son objectif : assurer la sécurité des communications privées.
+Dans les civilisations antiques, les besoins et donc les volumes de communications étaient assez faibles. \\
+De surcroît, les correspondances privées étaient infimes et réservées à une élite. \\
+En revanche, cette période fut le théâtre de nombreuses guerres territoriales, particulièrement pour la Grèce et Rome. Là, dans le cadre des campagnes militaires, les messages devaient demeurer inintelligibles aux yeux de l'ennemi. Cependant les adversaires des Etats pratiquant la cryptographie étant complètement ignorants en cryptologie, nul besoin d'élaborer des systèmes complexes. 
+La cryptographie de l’âge antique fut somme toute plutôt rudiemntaire. Elle s'amorcça avec la [Scytale]({{ "/scytale/" | relative_url }}), une manière mécanique de coder, puis évolua en plusieurs formes de chiffrement de [substitution monoalphabétique]({{ "/glossaire/" | relative_url }})  comme [le Carré de Polybe]({{ "/polybe/" | relative_url }}) ou le célèbre [chiffre de César]({{ "/cesar/" | relative_url }}). \\
+Ces méthodes permirent dassurer le secret des communications durant près de 1500 ans. Néanmoins, avec la cryptanalyse arabe par [Al-Kindi]({{ "/al-kindi/" | relative_url }}), la cryptogrpahie dut s'améliorer pour pouvoir toujours répondre à son objectif : assurer la sécurité des communications privées.
