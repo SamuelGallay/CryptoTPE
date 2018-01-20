@@ -25,7 +25,7 @@ On peut s’étonner de la manière dont les Arabes ont acquis une place si impo
 
 Les Arabes, historiquement, cherchaient à prouver l’authenticité et à ordonner chronologiquement les révélations de leur prophète Mahomet. Celles-ci ont certes été notées par écrit de son vivant, mais seulement par fragments. Des érudits, et notamment l’un des plus grands savants arabes, le philosophe et scientifique Al-Kindi (800-873) ont entrepris d’analyser chaque mot des textes pour savoir s’ils étaient déjà utilisés à cette époque, car en effet, certains mots sont apparus après d’autres.
 
-<img src="{{ "/assets/1_Antiquite/alkindi.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 200px;"/>
+<img src="{{ "/assets/1_Antiquite/alkindi.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 250px;"/>
 <p align="center"> <em>Le savant Al-Kindi</em> </p>
 
 Ils se sont aussi intéressés aux lettres mêmes, et ils ont remarqué que certaines se retrouvaient bien plus souvent que d’autres. Par exemple en Français, il est bien plus courant d’écrire un ‘e’ qu’un ‘w’. Cette étude s'appelle l'[analyse des fréquences]({{ "/glossaire/" | relative_url }}).
