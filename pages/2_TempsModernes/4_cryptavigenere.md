@@ -39,4 +39,4 @@ Ici $$ n $$ est la longueur du message et $$ n_{i} $$ est la fréquence d’appa
 
 Dans sa définition de l'indice de coïncidendce par, Friedman utilise, à la place du carré traditionnel, le carré utilisé en statistiques défini par $$ x \times (x-1) $$ qui offre de meilleures propriétés dans le problème donné. Le calcul ci-dessus montre que si la taille du message est suffisamment grande, alors l'indice de coïncidence se rapproche de la somme des écarts types des fréquences d'apparition des lettres. C'est pour cela qu'en pratique et notamment en informatique on utilise plus souvent cette seconde énonciation.
 
-Comme illustration d'un exemple de cryptanalyse, voici notre [expérience]({{ "/experience/" | relative_url }}) d'analyse d'un message chiffré avec le chiffre de Vigenère. Nous avons pour ce faire utilisé la méthode de Babbage et Kasiski.
+Comme illustration d'un exemple de cryptanalyse, nous avons réalisé une [expérience]({{ "/experience/" | relative_url }}) d'analyse d'un message chiffré avec le chiffre de Vigenère. Nous avons pour ce faire utilisé la méthode de Babbage et Kasiski.
