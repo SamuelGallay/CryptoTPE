@@ -31,7 +31,7 @@ Alice utilisera la clef publique de Bob à laquelle elle a accès pour lui envoy
 Pour ce faire Alice procède de la façon suivante : 
 * Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$ et que M soit premier avec n. 
 * Elle calcule le nombre $$ C = M^e \bmod n $$ 
-* Elle envoie ce nombre à Bob. \\
+* Elle envoie ce nombre à Bob. 
 * Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
 $$ D = C^d \bmod n = (M^e)^d \bmod n = \color{red} {M^{ed}\bmod n} \color{red} {=} \color{red} {M \bmod n}  $$ \\
 Bob a bien retrouvé le message d'Alice ! 
