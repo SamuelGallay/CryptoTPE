@@ -12,7 +12,7 @@ menu: /antiquite/
 Le plus populaire des chiffrements est sûrement le chiffre de César. Il fut utilisé, si ce n’est inventé, par Jules César lors de la Guerre des Gaules.
 
 ![cesar]({{ "/assets/1_Antiquite/cesarstatue.png" | relative_url }}){: .center-image }
-<p align="center"> <em>Jules César</em> </p>
+<p align="center"> <em>Jules César par Nicolas Coustou, 1696, Musée du Louvre</em> </p>
 
 Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 avant J.-C. Appelées à l'aide contre les Helvètes par les Eduens «amis et alliés du peuple romain», les troupes romaines de Jules César pénètrent dans la Gaule Chevelue en 58 avant J.-C.
 
