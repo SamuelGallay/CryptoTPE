@@ -30,6 +30,7 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * La machine Enigma et la machine de Lorenz. Léa Bommottet. 28 octobre 2013. [http://www.auguste-piccard.ch/pages/TM-PDF/TM2013/TM2013Bommottet.pdf](http://www.auguste-piccard.ch/pages/TM-PDF/TM2013/TM2013Bommottet.pdf)
 
 # Images
+## L'Antiquité et le Moyen-Âge
 * [http://lapielanguesanciennes.blogspot.fr](http://lapielanguesanciennes.blogspot.fr) (carte légendée des guerres médiques)
 * [www.babelio.com](www.babelio.com) (Plutarque, Ier siècle avant J.-C.)
 *  GNU Free Documentation License (une scytale)
@@ -37,11 +38,15 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * statue de Jules César par Nicolas Coustou photographiée par Marie-Lan Nguyen (Jules César)
 * [http://www.pageshalal.fr](http://www.pageshalal.fr) (La Maison de la sagesse, dont le bâtiment demeure aujourd'hui)
 * [http://kalidanastiti-space.blogspot.fr](http://kalidanastiti-space.blogspot.fr) (Le savant Al-Kindi)
+
+## La Renaissance et les Temps-Modernes
 * Histoire 4e. Hachette.1964 (L'Italie au XVème siècle )
 * Statue d'Alberti de Giovanni Lusini, photographiée par Frieda (Leon Battista Alberti)
 * Portrait de Thomas de Leu (Blaise de Vigenère)
 * Charles Perrault, Les Hommes illustres qui ont paru en France pendant ce siècle, Paris, 1696 (Antoine Rossignol)
 * The Illustrated London News (4 November 1871)(Charles Babbage)
+
+## Les Guerres Mondiales
 * F1jmm, contributeur Wikipedia (Propagations des ondes dans l'atmosphère)
 * Stanisław Strumph Wojtkiewicz (1978) Sekret Enigmy (Marian Rejewski)
 * [http://www.turingarchive.org/viewer/?id=521&title=4](http://www.turingarchive.org/viewer/?id=521&title=4) (Alan Turing)
@@ -49,6 +54,8 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * [http://www.union-gaulliste-de-france.org](http://www.union-gaulliste-de-france.org) (débarquement)
 * [www.bild.bundesarchiv.de](www.bild.bundesarchiv.de) (blitzkrieg)
 * [www.secondeguerre.net](www.secondeguerre.net) (enigma machine)
+
+## L'ère d'Internet
 * Introduction à la sécurité des communications. SUPINFO International University (Une analogie avec de la peinture pour comprendre)
 * [https://rsaalgorithm.wordpress.com/](https://rsaalgorithm.wordpress.com/) (Shamir, Rivest et Adleman)
 * [http://www.thebobblog.com](http://www.thebobblog.com) (Schéma illustrant la situation étudiée)
