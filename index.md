@@ -10,7 +10,7 @@ Ce site Internet a été réalisé en 2018 par Samuel Gallay, Hugo Medori et Man
 
 "L'homme est un être sociable ; la nature l'a fait pour vivre avec ses semblables." nous rappelle Aristote dans l'*Ethique à Nicomaque* (349 av. J-C). \\
 Cette dimension sociale a depuis toujours induit pour l'Homme le besoin fondamental de communiquer. \\
-Ce besoin de communiquer a engendréla naissance des langues, ensemble de signes associés à un sens particulier et défini. \\
+Ce besoin de communiquer a engendré la naissance des langues, ensemble de signes associés à un sens particulier et défini. \\
 Pour les matérialiser, l'écriture est inventée en Mésopotamie au IVe millénaire avant notre ère. \\
 Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple. \\
 L'écriture a donc permis aux humains de communiquer entre eux alors même qu'ils pouvaient être séparés géographiquement.
