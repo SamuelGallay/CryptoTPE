@@ -56,5 +56,6 @@ permalink: /sources/
 
 ## L'ère d'Internet
 * Introduction à la sécurité des communications. SUPINFO International University (Une analogie avec de la peinture pour comprendre)
+* [http://bigbangscicom.tumblr.com/](http://bigbangscicom.tumblr.com/) (Whitfield Diffie et Martin Hellman)
 * [https://rsaalgorithm.wordpress.com/](https://rsaalgorithm.wordpress.com/) (Shamir, Rivest et Adleman)
 * [http://www.thebobblog.com](http://www.thebobblog.com) (Schéma illustrant la situation étudiée)
