@@ -20,14 +20,14 @@ Des plans d’invasions sophistiqués y ont vu le jour et, pour la première foi
 <img src="{{ "/assets/1_Antiquite/guerres-mediques.jpg" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 600px;"/>
 <p align="center"> <em>Carte légendée des guerres médiques</em> </p>
 
-Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê a un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Ce dispositif n’existait que chez les Lacédémoniens et seuls les éphores et les généraux de la cité en connaissaient le procédé.
+Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê a un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Ce dispositif n’existait que à Sparte et seuls les élites de la cité, les éphores (les magistrats du gouvernement) et les généraux, en connaissaient le procédé.
 
-##  Fonctionnement et modélisation mathématique
+##  Fonctionnement de la scytale et modélisation mathématique
 
 <img src="{{ "/assets/1_Antiquite/plutarque.jpeg" | relative_url }}" alt="Plutarque" style="margin: 0 auto;display: block; width: 200px;"/>
 <p align="center"> <em>Plutarque, Ier siècle avant J.-C.</em> </p>
 
-Plutarque, un écrivain majeur de la Rome antique venant de Grèce et ayant vécu au Ier siècle après J-C, rapporte son fonctionnement dans *Les Vies des Hommes Illustres* :
+Plutarque, un écrivain majeur de la Rome antique venant de Grèce et ayant vécu au Ier siècle après J-C, rapporte le fonctionnement de la scytale dans *Les Vies des Hommes Illustres* :
 > « Voici, du reste, ce que c'est que la scytale. Quand un général part pour une expédition de terre ou de mer, les éphores prennent deux bâtons ronds, parfaitement égaux en longueur et en grosseur, de façon à se correspondre exactement l'un à l'autre, dans toutes les dimensions. Ils gardent l'un de ces bâtons, et donnent l'autre au général: ils appellent ces bâtons scytales. Lorsqu'ils veulent mander au général quelque secret d'importance, ils taillent une bande de parchemin, longue et étroite comme une courroie, la roulent autour de la scytale qu'ils ont gardée, sans laisser le moindre intervalle entre les bords de la bande, de telle sorte que le parchemin couvre entièrement la surface du bâton. Sur ce parchemin ainsi roulé autour de la scytale, ils écrivent ce qu'ils veulent; et, quand ils ont écrit, ils enlèvent la bande, et l'envoient au général sans le bâton. Le général qui l'a reçue n'y saurait rien lire d'ailleurs, parce que les mots, tout dérangés et épars, ne forment aucune suite; mais il prend la scytale qu'il a emportée, et il roule alentour la bande de parchemin, dont les différents tours, se trouvant alors réunis, remettent les mots dans l'ordre dans lequel ils ont été écrits, et présentent toute la suite de la lettre. On appelle cette lettre scytale, du nom même du bâton, comme ce qui est mesuré prend le nom de ce qui lui sert de mesure. »
 
 > *Tome 2 (traduction d'Alexis Pierron), Vie de Lysandre, p. 379.*
