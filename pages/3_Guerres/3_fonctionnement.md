@@ -56,6 +56,15 @@ Remarques :
 
 ## Utilisation d'Enigma par l'armée allemande
 
+Les opérateurs allemands recevaient chaque mois un carnet de code contenant toutes les clefs quotidiennes du mois. La clef du jour comprenait :
+* le choix et l'ordre des trois rotors
+* la position initiale de chacun de des rotors
+* les associations du tableau de connexions
+
+Une fois ces installations faites chez l'emetteur et le récepteur, le premier chiffreur choisit au hasard 3 lettres qui seront le véritable réglage de rotors et les frappe deux fois, ex : SHMSHM. C'est la clef brute du message. Il envoit ces 6 lettres au recepteur, les deux opérateurs sont ainsi au courant de la véritable clef du message. Ils règlent tous deux, à nouveau, leur rotors en fonction de cette clef. Le message peut maintenant être envoyé.
+
+Pour ce faire, l'emetteur frappe sur le clavier le message qu'il veut coder. A chaque lettre tapée, une lettre s'allume sur l'écran au-dessus du clavier et indique le résultat du codage. Il note alors cette lettre puis la transmet par radio, en morse, au recepteur.
+
 ## Calcul du nombre de clefs potentielles avec 3 rotors :
 
 1. Orientation des brouilleurs
