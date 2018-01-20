@@ -9,8 +9,8 @@ permalink: /sources/
 * Hervé Lehing. Quoi de neuf en cryptographie ? *Tangente*, juillet-août 2012, n°147, p. 42-43
 * Codes Secrets *Tangente*, Juillet-Aout, n°147, 2012
 * Elisabeth Busser, Hervé Lehning et Fabien Aoustin. Le Petit Théoreme de Fermat. *Tangente*, Novembre-Décembre 2016, n°173, p.31-39
-* Anne Debroise. Le monde arabo-musulman les capitales de la connaissance *Les Cahiers Sciences et vie*, Mai 2013, n°137
-* L'ère d'Internet : Les enjeux d'un réseau global *Dossier pour la science*, Janvier-Mars 2010, n°66
+* Anne Debroise. Le monde arabo-musulman les capitales de la connaissance. *Les Cahiers Sciences et vie*, Mai 2013, n°137
+* L'ère d'Internet : Les enjeux d'un réseau global. *Dossier pour la science*, Janvier-Mars 2010, n°66
 * Comprendre les Mathématiques. *Le Point : "Références"*, février-mars 2017
 
 # Livres
@@ -42,7 +42,7 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Histoire 4e. Hachette.1964 (L'Italie au XVème siècle )
 * Statue d'Alberti de Giovanni Lusini, photographiée par Frieda (Leon Battista Alberti)
 * Portrait de Thomas de Leu (Blaise de Vigenère)
-* Charles Perrault, Les Hommes illustres qui ont paru en France pendant ce siècle, Paris, 1696 (Antoine Rossignol)
+* Charles Perrault, *Les Hommes illustres qui ont paru en France pendant ce siècle*, Paris, 1696 (Antoine Rossignol)
 * The Illustrated London News (4 November 1871)(Charles Babbage)
 
 ## Les Guerres Mondiales
