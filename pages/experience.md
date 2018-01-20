@@ -17,7 +17,7 @@ Nous supposons dans notre raisonnement que le texte codé est en français.
 
 ## 1. Hypothèse “Chiffre de César”
 
-* Hypothèse : Nous supposons que le texte est codé avec un chiffrement de substitution mono-alphabétique (une lettre est toujours codé par une même autre lettre) et plus précisément un [chiffre de César]({{ "/cesar/" | relative_url }}), c’est-à-dire un décalage alphabétique de quelques crans (jusqu’à 26) vers la droite ou vers la gauche.
+* Hypothèse : Nous supposons que le texte est codé avec un chiffrement de substitution mono-alphabétique (une lettre est toujours codée par une même autre lettre) et plus précisément un [chiffre de César]({{ "/cesar/" | relative_url }}), c’est-à-dire un décalage alphabétique de quelques crans (jusqu’à 26) vers la droite ou vers la gauche.
 
 * Si c’est un chiffre de César, alors les fréquences d’apparition de chaque lettre devraient être similaires à celle d’un texte français : avec d’importantes variations comme par exemple une fréquence élevée pour la lettre “e” et beaucoup plus faible pour le “k” ou le “w”. Nous allons donc compter le nombre d’apparitions de chaque lettre et en déduire leur fréquence que nous comparerons ensuite aux fréquences moyennes trouvées dans la langue française.
 
