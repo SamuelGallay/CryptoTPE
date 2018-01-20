@@ -15,7 +15,7 @@ Aux XIV et XVe siècles, l’Italie, territoire morcelé et fragmenté en de nom
 
 L’usage de la cryptologie se répand en Italie aux XVe et XVIe siècles car les techniques en elles-mêmes connaissent de considérables innovations. On redécouvre les traités des arabes, pères de la cryptanalyse avec [Al-Kindi]({{ "/al-kindi/" | relative_url }}) au IXe siècle et en 1412 l’égyptien Al-Qalqashandi qui synthétise dans une encyclopédie en 14 volumes l’ensemble des connaissances de la civilisation arabe en cryptologie. La découverte de l’analyse des fréquences, qui met à mal les chiffrements par substitution monoalphabétique, bouleverse les habitudes des Occidentaux, qui se contentaient de cette technique jusqu’alors considérée comme infaillible.
 
-<img src="{{ "/assets/2_TempsModernes/alberti2.jpg" | relative_url }}" alt="Cadran" style="margin: 0 auto;display: block; width: 300px;"/>
+<img src="{{ "/assets/2_TempsModernes/alberti2.jpg" | relative_url }}" alt="Cadran" style="margin: 0 auto;display: block; width: 250px;"/>
 <p align="center"> <em>Leon Battista Alberti</em> </p>
 
 C’est un architecte, mathématicien, linguiste, véritable archétype de l’humaniste de la Renaissance, Leon Battista Alberti, qui trouve la parade en 1467 avec son cadran chiffrant : c’est la naissance de la [substitution polyalphabétique]({{ "/glossaire/" | relative_url }}), qui dilue la fréquence d’apparition des lettres.
