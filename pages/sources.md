@@ -35,6 +35,10 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Charles Perrault, Les Hommes illustres qui ont paru en France pendant ce siècle, Paris, 1696 (Antoine Rossignol)
 * The Illustrated London News (4 November 1871)(Charles Babbage)
 * F1jmm, contributeur Wikipedia (Propagations des ondes dans l'atmosphère)
+* Stanisław Strumph Wojtkiewicz (1978) Sekret Enigmy (Marian Rejewski)
+* http://www.turingarchive.org/viewer/?id=521&title=4 (Alan Turing)
+* Draco2008 (Manoir de Bletchey Park)
+* 
 * http://www.union-gaulliste-de-france.org (débarquement)
 * www.bild.bundesarchiv.de (blitzkrieg)
 * www.secondeguerre.net (enigma machine)
