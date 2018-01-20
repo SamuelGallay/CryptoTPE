@@ -29,7 +29,7 @@ Cette répétition de 3 lettres permit à Marian Rejewski de retrouver l’ordre
 * La lettre ‘U’ est chiffrée par la lettre ‘A’ quand le rotor est en première position mais est chiffrée par ‘Q’ quand le rotor est en 4ème position.
 * On peut en déduire que quand le 1<SUP>er</SUP> rotor tourne de 3 crans, il passe de la lettre ‘A’ à ‘Q’. Donc on a une information sur le câblage interne du rotor.
 
-L’astuce révolutionnaire de Rejewski est qu’il a séparé le problème de la recherche de l’ordre de des lettres sur le rotor de celui de la recherche des associations sur le tableau de fiches. Le tableau de fiches augmente en effet le nombre de clefs possibles d’environ 1,5 x 10<SUP>14</SUP>.
+L’astuce révolutionnaire de Rejewski consiste à séparer le problème de la recherche de l’ordre des lettres sur le rotor de celui de la recherche des associations sur le tableau de fiches. Le tableau de fiches augmente en effet le nombre de clefs possibles d’environ 1,5 x 10<SUP>14</SUP>.
 On peut rechercher la position des lettres sur les rotors sans se soucier des fiches, car le tableau de connection, contrairement au rotors est immobile. Dans la même journée, une lettre ‘A’ entrant dans le tableau de fiches ressortira transformée en une autre, comme ‘H’, mais cette association persistera tout au long du message.
 
 En analysant les 6 premiers caractères de plusieurs dizaines de messages de la même journée, Rejewski parvint à un tableau associant chaque lettre chiffrée avec le rotor en 1<SUP>ère</SUP> position à la même lettre chiffrée avec le rotor en 4ème position.
