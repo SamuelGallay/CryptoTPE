@@ -29,7 +29,7 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 # Images
 * http://lapielanguesanciennes.blogspot.fr (carte légendée des guerres médiques)
 * www.babelio.com (Plutarque, Ier siècle avant J.-C.)
-* (une scytale)
+*  GNU Free Documentation License (une scytale)
 * http://hannibalofcarthage.net (Reconstitution de la ville antique de Carthage)
 * statue de Jules César par Nicolas Coustou photographiée par Marie-Lan Nguyen (Jules César)
 * http://www.pageshalal.fr (La Maison de la sagesse, dont le bâtiment demeure aujourd'hui)
