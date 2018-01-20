@@ -10,7 +10,7 @@ Dès 1920, plusieurs réseaux de renseignements se sont attaqués à la version 
 
 ## L’inlassable effort des Polonais
 
-La Pologne étant un pays limitrophe de l’Allemagne, dès que Enigma fut mise en service dans l’armée allemande, les Polonais se sont sentis très concernés. Malheureusement pour eux, les circuits intérieurs de la machine adoptée par l’armée ont considérablement été améliorés par rapport aux versions commerciales de la machine.
+La Pologne étant un pays limitrophe de l’Allemagne, dès qu´Enigma fut mise en service dans l’armée allemande, les Polonais se sont sentis très concernés. Malheureusement pour eux, les circuits intérieurs de la machine adoptée par l’armée ont considérablement été améliorés par rapport aux versions commerciales de la machine.
 
 Il s’ensuivit alors une longue période de recherche des évolutions qu’avait reçues Enigma, et
 grâce à leur service de renseignement, le bureau du chiffre récupéra un manuel d’utilisation d’Enigma comportant un message clair avec un message chiffré et sa clef.
@@ -110,4 +110,4 @@ On peut aussi parler de la recherche de messages clairs qui était cruciale au f
 
 Finalement, grâce à la puissance de centaines de bombes électromagnétiques, aux erreurs involontaires des opérateurs allemands et  à des recherches éreintantes de mots probables, les Alliés finirent par pouvoir déchiffrer la clef du jour en 20 minutes environ, ce qui permit aux Alliés d’avoir l’avantage sur les Allemands. Cependant au moment où le nombre de bombes devenait suffisant pour déchiffrer tous les messages, l’armée soviétique écrasait déjà la Wehrmacht sur le front oriental et la puissance industrielle des Alliés surpassait considérablement celle allemande.
 
-Enigma reste donc aujourd’hui le plus célèbre chiffrement de tous les temps et la cryptanalyse de Alan Turing et de Marian Rejewski, si elle n’a apportée des avancées grandioses à la cryptologie, a révolutionné l’approche de la cryptanalyse en la rendant scientifique, mathématique. Enfin l’acte de briser un chiffrement précis, un des plus célèbre de tous les temps réduisant ainsi drastiquement la durée la guerre ainsi que le nombre colossal de victimes perdurera dans l’esprit du public et restera gravé dans la “mythologie” de la cryptanalyse comme un acte héroïque.
+Enigma reste donc aujourd’hui le plus célèbre chiffrement de tous les temps et la cryptanalyse de Alan Turing et de Marian Rejewski, si elle n’a apporté des avancées grandioses à la cryptologie, a révolutionné l’approche de la cryptanalyse en la rendant scientifique, mathématique. Enfin l’acte de briser un chiffrement précis, un des plus célèbre de tous les temps réduisant ainsi drastiquement la durée la guerre ainsi que le nombre colossal de victimes perdurera dans l’esprit du public et restera gravé dans la “mythologie” de la cryptanalyse comme un acte héroïque.
