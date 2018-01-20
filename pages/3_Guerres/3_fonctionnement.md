@@ -74,7 +74,7 @@ Pour ce faire, l'émetteur frappe sur le clavier le message qu'il veut coder. A 
 3. Tableaux de connexions
   * Le nombre de branchements possibles en appairant 6 fois 2 lettres prises parmi les 26 lettres de l’alphabet est énorme.
   * D’abord il faut choisir 12 lettres parmi 26 : pour la première lettre, on a 26 possibilités mais pour la deuxième lettre plus que 25, puis pour la troisième lettre 24, pour la quatrième 23, … et pour la douzième, 15 possibilités. Cela fait $$ 26 \times 25 \times 24 \times 23 \times 22 \times 21 \times 20 \times 19 \times 18 \times 17 \times 16 \times 15 = 4, 626053752 \times 10^{15} $$ possibilités.  Cependant, comme l’ordre des 12 lettres n’a pas d’importance, il faut diviser ce nombre par 12! ce qui fait $$ 9,6577 \times 10^{6}. $$
-  * Maintenant, il faut choisir 6 paires de lettres parmi 12, soit $$ 12!/6! = 6,6528 \times 10^{5}
+  * Maintenant, il faut choisir 6 paires de lettres parmi 12, soit $$ 12!/6! = 6,6528 \times 10^{5} \times
 9,6577 \times 10^{6} \times 6,6528 \times 10^{5} = 6, 425074656 \times 10^{12} $$
 Enfin, comme la paire (A,B) donne la même connexion que (B,A), il faut diviser par 2 pour chaque fils c’est à dire par 26 : \\
 $$ 6, 425074656 \times 10^{12} / 26 = 100 391 791 500 $$ \\
