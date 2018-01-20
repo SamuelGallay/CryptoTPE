@@ -14,9 +14,9 @@ Le plus populaire des chiffrements est sûrement le chiffre de César. Il fut ut
 ![cesar]({{ "/assets/1_Antiquite/cesarstatue.png" | relative_url }}){: .center-image }
 <p align="center"> <em>Jules César par Nicolas Coustou, 1696, Musée du Louvre</em> </p>
 
-Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 avant J.-C. Appelées à l'aide contre les Helvètes par les Eduens «amis et alliés du peuple romain», les troupes romaines de Jules César pénètrent dans la Gaule Chevelue en 58 avant J.-C.
+Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 avant J.-C . Appelées à l'aide contre les Helvètes par les Eduens «amis et alliés du peuple romain», les troupes romaines de Jules César pénètrent dans la Gaule Chevelue en 58 avant J.-C.
 
-Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtresses de la Gaule. Une tentative d'invasion de la Grande Bretagne se soldera par un échec.
+Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtresses de la Gaule. Une tentative d'invasion de la Grande-Bretagne se soldera par un échec.
 
 En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise.
 
@@ -38,7 +38,7 @@ Il est décrit par l’historien romain Suétone dans son oeuvre biographique *V
  > « Extant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset: quae si qui investigare et persequi velit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet. »
 
 Ce qui donne en français :
-> « On a conservé en outre ses lettres à Cicéron, et celles qu'il adressait à ses familiers sur ses affaires domestiques; quand il avait à leur faire quelque communication secrète, il usait d'un chiffre, c'est-à-dire qu'il brouillait les lettres de telle façon qu'on ne pût reconstituer aucun mot: si l'on veut en découvrir le sens et les déchiffrer, il faut substituer à chaque lettre la troisième qui la suit dans l'alphabet, c'est-à-dire le D à l'A, et ainsi de suite. »
+> « On a conservé en outre ses lettres à Cicéron, et celles qu'il adressait à ses familiers sur ses affaires domestiques ; quand il avait à leur faire quelque communication secrète, il usait d'un chiffre, c'est-à-dire qu'il brouillait les lettres de telle façon qu'on ne pût reconstituer aucun mot : si l'on veut en découvrir le sens et les déchiffrer, il faut substituer à chaque lettre la troisième qui la suit dans l'alphabet, c'est-à-dire le D à l'A, et ainsi de suite. »
 
 La clef de déchiffrement est donc simple : connaissant la valeur de décalage de l’alphabet (trois rangs) il suffit de décaler pour avoir l’alphabet clair. Le message clair est à l’alphabet traditionnel ce que le message chiffré est à l’alphabet décalé.
 
@@ -56,8 +56,8 @@ Voici un message d'exemple :
 
 ## Modélisation mathématique
 
-On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit modulo 26 (longueur de l'alphabet)
-Réduire modulo, c’est récupérer uniquement le reste de la division euclidienne : on note $$ a \bmod b $$ le reste de la division de a par b.  Ex : 7 mod 5 = 2
+On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit modulo 26 (longueur de l'alphabet).
+Réduire modulo, c’est récupérer uniquement le reste de la division euclidienne : on note $$ a \bmod b $$ le reste de la division de a par b.  Ex : $$ 7 mod 5 = 2 $$
 Soit k la longueur du décalage, $$ n_{i} $$ le nombre associé à la lettre claire, et $$ n_{f} $$ le nombre associé à la lettre chiffrée, on peut alors écrire :
 
 $$ (n_{i} + k) \bmod 26 = n_{f} $$
