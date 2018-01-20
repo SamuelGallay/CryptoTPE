@@ -19,7 +19,7 @@ Elle permet de faire la cryptanalyse des textes chiffrés par substitution monoa
 **Chiffrement par substitution polyalphabétique** : chiffrement dans lequel une lettre claire peut être remplacée par différents signes dans le message chiffré. 
 Exemple : [le cadran d’Alberti]({{ "/alberti/" | relative_url }}) et [le chiffre de Vigenère]({{ "/vigenere/" | relative_url }})
 
-**Chiffrement symétrique** : chiffrement dont la clef permet le chiffrement et le déchiffrement.
+**Chiffrement symétrique** : chiffrement dont la clef permet le chiffrement et le déchiffrement. Exemple : [DES]({{ "/des/" | relative_url }})
 
 **Chiffrer** : tranformer un message afin qu'il ne soit lisible qu'à l'aide d'une clef.
 
