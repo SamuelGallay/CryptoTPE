@@ -18,7 +18,9 @@ La "méthode historique" fut inventée par le mathématicien britannique Charles
 Pour déchiffrer un tel code, la première étape est de déterminer la longueur du mot-clef. Avec un chiffre de Vigenère, si une même séquence de lettres dans le texte en clair a été cryptée avec une même partie de mot-clef, elle donnera alors une même séquence de lettres cryptées. Si une séquence de lettres en clair est fréquente dans le texte alors la probabilité qu’elle soit codée avec une même partie du mot-clef sera plus forte, ce qui permet de détecter sa présence en recherchant des séquences de lettres identiques dans le texte chiffré. Pour faire cette détection de façon statistiquement fiable, une séquence d’au moins trois lettres est préférable et doit se répéter plusieurs fois dans le texte. De telles séquences varient suivant le type de texte, mais par exemple, en français, la séquence « LES » peut se retrouver assez souvent dans la plupart des textes.
 
 Babbage et Kasiski se sont donc tous deux appuyés sur la répétition d’une séquence de 3 lettres dans le message chiffré et ont calculé la distance entre elles dans le message, ce qui revient à calculer par combien de lettres elles sont séparées l'une de l'autre. En calculant le Plus Grand Commun Diviseur (PGCD) des distances on obtient la longueur probable de la clef.
-En pratique, étant donné un message chiffré comportant deux séquences répétées S et T, on note l'emplacement dans le message de leurs répétitions S1, S2, T1 et T2. La longueur probable de la clef est : $$ PGCD (S2-S1 ; T2-T1) $$
+En pratique, étant donné un message chiffré comportant deux séquences répétées S et T, on note l'emplacement dans le message de leurs répétitions S1, S2, T1 et T2. La longueur probable de la clef est :
+
+$$ PGCD (S2-S1 ; T2-T1) $$
 
 Il faut ensuite déterminer le mot-clef grâce à l'analyse des fréquences et déchiffrer le texte avec le mot-clef.
 
