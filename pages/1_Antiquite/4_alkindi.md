@@ -28,7 +28,7 @@ Les Arabes, historiquement, cherchaient à prouver l’authenticité et à ordon
 <img src="{{ "/assets/1_Antiquite/alkindi.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 250px;"/>
 <p align="center"> <em>Le savant Al-Kindi</em> </p>
 
-Ils se sont aussi intéressés aux lettres mêmes, et ils ont remarqué que certaines se retrouvaient bien plus souvent que d’autres. Par exemple en Français, il est bien plus courant d’écrire un ‘e’ qu’un ‘w’. Cette étude s'appelle l'[analyse des fréquences]({{ "/glossaire/" | relative_url }}).
+Ils se sont aussi intéressés aux lettres mêmes, et ils ont remarqué que certaines se retrouvaient bien plus souvent que d’autres. Par exemple en Français, il est bien plus courant d’écrire un ‘e’ qu’un ‘w’ (voir figure ci-dessous, basée sur les statistiques de Simon Singh, *Histoire des codes secrets*). Cette étude s'appelle l'[analyse des fréquences]({{ "/glossaire/" | relative_url }}).
 
 <img src="{{ "/assets/exp/4.png" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 500px;"/>
 
