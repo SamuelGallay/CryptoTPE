@@ -22,7 +22,19 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883
 * Musée de la résistance en ligne. Fondation de la Résistance. mars 2015. http://museedelaresistanceenligne.org
 # Images
+* http://lapielanguesanciennes.blogspot.fr (carte légendée des guerres médiques)
+* www.babelio.com (Plutarque, Ier siècle avant J.-C.)
+* (une scytale)
+* http://hannibalofcarthage.net (Reconstitution de la ville antique de Carthage)
+* statue de Jules César par Nicolas Coustou photographiée par Marie-Lan Nguyen (Jules César)
+* http://www.pageshalal.fr (La Maison de la sagesse, dont le bâtiment demeure aujourd'hui)
+* http://kalidanastiti-space.blogspot.fr (Le savant Al-Kindi)
+* Histoire 4e. Hachette.1964 (L'Italie au XVème siècle )
+* Statue d'Alberti de Giovanni Lusini, photographiée par Frieda (Leon Battista Alberti)
+* Portrait de Thomas de Leu (Blaise de Vigenère)
+* Charles Perrault, Les Hommes illustres qui ont paru en France pendant ce siècle, Paris, 1696 (Antoine Rossignol)
+* The Illustrated London News (4 November 1871)(Charles Babbage)
+* F1jmm, contributeur Wikipedia (Propagations des ondes dans l'atmosphère)
 * http://www.union-gaulliste-de-france.org (débarquement)
 * www.bild.bundesarchiv.de (blitzkrieg)
 * www.secondeguerre.net (enigma machine)
-* 
