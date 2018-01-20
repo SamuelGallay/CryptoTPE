@@ -35,7 +35,7 @@ permalink: /sources/
 * [www.babelio.com](www.babelio.com) (Plutarque, Ier siècle avant J.-C.)
 *  GNU Free Documentation License (une scytale)
 * [http://hannibalofcarthage.net](http://hannibalofcarthage.net) (Reconstitution de la ville antique de Carthage)
-* statue de Jules César par Nicolas Coustou photographiée par Marie-Lan Nguyen (Jules César)
+* [http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=766](http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=766) (Jules César par N. Coustou, Musée du Louvre)
 * [http://www.pageshalal.fr](http://www.pageshalal.fr) (La Maison de la sagesse, dont le bâtiment demeure aujourd'hui)
 * [http://kalidanastiti-space.blogspot.fr](http://kalidanastiti-space.blogspot.fr) (Le savant Al-Kindi)
 
