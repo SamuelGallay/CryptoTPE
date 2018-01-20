@@ -22,7 +22,7 @@ Cet algorithme est encore utilisé aujourd'hui notamment pour le commerce élect
 
 Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$.
 * $$ p $$ et $$ q $$ sont deux nombres premiers ; on note $$ n $$ leur produit ($$ n = pq $$)
-* $$ \phi (n) = (p-1)(q-1) : c'est l'indicatrice d'Euler, qui représente le nombre d'entiers inférieurs à $$ n $$ et premiers avec $$ n $$
+* $$ \phi (n) = (p-1)(q-1) $$ : c'est l'indicatrice d'Euler, qui représente le nombre d'entiers inférieurs à $$ n $$ et premiers avec $$ n $$
 * e est un entier premier avec $$ \phi (n) $$
 * d vérifie l'égalité $$ ed = 1 \bmod \phi (n) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ \phi (n) $$
 On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres (remarque : il existe un unique d respectant l'égalité) \\
@@ -61,7 +61,7 @@ Il trouve 103 : **La clef secrète est (103 ; 209)**
 La  méthode générale pour casser le RSA est de factoriser n en p et q, et en déduire l'exposant secret d. \\
 Une fois que l'on connaît d, il est aisé d'en déduire tout le reste.
 Aujourd'hui les ordinateurs peuvent factoriser des nombres produits de deux premiers jusqu'à environ 300 chiffres ; toutefois, si l'on prend $$ n $$ suffisamment grand, et qu'on utilise correctement l'algorithme, il est a priori sûr. \\
-Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message avec le même $$ n $$ à Bob, Chris, et Daniel, Eve peut aisément, sans factoriser $$ n $$, retrouver le message. ELle utilisera pour cela le théorème des restes chinois, qui l'amènera non plus à résoudre un logarithme discret, mais à calculer une racine cubique. \\
+Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message avec le même $$ n $$ à Bob, Chris, et Daniel, Eve peut aisément, sans factoriser $$ n $$, retrouver le message. Elle utilisera pour cela le théorème des restes chinois, qui l'amènera non plus à calculer un logarithme discret, mais une racine cubique. \\
 Nous précisons en outre que la méthode présentée ici est la primitive ; dans un souci de sécurité, elle s'est considérablement complexifiée au fil du temps, mais nous nous bornons au principe initial.
 
 ## Le principe de Kerckhoffs
