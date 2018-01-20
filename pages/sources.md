@@ -18,6 +18,7 @@ permalink: /sources/
 
 # Sites Web
 * Brigitte Collard (Licenciée en langues et littératures classiques). La cryptographie dans l'Antiquité gréco-romaine. FEC. 2004. [http://bcs.fltr.ucl.ac.be](http://bcs.fltr.ucl.ac.be/FE/07/CRYPT/Crypto44-63.html#4)
+* Claude LEPELLEY, « POLYBE (entre -210 et -202-env. -126) », Encyclopædia Universalis [en ligne], consulté le 17 janvier 2018. URL : http://www.universalis.fr/encyclopedie/polybe/
 * Cryptographie et codes secrets. Bibmath.net [en ligne]. crée en 1999. [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma) et [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des)
 * Entrée en guerre des Etats-Unis en 1917. Chemin de mémoire. 25/11/2017.
 [http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917](http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917)
