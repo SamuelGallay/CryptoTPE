@@ -7,7 +7,7 @@ menu: /temps-modernes/
 ---
 # Exemple de cryptanalyse : notre compte-rendu d'expérience
 
-Dans l'esprit du TPE de 1ère S, nous nous sommes mis en situtation de confrontation avec un texte chiffré dans le but de réliser sa cryptanalyse.
+Dans l'esprit des TPE de 1ère S, nous nous sommes confrontés à une expérience de cryptanalyse dont le compte-rendu illustre les différents aspects de cette recherche.
 
 Nous cherchons à décrypter le texte suivant :
 
