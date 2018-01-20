@@ -10,7 +10,7 @@ Ce site Internet a été réalisé par Samuel Gallay, Hugo Medori et Manon Pathi
 
 De tout temps l'homme a eu besoin de communiquer. Ce besoin a permis l'émergence de langues, ensemble de signes associés chacun à une signification particulière. Pour matérialiser ces langues, au IVe millénaire avant notre ère, l'écriture est inventée en Mésopotamie. Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple.
 Puis l'écriture s'est répandue, et il est devenu possible plus aisément d'échanger des messages.
-Mais comment faire pour préserver la confidentialité du message ?
+Mais l'Homme a toujours ressenti le besoin de dissimuler certaines inforamtions lors de leur transfert. Comment faire alors pour préserver la confidentialité du message ?
 
 L’art, ou la science de cacher des messages a connu plusieurs formes au cours de l’histoire :
 
@@ -18,7 +18,7 @@ L’art, ou la science de cacher des messages a connu plusieurs formes au cours 
 
 - La seconde consiste à protéger un message en le chiffrant par le biais de clefs (secrètes ou publiques) qui le rendent incompréhensible : c'est de la cryptographie, sujet de notre TPE.
 
-Mais les techniques de cryptographie ont été vaincues au cours de l'histoire par des cryptanalystes. On parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clef ou la méthode de chiffrement. Ces deux disciplines réunies composent la cryptologie.
+La cryptographie permet donc de transmettre un message chiffré sans nécessairement le dissimuler lors de son transport. Mais les techniques de cryptographie ont été vaincues au cours de l'histoire par des cryptanalystes. On parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clef ou la méthode de chiffrement. Ces deux disciplines réunies composent la cryptologie.
 
 
 **Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins en communication.**
@@ -67,7 +67,13 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
 
 ## Conclusion
 
-La cryptologie est une science qui a occupé une place centrale dans la politique, la diplomatie et la guerre, tout en restant le plus secret possible. Elle a évolué, d’une part rester efficace (certaines méthodes ayant été découvertes par l’ennemi), et d’autre part s’adapter aux changements des moyens de transfert des communications. Les chiffrements sauvèrent ainsi les Grecs des Perses, accompagnèrent César dans ses conquêtes, dissimulèrent les correspondances politiques et privées de Louis XIV, décidèrent Wilson à rejoindre les alliés, et permirent d'épargner des milliers de vies pendant la Seconde Guerre mondiale. D'un autre côté, la cryptanalyse parvint souvent à casser ces chiffrements, remettant en cause la sécurité même des Etats et obligeant les cryptographes à innover pour toujours protéger le secret des communications. La guerre continuelle de la cryptographie et de la cryptanalyse a entraîné des découvertes et des progrès multiples en linguistique, en mathématiques, jusqu'à l'invention des ordinateurs.
+La cryptologie est une science qui a occupé une place centrale dans la politique, la diplomatie et la guerre, tout en restant le plus secret possible. Elle a évolué, d’une part rester efficace (certaines méthodes ayant été découvertes par l’ennemi), et d’autre part s’adapter aux changements des moyens de transfert des communications.
+
+Depuis l'Antiquité jusqu'à aujourd'hui, les méthodes de chiffrements se sont perfectionnées, passant de chiffrements mécaniques et peu sécurisés à des modélisations théoriques, puis des machines à chiffrer jusqu'à atteindre de nos jours un niveau de sécurité jusqu'ici inégalé, et qui grâce aux avancées scientifiques et technologiques a encore un potentiel d'amélioration. 
+
+Les chiffrements sauvèrent ainsi les Grecs des Perses, accompagnèrent César dans ses conquêtes, dissimulèrent les correspondances politiques et privées de Louis XIV, décidèrent Wilson à rejoindre les alliés, et permirent d'épargner des milliers de vies pendant la Seconde Guerre mondiale. D'un autre côté, la cryptanalyse parvint souvent à casser ces chiffrements, remettant en cause la sécurité même des Etats et obligeant les cryptographes à innover pour toujours protéger le secret des communications. La guerre continuelle de la cryptographie et de la cryptanalyse a entraîné des découvertes et des progrès multiples en linguistique, en mathématiques, jusqu'à l'invention des ordinateurs.
+
+Grâce à la cryptographie, le transport des communications peut se faire sans crainte car le message est inintelligible aux yeux de celui qui ne partage pas le secret de la clef. Cette garantie de confidentialité est aujourd'hui la réponse à une demande grandissante d'anonymat et de respect de la vie privée dans nos sociétés actuelles de plus en plus portées vers le transfert d'informations par Internet. La cryptographie quantique pourrait même nous apporter un sécurité parfaite et inviolable.
 
 ## Regardez aussi :
 * Notre [Compte-Rendu](experience) de l'expérience !
