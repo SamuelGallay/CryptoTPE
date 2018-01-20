@@ -43,7 +43,9 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Stanisław Strumph Wojtkiewicz (1978) Sekret Enigmy (Marian Rejewski)
 * http://www.turingarchive.org/viewer/?id=521&title=4 (Alan Turing)
 * Draco2008 (Manoir de Bletchey Park)
-* 
 * http://www.union-gaulliste-de-france.org (débarquement)
 * www.bild.bundesarchiv.de (blitzkrieg)
 * www.secondeguerre.net (enigma machine)
+* Introduction à la sécurité des communications. SUPINFO International University (Une analogie avec de la peinture pour comprendre)
+* https://rsaalgorithm.wordpress.com/ (Shamir, Rivest et Adleman)
+* http://www.thebobblog.com (Schéma illustrant la situation étudiée)
