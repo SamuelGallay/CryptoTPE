@@ -7,7 +7,7 @@ partie: "Seconde Guerre Mondiale"
 menu: /guerres/
 ---
 
-## Principe général 
+## Principe général
 
 La machine Enigma était faite de composants ingénieux combinés dans une incroyable machine à chiffrer. Toutefois, si on les prend un à un, ses principes de base deviennent compréhensibles. Enigma est la première méthode de cryptographie électronique.
 
@@ -44,7 +44,7 @@ Au bout des 3 rotors se situe une dernière permutation qui permet de revenir en
 Dans le schéma simplifié (2 rotors, 6 lettres) ci-dessous, la lettre A sera codée C. En partant de A :
 * on traverse le tableau de connexions : on obtient C.
 * on traverse les 2 rotors : on obtient successivement A et F.
-* on traverse le réflecteur où on obtient E, puis on renvoie dans les rotors pour obtenir F, A et finalement C après le tableau de connexions. 
+* on traverse le réflecteur où on obtient E, puis on renvoie dans les rotors pour obtenir F, A et finalement C après le tableau de connexions.
 
 <img src="{{ "/assets/3_Guerres/fonctionnement.png" | relative_url }}" alt="Enigma4" style="margin: 0 auto;display: block;"/>
 
@@ -76,12 +76,9 @@ Pour ce faire, l'emetteur frappe sur le clavier le message qu'il veut coder. A c
   * D’abord il faut choisir 12 lettres parmi 26 : pour la première lettre, on a 26 possibilités mais pour la deuxième lettre plus que 25, puis pour la troisième lettre 24, pour la quatrième 23, … et pour la douzième, 15 possibilités. Cela fait $$ 26 \times 25 \times 24 \times 23 \times 22 \times 21 \times 20 \times 19 \times 18 \times 17 \times 16 \times 15 = 4, 626053752 \times 10^{15} $$ possibilités.  Cependant, comme l’ordre des 12 lettres n’a pas d’importance, il faut diviser ce nombre par 12! ce qui fait $$ 9,6577 \times 10^{6}. $$
   * Maintenant, il faut choisir 6 paires de lettres parmi 12, soit $$ 12!/6! = 6,6528 \times 10^{5}
 9,6577 \times 10^{6} \times 6,6528 \times 10^{5} = 6, 425074656 \times 10^{12} $$
-Enfin, comme la paire (A,B) donne la même connexion que (B,A), il faut diviser par 2 pour chaque fils c’est à dire par 26 :
-
-$$ 6, 425074656 \times 10^{12} / 26 = 100 391 791 500 $$
-
-On peut résumer ces calculs avec le calcul suivant :
-
+Enfin, comme la paire (A,B) donne la même connexion que (B,A), il faut diviser par 2 pour chaque fils c’est à dire par 26 : \\
+$$ 6, 425074656 \times 10^{12} / 26 = 100 391 791 500 $$ \\
+On peut résumer ces calculs avec le calcul suivant : \\
 $$ \frac{26!}{14! \times 6! \times 26}  = 1, 003917915 \times 10^{11} $$
 
 Le nombre total de clefs est égal au produit de ces trois facteurs
