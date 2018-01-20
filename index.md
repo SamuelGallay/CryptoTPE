@@ -65,8 +65,9 @@ Mais les techniques de cryptographie ont été vaincues au cours de l'histoire p
 
 </div>
 
-## Conclusion :
+## Conclusion
 
+La cryptologie est une science qui a occupé une place centrale dans la politique, la diplomatie et la guerre, tout en restant le plus secret possible. Elle a évolué, d’une part rester efficace (certaines méthodes ayant été découvertes par l’ennemi), et d’autre part s’adapter aux changements des moyens de transfert des communications. Les chiffrements sauvèrent ainsi les Grecs des Perses, accompagnèrent César dans ses conquêtes, dissimulèrent les correspondances politiques et privées de Louis XIV, décidèrent Wilson à rejoindre les alliés, et permirent d'épargner des milliers de vies pendant la Seconde Guerre mondiale. D'un autre côté, la cryptanalyse parvint souvent à casser ces chiffrements, remettant en cause la sécurité même des Etats et obligeant les cryptographes à innover pour toujours protéger le secret des communications. La guerre continuelle de la cryptographie et de la cryptanalyse a entraîné des découvertes et des progrès multiples en linguistique, en mathématiques, jusqu'à l'invention des ordinateurs.
 
 ## Regardez aussi :
 * Notre [Compte-Rendu](experience) de l'expérience !
