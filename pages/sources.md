@@ -20,7 +20,9 @@ permalink: /sources/
 * Entrée en guerre des Etats-Unis en 1917. Chemin de mémoire. 25/11/2017.
 http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883
+* Musée de la résistance en ligne. Fondation de la Résistance. mars 2015. http://museedelaresistanceenligne.org
 # Images
 * http://www.union-gaulliste-de-france.org (débarquement)
 * www.bild.bundesarchiv.de (blitzkrieg)
 * www.secondeguerre.net (enigma machine)
+* 
