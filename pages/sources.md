@@ -15,7 +15,7 @@ permalink: /sources/
 * Glossaire, *Le Point références Mathématiques*, février-mars 2017
 
 # Livres
-* Singh, Simon. Histoire des codes secrets. JC Lattès, 1999
+* Singh, Simon. Histoire des codes secrets. JC Lattès, 1998
 
 # Sites Web
 * Cryptographie et codes secrets. Bibmath.net [en ligne]. crée en 1999. [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma) et [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des)
