@@ -89,39 +89,3 @@ La cryptographie d'aujourd'hui est fiable sans être totalement infaillible. Une
 * Et notre [Glossaire](glossaire) !
 
 * Notre [Page d'exemple](exemple), pour tester n'importe quoi !
-
-
-## Travail à faire
-* Je vous propose la chose suivante : boutons suivants et précédents en bas et en haut 8 boutons pour faire un menu : Accueil/Antiquité/Renaissance/Guerres/Internet/Bilan-Conclu/Glossaire/Sources !
-
-## Remarques d'un relecteur externe :
-
-### Le contexte de la seconde Guerre Mondiale : page à relire !!
-  * "la conquête de l'Axe" : paragraphe au titre étrange, et à la rédaction à relire !
-  * cependant chaque armée avait sa propre clef : phrase en suspens
-  * l’efficience du projet Ultra : ce projet n'est pas mentionné au préalable
-  * Le graphique bateaux/sous-marins n'indique rien.
-  * Le Japon ne participait pas à ce moment à la guerre : à quel moment ??
-
-### Le fonctionnement d'Enigma
-  * Calcul du nombre de clefs potentielles avec 3 rotors : Les exposants n'apparaissent pas correctement
-  * Il faut absolument dire que le cryptage est symétrique (involutif).
-  * Le fonctionnement du tableau de connexion n'est pas expliqué, donc on ne comprend pas les calculs combinatoires qui suivent.
-  * *Je pense qu'il faut plus parler de la méthode d'utilisation d'énigma par les allemands, quelle est la clef du jour, quelle est la clef de trois lettres au début de chaque message car c'est très important pour comprendre la cryptanalyse (Samuel)*
-
-
-### L'ère d'internet
-  * Ajouter un paragraphe d'introduction
-
-### Le DES : Un chiffrement symétrique
-  * Mentionner brièvement comment déchiffrer un message chiffré avec Lucifer, de façon à justifier l'appellation "chiffrement symétrique"
-
-### Le RSA
-  * Il manque de la ponctuation un peu partout, et la présentation est un peu chaotique.
-  * La démonstration suppose, je crois, que M est premier avec n.
-  * puis que l’on chiffre : où est passé le conditionnel
-  * "Mathématiquement du, Informatiquement, de" : tournure bizarre
-  * Eve peut aisément, sans factoriser n, retrouver le message : comment ?
-  * On parle de Kerckoffs ???
-
-  
