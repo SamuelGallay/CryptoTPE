@@ -1,5 +1,5 @@
 ---
-title: "Le Diffie-Hellman"
+title: "Le protocole d'échange de clefs Diffie-Hellman"
 precedente: /des/
 permalink: /diffie-hellman/
 suivante: /rsa/
