@@ -10,9 +10,6 @@ menu: /antiquite/
 
 La scytale est le premier système de cryptographie connu. Il a été utilisé à des fins militaires lors des guerres médiques qui ont opposé la Perse et les cités autonomes de Grèce au Ve siècle avant J-C.
 
-<img src="{{ "/assets/1_Antiquite/scytale.png" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
-<p align="center"> <em>Reconstitution d'une scytale</em> </p>
-
 Ces dernières ont été déclenchées par la révolte des cités grecques d’Ionie (littoral d’Asie Mineure) contre la domination perse. Les deux expéditions militaires des souverains perses Darius Ier et Xerxès Ier constituent les principaux épisodes militaires de ce conflit ; elles se sont conclues par la victoire spectaculaire des cités grecques européennes conduites par Athènes et Sparte.
 
 Des plans d’invasions sophistiqués y ont vu le jour et, pour la première fois, il est apparu nécessaire d’établir un moyen de communication secret entre le front et l’arrière. La scytale fut alors inventée dans la cité de Sparte.
@@ -31,6 +28,9 @@ Plutarque, un écrivain majeur de la Rome antique venant de Grèce et ayant véc
 > « Voici, du reste, ce que c'est que la scytale. Quand un général part pour une expédition de terre ou de mer, les éphores prennent deux bâtons ronds, parfaitement égaux en longueur et en grosseur, de façon à se correspondre exactement l'un à l'autre, dans toutes les dimensions. Ils gardent l'un de ces bâtons, et donnent l'autre au général: ils appellent ces bâtons scytales. Lorsqu'ils veulent mander au général quelque secret d'importance, ils taillent une bande de parchemin, longue et étroite comme une courroie, la roulent autour de la scytale qu'ils ont gardée, sans laisser le moindre intervalle entre les bords de la bande, de telle sorte que le parchemin couvre entièrement la surface du bâton. Sur ce parchemin ainsi roulé autour de la scytale, ils écrivent ce qu'ils veulent; et, quand ils ont écrit, ils enlèvent la bande, et l'envoient au général sans le bâton. Le général qui l'a reçue n'y saurait rien lire d'ailleurs, parce que les mots, tout dérangés et épars, ne forment aucune suite; mais il prend la scytale qu'il a emportée, et il roule alentour la bande de parchemin, dont les différents tours, se trouvant alors réunis, remettent les mots dans l'ordre dans lequel ils ont été écrits, et présentent toute la suite de la lettre. On appelle cette lettre scytale, du nom même du bâton, comme ce qui est mesuré prend le nom de ce qui lui sert de mesure. »
 
 > *Tome 2 (traduction d'Alexis Pierron), Vie de Lysandre, p. 379.*
+
+<img src="{{ "/assets/1_Antiquite/scytale.png" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
+<p align="center"> <em>Reconstitution d'une scytale</em> </p>
 
 Mathématiquement, on peut traduire cette technique de la manière suivante. On appelle T le nombre de lettres par tour de ruban (ce qui revient à connaître la taille du cylindre) et L le nombre de tours de ruban, c’est à dire la taille du message que l’on veut transmettre ou encore le nombre de lettres du message. Enfin, on nomme N le nombre total de lettres écrites sur le ruban.On peut ainsi dire que TxL = N. La personne en possession du ruban connaît forcément N (il lui suffit de compter le nombre de lettres inscrites), elle peut donc décoder le message si elle connaît T ou L.
 
