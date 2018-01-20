@@ -41,7 +41,7 @@ Au bout des 3 rotors se situe une dernière permutation qui permet de revenir en
 
 <img src="{{ "/assets/3_Guerres/reflecteur.png" | relative_url }}" alt="Enigma3" style="margin: 0 auto;display: block;"/>
 
-Dans le schéma simplifié (2 rotors, 6 lettres) ci-dessous, la lettre A sera codée C.
+Dans le schéma simplifié (2 rotors, 6 lettres) ci-dessous, la lettre A sera codée C. En partant de A :
 * on traverse le tableau de connexions : on obtient C.
 * on traverse les 2 rotors : on obtient successivement A et F.
 * on traverse le réflecteur où on obtient E, puis on renvoie dans les rotors pour obtenir F, A et finalement C après le tableau de connexions. 
@@ -53,6 +53,8 @@ Remarques :
 * Si on avait tapé C, le courant aurait circulé dans l'autre sens et on aurait obtenu A. C'est le réflecteur qui garantie le caractère involutif de l'Enigma : chiffrer est identique à déchiffrer, ce qui en fait un [chiffrement symétrique]({{ "/glossaire/" | relative_url }}).
 
 * Le réflecteur empêche Enigma de substituer une lettre à elle-même dans le texte chiffré ; la lettre A ne sera jamais chiffré A. C'est une faille majeure qui a été utilisée par les cryptanalystes.
+
+## Utilisation d'Enigma par l'armée allemande
 
 ## Calcul du nombre de clefs potentielles avec 3 rotors :
 
