@@ -6,7 +6,8 @@ partie: "Accueil • Travail Personnel Encadré"
 
 Ce site Internet a été réalisé en 2018 par Samuel Gallay, Hugo Medori et Manon Pathier, élèves au Lycée du Grésivaudan de Meylan dans le cadre de leur TPE.
 
-## De la communication à la cryptographie 
+## Introduction
+### De la communication à la cryptographie 
 
 "L'homme est un être sociable ; la nature l'a fait pour vivre avec ses semblables." nous rappelle Aristote dans l'*Ethique à Nicomaque* (349 av. J-C). \\
 Cette dimension sociale a depuis toujours induit pour l'Homme le besoin fondamental de communiquer. \\
@@ -69,7 +70,8 @@ Nous répondrons à cette problématique en privilégiant une approche chronolog
 
 </div>
 
-## Bilan, enjeux contemporains et perspectives 
+## Conclusion
+### Bilan, enjeux contemporains et perspectives 
 
 L'analyse historique que nous avons développée dans les quatre parties de la frise chronologique montre bien que la cryptologie est une science qui a occupé depuis l'Antiquité une place centrale dans la politique, la diplomatie et la guerre, tout en restant le plus secret possible. La cryptoraphie a évolué, pour d’une part demeurer efficace (certaines méthodes ayant été découvertes par l’ennemi ou cassées par les cryptanalystes), et pour d’autre part s’adapter aux changements des moyens de transfert des communications.
 
