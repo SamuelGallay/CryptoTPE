@@ -23,15 +23,15 @@ Lucifer crypte les messages de la façon suivante. D’abord, le message est tra
 <p align="center"> <em> Schéma de l'algorithme du DES </em> </p>
 
 
-Les modalité précises de la fonction de transformation peuvent varier et sont déterminées par une clef choisie par l'émetteur et le receveur. Les clefs utilisées dans la cryptographie par ordinateur sont des nombres. L’envoyeur et le receveur doivent donc fixer ce nombre pour décider de la clef. Ensuite, pour chiffrer, l’envoyeur entre le nombre-clef et le message dans Lucifer, qui émet le texte chiffré.
+Les modalités précises de la fonction de transformation peuvent varier et sont déterminées par une clef choisie par l'émetteur et le receveur. Les clefs utilisées dans la cryptographie par ordinateur sont des nombres. L’envoyeur et le receveur doivent donc fixer ce nombre pour décider de la clef. Ensuite, pour chiffrer, l’envoyeur entre le nombre-clef et le message dans Lucifer, qui émet le texte chiffré.
 
-Pour déchiffrer, le receveur entre la même clef et le texte chiffré dans Lucifer. Il déroule alors l'algorithme dans le sens inverse et retrouve ainsi le texte clair. Ce type de chiffrement s'apelle un [chiffrement symétrique]({{ "/glossaire/" | relative_url }})
+Pour déchiffrer, le receveur entre la même clef et le texte chiffré dans Lucifer. Il déroule alors l'algorithme dans le sens inverse et retrouve ainsi le texte clair. Ce type de chiffrement s'appelle un [chiffrement symétrique]({{ "/glossaire/" | relative_url }}). Il est donc nécessaire de partager le clef avant de pouvoir transmettre le message.
 
-## Sécurité 
+## Sécurité
 
 Le nombre de clefs possibles est l’un des composants les plus important pour la sécurité d’un chiffrement. Un cryptanalyste essayant de déchiffrer un message crypté peut tenter de vérifier toutes les clefs possibles. Or, plus le nombre de clefs est élevé, plus ces vérifications demanderont du temps. La NSA (National Security Agency, l'une des principales agences de renseignement américaine) plaida donc pour une limitation du nombre de clefs à environ 100 000 000 000 000 000 (soit 56 bits). Elle semblait croire qu’une telle clef apporterait une confidentialité suffisante pour le public, car aucun organisme privé ne disposait d’un ordinateur capable de vérifier un tel nombre de clefs en un temps raisonnable. En revanche, la NSA serait en capacité de lire les messages qui l’intéressent.
 
-## Faiblesse 
+## Faiblesse
 
 Ce qui a signé la fin du DES est l'extraordinaire progression de la puissance des ordinateurs. Le 17 juin 1997, le DES est cassé en 3 semaines par une fédération de petites machines sur Internet. Et on estime très officiellement (dans un rapport présenté au Sénat Américain) à cette date à quelques secondes le temps nécessaire à un Etat pour percer les secrets d'un message chiffré avec le DES. Ainsi, le DES a progressivement été abandonné à partir de la fin des années 1990 et définitivement remplacé en 2001.
 
