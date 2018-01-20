@@ -21,7 +21,7 @@ Polybe (203 avant J-C - 126 av. J-C) était un historien grec à qui l’on doit
 
 ### La chute de Cathage
 
-Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et la fin de la Troisième Guerre Punique. Au début, la ville, malgré son isolement, résiste à la pression militaire de Rome et connaît même quelques succès tactiques. Mais en 147-146, grâce à l'arrivée du nouveau chef romain Scipion Emilien, petit-fils adoptif de Scipion l’Africain, Carthage est méthodiquement investie. Prise d'assaut, la capitale punique est mise à sac, puis détruite. Jules César reconstruira plus tard une ville romaine sur son emplacement. Les possessions africaines de Carthage deviennent la province romaine d'Afrique. Désormais, et pour longtemps, rien ne résiste plus à Rome. Cette cité italienne parmi d'autres est devenue à la faveur des guerres puniques un empire à vocation universelle. L'année même où Carthage est rasée, les Romains s'emparent de Corinthe et transforment la Grèce prestigieuse en province ordinaire.
+Elle marque la fin d’un siège de trois ans ayant débuté en 149 av. J-C et la fin de la troisième guerre punique. Au début, la ville, malgré son isolement, résiste à la pression militaire de Rome et connaît même quelques succès tactiques. Mais en 147-146, grâce à l'arrivée du nouveau chef romain Scipion Emilien, petit-fils adoptif de Scipion l’Africain, Carthage est méthodiquement investie. Prise d'assaut, la capitale punique est mise à sac, puis détruite. Jules César reconstruira plus tard une ville romaine sur son emplacement. Les possessions africaines de Carthage deviennent la province romaine d'Afrique. Désormais, et pour longtemps, rien ne résiste plus à Rome. Cette cité italienne parmi d'autres est devenue à la faveur des guerres puniques un immense empire. L'année même où Carthage est rasée, les Romains s'emparent de Corinthe et transforment la Grèce prestigieuse en province ordinaire.
 
 <img src="{{ "/assets/1_Antiquite/carthage.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Reconstitution de la ville antique de Carthage</em> </p>
@@ -39,6 +39,7 @@ Le carré de Polybe est un système composé d’un carré de 25 cases dans lesq
 | **3** | K | L | M | N | O |
 | **4** | P | Q | R | S | T |
 | **5** | U | V | X | Y | Z |
+
 
 * Message en clair : `Polybe a eu accès à la bibliothèque de Persée`
 
