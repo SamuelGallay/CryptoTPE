@@ -42,7 +42,7 @@ Mais ces associations, bien qu'importantes, ne permettent pas de retrouver la co
 
 C’est à ce moment qu’un espion allemand, Hans-Thilo Schmidt, travaillant pour les Alliés fit parvenir au service de renseignement français un manuel d’utilisation d’Enigma ainsi que d’autres informations sur la structure interne d’ Enigma.
 
-Cela facilita considérablement la résolutions des équations de Rejewski qui comportaient quatres inconnues étant chacunes une permutation des 26 lettres de l’alphabet.
+Cela facilita considérablement la résolution des équations de Rejewski qui comportaient quatres inconnues étant chacunes une permutation des 26 lettres de l’alphabet.
 
 
 Cela permit au bureau du chiffre de Pologne de déterminer la composition du premier rotor. Malheureusement, Enigma était composée de 3 rotors et seul le rotor de droite, le rotor rapide, qui tourne à chaque lettre saisie du message était maintenant connu. Heureusement pour la cryptanalyse alliée, l’ordre des 3 rotors (3! = 6 possibilités) était changé tous les quelques mois, et en décembre 1932, la composition interne des 3 rotors fut connue des cryptanalystes polonais.
