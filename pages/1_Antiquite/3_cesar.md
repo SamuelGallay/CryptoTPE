@@ -57,7 +57,7 @@ Voici un message d'exemple :
 ## Modélisation mathématique
 
 On peut aussi coder d’une autre façon, plus mathématique. On note A=0, B=1,C =3 ..., Z=25. On ajoute une constante (le décalage, précédemment 3) et pour conserver le résultat entre 0 et 25, on le réduit modulo 26 (longueur de l'alphabet)
-Réduire modulo, c’est récupérer uniquement le reste de la division euclidienne : on note $$ a \bmod b $$ le reste de la division de a par b.  Ex : $$ 7 \bmod 5 = 2 $$
+Réduire modulo, c’est récupérer uniquement le reste de la division euclidienne : on note $$ a mod b $$ le reste de la division de a par b.  Ex : 7 mod 5 = 2
 Soit k la longueur du décalage, $$ n_{i} $$ le nombre associé à la lettre claire, et $$ n_{f} $$ le nombre associé à la lettre chiffrée, on peut alors écrire :
 
 $$ (n_{i} + k) \bmod 26 = n_{f} $$
@@ -77,7 +77,7 @@ $$ (n_{i} + k) \bmod 26 = n_{f} $$
 Les *Commentaires sur la Guerre des Gaules* n’évoquent en réalité jamais le chiffre de César mais parlent bien d’un moyen de cacher les messages aux yeux de l’ennemi, comme dans cet extrait :
 >"Il [César] persuade alors un cavalier gaulois, en lui promettant de grandes récompenses, de porter une lettre à Cicéron. Il envoie celle-ci écrite en lettres grecques, afin que, si elle est interceptée, nos desseins ne soient pas pénétrés par les ennemis."
 
-La technique de chiffrement se borne ici à traduire le texte en grec. On peut supposer que Jules César considérait que les barbares auxquels il était confronté ne connaissaient pas l’écriture grecque. Cela ne l’empêchait pas, dans certains cas, d’utiliser une double protection grâce à la stéganographie : en effet le message chiffré envoyé à Cicéron était dissimulé sur la courroie d’une tragule (javelot).
+La technique de chiffrement se borne ici à traduire le texte en grec. On peut supposer que Jules César considérait que les barbares auxquels il était confronté ne connaissaient pas l’écriture grecque. Cela ne l’empêchait pas, dans certains cas, d’utiliser une double protection : en effet le message chiffré envoyé à Cicéron était dissimulé sur la courroie d’une tragule (javelot).
 
 Il semblerait même que Valérius Probus (50 - 150), critique et grammairien romain, ait écrit un traité complet sur “le sens caché des lettres dans l’écriture de la correspondance de Caius César”. Celui-ci n’a malheureusement pas été conservé jusqu’à nous. Il existe d’autres témoignages confirmant l’existence de ces techniques de chiffrement, notamment ceux d'érudits comme Aulu-Gelle et Dion Cassius.
 
