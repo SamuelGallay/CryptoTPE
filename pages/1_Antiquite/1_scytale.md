@@ -30,7 +30,7 @@ Plutarque, un écrivain majeur de la Rome antique venant de Grèce et ayant véc
 > *Tome 2 (traduction d'Alexis Pierron), Vie de Lysandre, p. 379.*
 
 <img src="{{ "/assets/1_Antiquite/scytale.png" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
-<p align="center"> <em>Reconstitution d'une scytale avec 8 lettres par tour de ruban</em> </p>
+<p align="center"> <em>Reconstitution d'une scytale avec 8 lettres par tour de ruban et une longueur de 8 lettres</em> </p>
 
 Mathématiquement, on peut traduire cette technique de la manière suivante. On appelle T le nombre de lettres par tour de ruban (ce qui revient à connaître la taille du cylindre) et L le nombre de tours de ruban, c’est à dire la taille du message que l’on veut transmettre ou encore le nombre de lettres du message. Enfin, on nomme N le nombre total de lettres écrites sur le ruban. On peut ainsi dire que TxL = N. La personne en possession du ruban connaît forcément N (il lui suffit de compter le nombre de lettres inscrites), elle peut donc décoder le message si elle connaît T ou L.
 
@@ -47,4 +47,4 @@ Lorsque l'on sait que le texte a été chiffré avec la scytale, on peut essayer
 
 Le message ci-dessous est écrit sur un ruban à enrouler autour d'une scytale d'un diamètre tel qu'on lit 3 lettres par tour. Tentez de le déchiffrer. Petit indice : c'est une citation du philosophe grec Platon.
 
-dsfojknicnwrezfegntqetvdukurlpemgcxeefsvrqrdlahyseb
+dteotvnurnraeesec!
