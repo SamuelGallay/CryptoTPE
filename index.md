@@ -25,7 +25,7 @@ La cryptographie permet donc de transmettre un message chiffré sans nécessaire
 
 Notre travail suivra une progression chronologique permettant de répondre à notre problématique : **Comment la cryptographie s'est-elle adaptée à l'évolution des besoins en communication ?**
 
-Nous distinguerons quatre grandes parties accessibles depuis la frise ci-dessous.
+Nous aborderons cette problématique au travers quatre grandes périodes accessibles depuis la frise chronologique interactive suivante.
 
 
 
