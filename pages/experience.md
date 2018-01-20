@@ -93,7 +93,7 @@ On peut également le vérifier en étudiant la corrélation entre l’alphabet 
 <p align="center"> <em>Figure 6</em> </p>
 
 
-La corrélation est correcte et nous permet de confirmer notre hypothèse. Elle n’est pas parfaite car l’analyse des fréquences est réalisée sur un texte de 69 lettres, ce qui est relativement peu. Pour avoir une corrélation parfaite ou presque, il faudrait un échantillon d’environ 10 000 caractères.
+La corrélation est correcte et nous permet de confirmer notre hypothèse. Elle n’est pas parfaite car l’analyse des fréquences est réalisée sur un texte de 69 lettres, ce qui est relativement peu. Pour avoir une corrélation quasi-parfaite, il faudrait un échantillon d’environ 10 000 caractères.
 
 Nous allons recommencer la même démarche pour identifier la deuxième lettre du mot-clé. Une répartition des fréquences une fois établie pour la 2e, la 7e, la 12e, la 17e … lettres du texte chiffré, nous comparons de nouveau le graphique obtenu avec celui de l’alphabet courant (figure 7).
 
