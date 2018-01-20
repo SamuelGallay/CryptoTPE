@@ -10,6 +10,9 @@ menu: /antiquite/
 
 La scytale est le premier système de cryptographie connu. Il a été utilisé à des fins militaires lors des guerres médiques qui ont opposé la Perse et les cités autonomes de Grèce au Ve siècle avant J-C.
 
+<img src="{{ "/assets/1_Antiquite/scytale.png" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
+<p align="center"> <em>Reconstitution d'une scytale</em> </p>
+
 Ces dernières ont été déclenchées par la révolte des cités grecques d’Ionie (littoral d’Asie Mineure) contre la domination perse. Les deux expéditions militaires des souverains perses Darius Ier et Xerxès Ier constituent les principaux épisodes militaires de ce conflit ; elles se sont conclues par la victoire spectaculaire des cités grecques européennes conduites par Athènes et Sparte.
 
 Des plans d’invasions sophistiqués y ont vu le jour et, pour la première fois, il est apparu nécessaire d’établir un moyen de communication secret entre le front et l’arrière. La scytale fut alors inventée dans la cité de Sparte.
@@ -30,9 +33,6 @@ Plutarque, un écrivain majeur de la Rome antique venant de Grèce et ayant véc
 > *Tome 2 (traduction d'Alexis Pierron), Vie de Lysandre, p. 379.*
 
 Mathématiquement, on peut traduire cette technique de la manière suivante. On appelle T le nombre de lettres par tour de ruban (ce qui revient à connaître la taille du cylindre) et L le nombre de tours de ruban, c’est à dire la taille du message que l’on veut transmettre ou encore le nombre de lettres du message. Enfin, on nomme N le nombre total de lettres écrites sur le ruban.On peut ainsi dire que TxL = N. La personne en possession du ruban connaît forcément N (il lui suffit de compter le nombre de lettres inscrites), elle peut donc décoder le message si elle connaît T ou L.
-
-<img src="{{ "/assets/1_Antiquite/scytale.png" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 400px;"/>
-<p align="center"> <em>Une scytale</em> </p>
 
 ## Exemple
 
