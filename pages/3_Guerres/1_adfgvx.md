@@ -14,7 +14,7 @@ En même temps, en Grande-Bretagne, Guglielmo Marconi inventa la Télégraphie S
 <img src="{{ "/assets/3_Guerres/propaTSF.png" | relative_url }}" alt="propaTSF" style="margin: 0 auto;display: block; width:250px;"/>
 <p align="center"> <em> Propagations des ondes dans l'atmosphère </em> </p>
 
-A l'aube de la première Guerre Mondiale, les militaires virent tout de suit l'enjeu de cette découverte qui permettait de rester en contact avec les bataillons ou la flotte où qu'ils soient. Mais tous ces signaux, magiquement transmis à travers l'éther, sont reçus aussi bien par les alliés que par les ennemis… Cela renforce le besoin d'un cryptage efficace.
+A l'aube de la première Guerre Mondiale, les militaires virent tout de suite l'enjeu de cette découverte qui permettait de rester en contact avec les bataillons ou la flotte où qu'ils soient. Mais tous ces signaux, magiquement transmis à travers l'éther, sont reçus aussi bien par les alliés que par les ennemis… Cela renforce le besoin d'un cryptage efficace.
 De 1914 à 1918 les chiffrements n'ont que peu progressé et la plupart d'entre eux ne vécurent que le temps de les déchiffrer. On peut noter l'un des plus fameux, le code ADFGVX mis en place par les Allemands alors qu'ils n'étaient qu'à 100km de Paris début juin 1918. Pour savoir où les troupes allemandes comptaient frapper, les Français étaient contraints de déchiffrer leurs communications. Ils possédaient par chance une arme secrète, le lieutenant Georges Painvin. Après des nuits de travail, il réussit enfin à décrypter le code ennemi éclairant ainsi les Français sur tous les agissements allemands.
 
 ## Fonctionnement et exemple
