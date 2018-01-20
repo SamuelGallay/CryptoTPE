@@ -5,9 +5,9 @@ precedente: /cryptanalyse-vigenere/
 partie: "Les Temps Modernes"
 menu: /temps-modernes/
 ---
+# Une expérience de cryptanalyse
 
-
-Dans l'esprit du TPE de 1ère S, nous avons réalisé l'expérience suivante.
+Dans l'esprit du TPE de 1ère S, nous nous sommes mis en situtation de confrontation avec un texte chiffré dans le but de réliser sa cryptanalyse.
 
 Nous cherchons à décrypter le texte suivant :
 
