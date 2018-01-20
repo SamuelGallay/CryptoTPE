@@ -1,5 +1,5 @@
 ---
-title: "Les chiffrements asymétriques perfectionnés : l'exemple du RSA"
+title: "Le RSA : un chiffrement asymétrique"
 precedente: /diffie-hellman/
 permalink: /rsa/
 suivante: /quantique/
