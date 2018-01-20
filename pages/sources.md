@@ -13,8 +13,10 @@ permalink: /sources/
 * Le monde arabo-musulman les capitales de la connaissance *Les Cahiers Sciences et vie*, Mai 2013, n°137
 * L'ère d'Internet : Les enjeux d'un réseau global *Dossier pour la science*, Janvier-Mars 2010, n°66
 * Glossaire, *Le Point références Mathématiques*, février-mars 2017
+
 # Livres
 * Singh, Simon. Histoire des codes secrets. JC Lattès, 1999
+
 # Sites Web
 * Cryptographie et codes secrets. Bibmath.net [en ligne]. crée en 1999. [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=debvingt/enigma) et [http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des](http://www.bibmath.net/crypto/index.php?action=affiche&quoi=moderne/des)
 * Entrée en guerre des Etats-Unis en 1917. Chemin de mémoire. 25/11/2017.
@@ -26,14 +28,15 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Enigma et la Seconde guerre mondiale. Guillaume Munch et Julien Milli. août 2004. [http://www.irem.unilim.fr/fileadmin/user_upload/Convergences/tpe_enigma.pdf](http://www.irem.unilim.fr/fileadmin/user_upload/Convergences/tpe_enigma.pdf)
 * Replique Enigma. Wordpress. [https://repliqueenigma.wordpress.com](https://repliqueenigma.wordpress.com/cryptanalyse/cryptanalysefaille_protocole_envoi/)
 * La machine Enigma et la machine de Lorenz. Léa Bommottet. 28 octobre 2013. [http://www.auguste-piccard.ch/pages/TM-PDF/TM2013/TM2013Bommottet.pdf](http://www.auguste-piccard.ch/pages/TM-PDF/TM2013/TM2013Bommottet.pdf)
+
 # Images
-* http://lapielanguesanciennes.blogspot.fr (carte légendée des guerres médiques)
-* www.babelio.com (Plutarque, Ier siècle avant J.-C.)
+* [http://lapielanguesanciennes.blogspot.fr](http://lapielanguesanciennes.blogspot.fr) (carte légendée des guerres médiques)
+* [www.babelio.com](www.babelio.com) (Plutarque, Ier siècle avant J.-C.)
 *  GNU Free Documentation License (une scytale)
-* http://hannibalofcarthage.net (Reconstitution de la ville antique de Carthage)
+* [http://hannibalofcarthage.net](http://hannibalofcarthage.net) (Reconstitution de la ville antique de Carthage)
 * statue de Jules César par Nicolas Coustou photographiée par Marie-Lan Nguyen (Jules César)
-* http://www.pageshalal.fr (La Maison de la sagesse, dont le bâtiment demeure aujourd'hui)
-* http://kalidanastiti-space.blogspot.fr (Le savant Al-Kindi)
+* [http://www.pageshalal.fr](http://www.pageshalal.fr) (La Maison de la sagesse, dont le bâtiment demeure aujourd'hui)
+* [http://kalidanastiti-space.blogspot.fr](http://kalidanastiti-space.blogspot.fr) (Le savant Al-Kindi)
 * Histoire 4e. Hachette.1964 (L'Italie au XVème siècle )
 * Statue d'Alberti de Giovanni Lusini, photographiée par Frieda (Leon Battista Alberti)
 * Portrait de Thomas de Leu (Blaise de Vigenère)
@@ -41,11 +44,11 @@ http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * The Illustrated London News (4 November 1871)(Charles Babbage)
 * F1jmm, contributeur Wikipedia (Propagations des ondes dans l'atmosphère)
 * Stanisław Strumph Wojtkiewicz (1978) Sekret Enigmy (Marian Rejewski)
-* http://www.turingarchive.org/viewer/?id=521&title=4 (Alan Turing)
+* [http://www.turingarchive.org/viewer/?id=521&title=4](http://www.turingarchive.org/viewer/?id=521&title=4) (Alan Turing)
 * Draco2008 (Manoir de Bletchey Park)
-* http://www.union-gaulliste-de-france.org (débarquement)
-* www.bild.bundesarchiv.de (blitzkrieg)
-* www.secondeguerre.net (enigma machine)
+* [http://www.union-gaulliste-de-france.org](http://www.union-gaulliste-de-france.org) (débarquement)
+* [www.bild.bundesarchiv.de](www.bild.bundesarchiv.de) (blitzkrieg)
+* [www.secondeguerre.net](www.secondeguerre.net) (enigma machine)
 * Introduction à la sécurité des communications. SUPINFO International University (Une analogie avec de la peinture pour comprendre)
-* https://rsaalgorithm.wordpress.com/ (Shamir, Rivest et Adleman)
-* http://www.thebobblog.com (Schéma illustrant la situation étudiée)
+* [https://rsaalgorithm.wordpress.com/](https://rsaalgorithm.wordpress.com/) (Shamir, Rivest et Adleman)
+* [http://www.thebobblog.com](http://www.thebobblog.com) (Schéma illustrant la situation étudiée)
