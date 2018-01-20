@@ -48,4 +48,4 @@ L’année 1942 marqua un véritable tournant : les soldats de la Wehrmacht se p
 
 L’exemple du débarquement du 6 Juin est éclairant : les Alliés purent savoir que les allemands croyaient à un débarquement dans le Pas-de-Calais ce qui les incita à poursuivre leur fructueuse entreprise de diversion. De plus, ils connaissaient la situation exacte des troupes allemandes, et particulièrement des panzers, ce qui contribua grandement à la réussite de cette opération.
 
-Aussi remarquons nous que le camp en conquête était celui qui parvenait soit à échanger de façon confidentielle soit à décrypter les messages adverses : pourrions-nous dire que le camp en conquête était ipso facto le plus performant en cryptologie ?
+Aussi remarquons-nous que le camp en conquête était celui qui parvenait soit à échanger de façon confidentielle soit à décrypter les messages adverses : pourrions-nous dire que le camp en conquête était ipso facto le plus performant en cryptologie ?
