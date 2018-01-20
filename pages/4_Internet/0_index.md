@@ -49,10 +49,12 @@ Je m'occupe de la rédac de l'intro d'internet dans un instant...
 Depuis les années 70, avec la naissance d'Internet et jusqu'à nos jours, les communications connaissent un formidable essor.
 De nouveaux chiffrements doivent être créés pour s'adapter aux transmissions binaires entre ordinateurs.
 C'est alors que voit le jour [le DES]({{ "/des/" | relative_url }}), pour *Data Encryption Standard*, un chiffrement symétrique qui permit aux internautes d'assurer leurs communications.
+
 Malheureusement il nécessite de partager la clef, un secret commun entre les utilisateurs.
 Cela posa un problème à tout le monde, distribuer les clefs par la poste n'était pas sûr, et même les Etats peinaient à transmettre leurs clefs rapidement sans crainte d'être espionnés.
 Deux mathématiciens cryptologues américains inventèrent une nouvelle forme de cryptographie dite asymétrique.
 Ils nommèrent de leurs noms [le Diffie-Hellman]({{ "/diffie-hellman/" | relative_url }}), un protocole de transmission de clefs entre utilisateurs pouvant ne jamais s'être rencontrés pour partager un secret.
+
 L'année suivante, en 1977 trois chercheurs du Massachusetts Institute of Technology publient un véritable chiffrement asymétrique, [le RSA]({{ "/rsa/" | relative_url }}) qui est encore utilisé couramment aujourd'hui sur Internet.
 
 Parallèlement à la croissance d'Internet, la puissance de calcul des ordinateurs a énormément augmenté. C'est ainsi que le DES fut progressivement abandonné au profit d'autres chiffrement symétriques plus efficaces. Les clefs utilisées dans le RSA augmentent elles aussi.
@@ -62,8 +64,4 @@ Conscients de cette menace, les cryptolographes orientent leurs recherches dans 
 * La [la cryptographie quantique]({{ "/quantique/" | relative_url }}), qui est prouvée sécurisée par les lois de la physique mais qui nécessites d'autres canaux de transmission que ceux d'Internet.
 * La cryptographie post-quantique tente de rivaliser avec les ordinateurs quantiques en utilisant les ordinateurs traditionnels.
 
-
-* [Le DES]({{ "/des/" | relative_url }})
-* [Le Diffie-Hellman]({{ "/diffie-hellman/" | relative_url }})
-* [Le RSA]({{ "/rsa/" | relative_url }})
-* [La Cryptographie Quantique]({{ "/quantique/" | relative_url }})
+Parallèlement, l'utilisation du cloud pose de nouveaux problèmes. Les utilisateurs aimeraient que leurs données soient chiffrées, mais aussi pouvoir effectuer des calculs sur ces données chiffrées... C'est le domaine de recherche des chiffrements homomorphes.
