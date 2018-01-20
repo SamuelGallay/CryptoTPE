@@ -6,6 +6,8 @@ partie: "Accueil • Travail Personnel Encadré"
 
 ## Introduction
 
+Ce site Internet a été réalisé par Samuel Gallay, Hugo Medori et Manon Pathier, élèves au Lycée du Grésivaudan de Meylan dans le cadre de leur TPE.
+
 De tout temps l'homme a eu besoin de communiquer. Ce besoin a permis l'émergence de langues, ensemble de signes associés chacun à une signification particulière. Pour matérialiser ces langues, au IVe millénaire avant notre ère, l'écriture est inventée en Mésopotamie. Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple.
 Puis l'écriture s'est répandue, et il est devenu possible plus aisément d'échanger des messages.
 Mais comment faire pour préserver la confidentialité du message ?
