@@ -20,22 +20,23 @@ Cet algorithme est encore utilisé aujourd'hui notamment pour le commerce élect
 
 ## Modélisation mathématique et fonctionnement
 
-Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$ tels que
-* p et q soient deux nombres premiers ; n est le produit pq
-* pour $$ \phi (n) = (p-1)(q-1) $$ où $$ \phi (n) $$ est l'indicatrice d'Euler, i.e le nombre d'entiers inférieurs à $$ n $$ et premiers avec $$ n $$
-* e soit un entier premier avec $$ \phi (n) $$
+Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$.
+* $$ p $$ et $$ q $$ sont deux nombres premiers ; on note $$ n $$ leur produit ($$ n = pq $$)
+* $$ \phi (n) = (p-1)(q-1) : c'est l'indicatrice d'Euler, qui représente le nombre d'entiers inférieurs à $$ n $$ et premiers avec $$ n $$
+* e est un entier premier avec $$ \phi (n) $$
 * d vérifie l'égalité $$ ed = 1 \bmod \phi (n) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ \phi (n) $$
 On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres (remarque : il existe un unique d respectant l'égalité) \\
 Bob a donc une **clef publique (n ; e)** et une **clef privée, secrète (n ; d)** \\
-Alice pour envoyer un message à Bob a accès à sa clef publique \\
-Ce message sera constitué de un ou plusieurs entiers codés de la façon suivante :
-* Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$
-* Elle calcule le nombre $$ C = M^e \bmod n $$ qu'elle envoie à Bob \\
-Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
+Alice utilisera la clef publique de Bob à laquelle elle a accès pour lui envoyer un message. \\
+Pour ce faire Alice procède de la façon suivante : 
+* Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$ et que M soit premier avec n. 
+* Elle calcule le nombre $$ C = M^e \bmod n $$ 
+* Elle envoie ce nombre à Bob. \\
+* Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
 $$ D = C^d \bmod n = (M^e)^d \bmod n = \color{red} {M^{ed}\bmod n} \color{red} {=} \color{red} {M \bmod n}  $$ \\
-Bob a bien retrouvé le message d'Alice
+Bob a bien retrouvé le message d'Alice ! 
 
-Il n'est pas inutile de préciser que dans le cas où l'on associerait à chaque lettre du message le nombre de la norme ASCII correspondant, puisque l'on chiffrerait, il suffirait à partir du message chiffré public de déchiffrer le message par analyse des fréquences. C'est pourquoi on ajoute des nombres aléatoires au sein de la suite de chiffres, ce qui résout de fait cet écueil.
+Il n'est pas inutile de préciser que dans le cas où l'on associerait à chaque lettre du message le nombre de la norme ASCII correspondant, puis que l'on chiffrerait, il suffirait à partir du message chiffré public de déchiffrer le message par analyse des fréquences. C'est pourquoi on ajoute des nombres aléatoires au sein de la suite de chiffres, ce qui résout de fait cet écueil.
 
 Le RSA repose donc sur deux fondements :
 * Mathématiquement du théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
@@ -60,7 +61,7 @@ Il trouve 103 : **La clef secrète est (103 ; 209)**
 La  méthode générale pour casser le RSA est de factoriser n en p et q, et en déduire l'exposant secret d. \\
 Une fois que l'on connaît d, il est aisé d'en déduire tout le reste.
 Aujourd'hui les ordinateurs peuvent factoriser des nombres produits de deux premiers jusqu'à environ 300 chiffres ; toutefois, si l'on prend $$ n $$ suffisamment grand, et qu'on utilise correctement l'algorithme, il est a priori sûr. \\
-Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message avec le même $$ n $$ à Bob, Chris, et Daniel, Eve peut aisément, sans factoriser $$ n $$, retrouver le message. \\
+Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message avec le même $$ n $$ à Bob, Chris, et Daniel, Eve peut aisément, sans factoriser $$ n $$, retrouver le message. ELle utilisera pour cela le théorème des restes chinois, qui l'amènera non plus à résoudre un logarithme discret, mais à calculer une racine cubique. \\
 Nous précisons en outre que la méthode présentée ici est la primitive ; dans un souci de sécurité, elle s'est considérablement complexifiée au fil du temps, mais nous nous bornons au principe initial.
 
 ## Le principe de Kerckhoffs
@@ -71,4 +72,4 @@ Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de l
 
 En 1883, le linguiste et cryptologue néerlandais Auguste Kerckhoffs énonce le principe suivant : *la sécurité d'un système de cryptage ne doit reposer que sur le secret de sa clef.*
 
-Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements asymétriques, respectent ce principe fondamental. En effet, leur mécanisme de chiffrement est entièrement public et même publié afin que les crytanalystes puissent l'étudier.
+Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements asymétriques, respectent ce principe fondamental.
