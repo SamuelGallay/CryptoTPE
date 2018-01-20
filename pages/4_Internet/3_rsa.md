@@ -20,18 +20,17 @@ Cet algorithme est encore utilisé aujourd'hui notamment pour le commerce élect
 
 ## Modélisation mathématique et fonctionnement
 
-Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$.
-* $$ p $$ et $$ q $$ sont deux nombres premiers ; on note $$ n $$ leur produit ($$ n = pq $$)
-* $$ \phi (n) = (p-1)(q-1) : c'est l'indicatrice d'Euler, qui représente le nombre d'entiers inférieurs à $$ n $$ et premiers avec $$ n $$
-* e est un entier premier avec $$ \phi (n) $$
+Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$ tels que
+* p et q soient deux nombres premiers ; n est le produit pq
+* pour $$ \phi (n) = (p-1)(q-1) $$ où $$ \phi (n) $$ est l'indicatrice d'Euler, i.e le nombre d'entiers inférieurs à $$ n $$ et premiers avec $$ n $$
+* e soit un entier premier avec $$ \phi (n) $$
 * d vérifie l'égalité $$ ed = 1 \bmod \phi (n) $$ ce qui équivaut à dire que $$ ed-1 $$ est un multiple de $$ \phi (n) $$
 On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres (remarque : il existe un unique d respectant l'égalité) \\
 Bob a donc une **clef publique (n ; e)** et une **clef privée, secrète (n ; d)** \\
-Alice utilisera la clef publique de Bob à laquelle elle a accès pour lui envoyer un message \\
-Pour ce faire Alice procède de la façon suivante : 
-* Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$ et que M soit premier avec n 
-* Elle calcule le nombre $$ C = M^e \bmod n $$ 
-* Elle envoie ce nombre à Bobqu'elle envoie à Bob \\
+Alice pour envoyer un message à Bob a accès à sa clef publique \\
+Ce message sera constitué de un ou plusieurs entiers codés de la façon suivante :
+* Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$
+* Elle calcule le nombre $$ C = M^e \bmod n $$ qu'elle envoie à Bob \\
 Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
 $$ D = C^d \bmod n = (M^e)^d \bmod n = \color{red} {M^{ed}\bmod n} \color{red} {=} \color{red} {M \bmod n}  $$ \\
 Bob a bien retrouvé le message d'Alice
@@ -72,4 +71,4 @@ Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de l
 
 En 1883, le linguiste et cryptologue néerlandais Auguste Kerckhoffs énonce le principe suivant : *la sécurité d'un système de cryptage ne doit reposer que sur le secret de sa clef.*
 
-Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements asymétriques, respectent ce principe fondamental.
+Nous pouvons donc dire que le RSA, et de façon plus générale les chiffrements asymétriques, respectent ce principe fondamental. En effet, leur mécanisme de chiffrement est entièrement public et même publié afin que les crytanalystes puissent l'étudier.
