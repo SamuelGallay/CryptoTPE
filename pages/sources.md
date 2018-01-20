@@ -33,7 +33,7 @@ permalink: /sources/
 ## L'Antiquité et le Moyen-Âge
 * [http://lapielanguesanciennes.blogspot.fr](http://lapielanguesanciennes.blogspot.fr) (carte légendée des guerres médiques)
 * [www.babelio.com](www.babelio.com) (Plutarque, Ier siècle avant J.-C.)
-*  GNU Free Documentation License (une scytale)
+*  GNU Free Documentation License (reconstitution d'une scytale)
 * [http://hannibalofcarthage.net](http://hannibalofcarthage.net) (Reconstitution de la ville antique de Carthage)
 * [http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=766](http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=766) (Jules César par N. Coustou, Musée du Louvre)
 * [http://www.pageshalal.fr](http://www.pageshalal.fr) (La Maison de la sagesse, dont le bâtiment demeure aujourd'hui)
