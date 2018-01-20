@@ -7,7 +7,7 @@ menu: /temps-modernes/
 ---
 # Exemple d'une cryptanalyse : notre compte-rendu d'expérience
 
-Dans l'esprit des TPE de 1ère S, nous nous sommes confrontés à une expérience de cryptanalyse dont ce compte-rendu illustre les différents aspects de cette recherche.
+Dans l'esprit des TPE de 1ère S, nous nous sommes confrontés à une expérience de cryptanalyse. Nous rendons compte ici de notre démarche de recherche pour résoudre ce problème.
 
 Nous cherchons à décrypter le texte suivant :
 
