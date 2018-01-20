@@ -17,7 +17,7 @@ menu: /antiquite/
 
 C’est au IXe siècle que la civilisation arabe connaît son apogée, notamment scientifique.
 Le calife Al-Mamun crée une Maison de la sagesse à Bagdad : c’est alors un centre culturel majeur où échangent des mathématiciens de tous horizons.
-A cette époque pacifiste, les Arabes et notamment leurs dirigeants utilisent couramment différent chiffres monoalphabétiques pour communiquer d’importantes missives. Ceci a été permis par la fabrication du papier. En effet, lors de la bataille de Talas en 751, les Arabes avaient fait prisonniers nombre de Chinois, dont certains connaissaient le processus de fabrication du papier.
+A cette époque pacifiste, les Arabes et notamment leurs dirigeants utilisent couramment différents chiffres monoalphabétiques pour communiquer d’importantes missives. Ceci a été permis par la fabrication du papier. En effet, lors de la bataille de Talas en 751, les Arabes avaient fait prisonniers nombre de Chinois, dont certains connaissaient le processus de fabrication du papier.
 
 ## La naissance de la cryptanalyse 
 
