@@ -37,7 +37,7 @@ Bob a bien retrouvé le message d'Alice !
 Il n'est pas inutile de préciser que dans le cas où l'on associerait à chaque lettre du message le nombre de la norme ASCII correspondant, puis que l'on chiffrerait, il suffirait à partir du message chiffré public de déchiffrer le message par analyse des fréquences. C'est pourquoi on ajoute des nombres aléatoires au sein de la suite de chiffres, ce qui résout de fait cet écueil.
 
 Le RSA repose donc sur deux fondements :
-* Mathématiquement du théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
+* Mathématiquement, du théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
 * Informatiquement, de l'impuissance des ordinateurs de décomposer $$ n $$ en le facrorisant par $$ p $$ et $$ q $$, lorsque ceux-ci sont grands
 
 ## Exemple
