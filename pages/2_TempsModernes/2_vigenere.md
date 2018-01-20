@@ -36,7 +36,7 @@ $$ f(l_{i}) = (l_{i} + k_{i} \bmod k) \bmod 26 $$
 
 Où :
 
-| \$$ i $$ | position de la lettre chiffrée et claire |
+| \$$ i $$ | position de la lettre chiffrée et claire dans le message|
 | \$$ l_{i} $$ | nombre associé à la lettre d'indice i |
 | \$$ k_{i} $$  |  nombre associé à lettre de la clef d’indice i |
 | \$$ k $$ | taille de la clef |
