@@ -6,7 +6,7 @@ partie: "Accueil • Travail Personnel Encadré"
 
 ## Introduction
 
-Ce site Internet a été réalisé par Samuel Gallay, Hugo Medori et Manon Pathier, élèves au Lycée du Grésivaudan de Meylan dans le cadre de leur TPE.
+Ce site Internet a été réalisé en 2018 par Samuel Gallay, Hugo Medori et Manon Pathier, élèves au Lycée du Grésivaudan de Meylan dans le cadre de leur TPE.
 
 De tout temps l'homme a eu besoin de communiquer. Ce besoin a permis l'émergence de langues, ensemble de signes associés chacun à une signification particulière. Pour matérialiser ces langues, au IVe millénaire avant notre ère, l'écriture est inventée en Mésopotamie. Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple.
 Puis l'écriture s'est répandue, et il est devenu possible plus aisément d'échanger des messages.
@@ -69,14 +69,13 @@ La cryptographie permet donc de transmettre un message chiffré sans nécessaire
 
 La cryptologie est une science qui a occupé depuis l'Antiquité une place centrale dans la politique, la diplomatie et la guerre, tout en restant le plus secret possible. Elle a évolué, pour d’une part demeurer efficace (certaines méthodes ayant été découvertes par l’ennemi ou cassées par les cryptanalystes), et pour d’autre part s’adapter aux changements des moyens de transfert des communications.
 
-Depuis l'Antiquité jusqu'à aujourd'hui, les méthodes de chiffrements se sont perfectionnées : chiffrements manuels puis mécaniques peu sécurisés à l'origine, puis machines à chiffrer redoutables et enfin abstraite, branche des mathématiques appliquées. \\
-La cryptogrpahie atteint de nos jours un niveau de sécurité et de complexité jusqu'ici inégalé, et qui grâce aux avancées scientifiques et technologiques a encore un potentiel d'amélioration. 
+Depuis l'Antiquité jusqu'à aujourd'hui, les méthodes de chiffrements se sont perfectionnées, passant de chiffrements manuels puis mécaniques peu sécurisés à des machines à chiffrer redoutables et enfin une discipline très théorique, branche des mathématiques appliquées pour atteindre de nos jours un niveau de sécurité et de complexité jusqu'ici inégalé, et qui grâce aux avancées scientifiques et technologiques a encore un potentiel d'amélioration. 
 
 Les chiffrements sauvèrent ainsi les Grecs des Perses, accompagnèrent César dans ses conquêtes, dissimulèrent les correspondances politiques et privées de Louis XIV, décidèrent Wilson à rejoindre les alliés, et permirent d'épargner des milliers de vies pendant la Seconde Guerre mondiale. D'un autre côté, la cryptanalyse parvint souvent à casser ces chiffrements, remettant en cause la sécurité même des Etats et obligeant les cryptographes à innover pour toujours protéger le secret des communications. La guerre continuelle de la cryptographie et de la cryptanalyse a entraîné des découvertes et des progrès multiples en linguistique, en mathématiques, jusqu'à l'invention des ordinateurs.
 
 Grâce à la cryptographie, le transport des communications peut se faire sans crainte car le message est inintelligible aux yeux de celui qui ne partage pas le secret de la clef. \\
 Au cours de l'histoire, la cryptologie a aussi changé d'échelle : ponctuelle dans l'Antiquité (campagnes militaires), elle s'est répndue au cours de la Renaissance (diplomatie, et dans une moindre mesure les correspondances privées), pour concerner chacun d'entre nous aujourd'hui. \\
-A l'heure d'un monde globalisé où les nouvelles technologies occupent une place croissante dans l'existnce des individus, où les transferts d'informations se sont multipliés avec l'émergence d'Internet, la vie privée est plus menacée que jamais. Ceci implique donc l'action d'une cryptographie efficace, garantissant le droit fondamental à la vie privée, énoncé dans l'article 12 de la Déclaration Universelle des Droits de l'Homme de 1948 : *Nul ne sera l'objet d'immixtions arbitraires dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation.* \\
+A l'heure d'un monde globalisé où les nouvelles technologies occupent une place croissante dans l'existnce des individus, où les transferts d'informations se sont multipliés avec l'émergence d'Internet, la vie privée est plus menacée que jamais. Ceci implique donc l'action d'une cryptographie efficace, qui assure non seulement la confidentialité mais aussi l'authenticité et l'intégrité des communications. Aujourd'hui, la cryptographie se doit de garantir le droit fondamental à la vie privée, énoncé dans l'article 12 de la Déclaration Universelle des Droits de l'Homme de 1948 : *Nul ne sera l'objet d'immixtions arbitraires dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation.* \\
 La cryptographie d'aujourd'hui est fiable sans être totalement infaillible. La seule solution parfaite et inviolable semble être la cryptographie quantique, actuellement à l'état de recherche.
 
 ## Regardez aussi :
