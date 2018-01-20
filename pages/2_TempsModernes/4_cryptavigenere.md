@@ -30,13 +30,13 @@ En 1920, le cryptologue de l’armée américaine Willian Friedman met au point 
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
 
-En supposant que la clef est d'une longueur k, on regarde une lettre sur k et on calcule l'indice de coïncidence pour cette série de lettres. En effet, prendre une lettre sur k revient à prendre une série de lettres toujours chiffrée avec le même décalage, l’indice de coïncidence est donc égal à celui du texte clair. Quand on cherche la longueur k de la clef pour la cryptanalyse d'un texte, k est très probablement la valeur testée pour laquelle l'indice de coïncidence est particulièrement élevé. 
+En supposant que la clef est d'une longueur k, on regarde une lettre sur k et on calcule l'indice de coïncidence pour cette série de lettres. En effet, prendre une lettre sur k revient à prendre une série de lettres toujours chiffrée avec le même décalage, l’indice de coïncidence est donc égal à celui du texte clair. Quand on cherche la longueur k de la clef pour la cryptanalyse d'un texte, k est très probablement la valeur testée pour laquelle l'indice de coïncidence est particulièrement élevé.
 
 $$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n_{i}}{n^2-n} \approx \sum_{i=a}^z \frac{n_{i}^2}{n^2} = \sum_{i=a}^z (\frac{n_{i}}{n})^2 $$
 
 
 Ici $$ n $$ est la longueur du message et $$ n_{i} $$ est la fréquence d’apparition de la lettre i dans le texte.
 
-Dans sa définition de l'indice de coïncidence par, Friedman utilise, à la place du carré traditionnel, le carré utilisé en statistiques défini par $$ x \times (x-1) $$ qui offre de meilleures propriétés dans le problème donné. Le calcul ci-dessus montre que si la taille du message est suffisamment grande, alors l'indice de coïncidence se rapproche de la somme des écarts types des fréquences d'apparition des lettres. C'est pour cela qu'en pratique et notamment en informatique on utilise plus souvent cette seconde énonciation.
+Dans sa définition de l'indice de coïncidence, Friedman utilise, à la place du carré traditionnel, le carré utilisé en statistiques défini par $$ x \times (x-1) $$ qui offre de meilleures propriétés dans le problème donné. Le calcul ci-dessus montre que si la taille du message est suffisamment grande, alors l'indice de coïncidence se rapproche de la somme des écarts types des fréquences d'apparition des lettres. C'est pour cela qu'en pratique et notamment en informatique on utilise plus souvent cette seconde énonciation.
 
 Comme illustration d'un exemple de cryptanalyse, nous avons réalisé une [expérience]({{ "/experience/" | relative_url }}) d'analyse d'un message chiffré avec le chiffre de Vigenère. Nous avons pour ce faire utilisé la méthode de Babbage et Kasiski.
