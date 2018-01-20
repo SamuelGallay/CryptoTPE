@@ -79,7 +79,7 @@ Cette modification décupla le nombre de bombes cryptographiques nécessaires à
 La guerre menace la Pologne, et les cryptanalystes polonais envoient tous leurs travaux ainsi que deux copies d’Enigma militaires aux Français et aux Britanniques.
 Le 1<SUP>er</SUP> Septembre 1939, la Pologne est envahie par l’armée allemande.
 
-Ces nouvelles connaissances remontèrent le moral des cryptanalystes Alliés. Certes les nouvelles améliorations allemandes allaient compliquer la tâche, mais ils savaient maintenant que Enigma n’était pas invincible.
+Ces nouvelles connaissances remontèrent le moral des cryptanalystes alliés. Certes les nouvelles améliorations allemandes allaient compliquer la tâche, mais ils savaient maintenant que Enigma n’était pas invincible.
 
 Les Anglais parvinrent de nouveaux à déchiffrer les messages allemands pendant quelques temps, ils améliorèrent même en les accélérant les méthodes polonaises, mais le 1<SUP>er</SUP> Mai
 1940, les Allemands supprimèrent la répétition de la clef au début du message, l’ayant identifiée comme un risque potentiel. Alors tous les travaux des Polonais se réduisirent à néant. Mais cette suppression avait été prévue par Alan Turing, qui avait déjà commencé à chercher une autre méthode de cryptanalyse. La cryptanalyse d’Enigma allait devenir une affaire britannique !
