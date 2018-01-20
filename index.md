@@ -4,12 +4,15 @@ permalink: index.html
 partie: "Accueil • Travail Personnel Encadré"
 ---
 
-## Introduction
-
 Ce site Internet a été réalisé en 2018 par Samuel Gallay, Hugo Medori et Manon Pathier, élèves au Lycée du Grésivaudan de Meylan dans le cadre de leur TPE.
 
-De tout temps l'homme a eu besoin de communiquer. Ce besoin a permis l'émergence de langues, ensemble de signes associés chacun à une signification particulière. Pour matérialiser ces langues, au IVe millénaire avant notre ère, l'écriture est inventée en Mésopotamie. Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple.
-Puis l'écriture s'est répandue, et il est devenu possible plus aisément d'échanger des messages.
+## De la communication à la cryptographie 
+
+"L'homme est un être sociable ; la nature l'a fait pour vivre avec ses semblables." nous rappelle Aristote dans l'*Ethique à Nicomaque* \\
+Cette dimension sociale a induit depuis toujours le besoin vital, primordial, fondamental, de communiquer. \\
+C'est de ce besoin que sont nées les langues, ensemble de signes associés à un sens particulietr et défini. \\
+Pour matérialiser ces langues, au IVe millénaire avant notre ère, l'écriture est inventée en Mésopotamie. Rudimentaire au départ (l'écriture cunéiforme consiste à graver sur des tablettes d'argile), son application était limitée : textes de lois, documents comptables par exemple.
+L'écriture a donc permis aux humains de communiquer entre eux alors même qu'ils pouvaient être séparés géographiquement.
 Mais l'Homme a toujours ressenti le besoin de dissimuler certaines inforamtions lors de leur transfert. Comment faire alors pour préserver la confidentialité du message ?
 
 L’art, ou la science de cacher des messages a connu plusieurs formes au cours de l’histoire :
@@ -20,8 +23,6 @@ L’art, ou la science de cacher des messages a connu plusieurs formes au cours 
 
 La cryptographie permet donc de transmettre un message chiffré sans nécessairement le dissimuler lors de son transport. Mais les techniques de cryptographie ont été vaincues au cours de l'histoire par des cryptanalystes. On parle de cryptanalyse, discipline inverse de la cryptographie qui consiste à retrouver les messages sans connaître la clef ou la méthode de chiffrement. Ces deux disciplines réunies composent la cryptologie.
 
-
-**Nous allons voir comment la cryptographie s'est adaptée à l'évolution des besoins en communication.**
 
 
 <link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}">
