@@ -64,3 +64,6 @@ Néanmoins, il faut faire bon usage du RSA : si Alice envoie un même message av
 Nous précisons en outre que la méthode présentée ici est la primitive ; dans un souci de sécurité, elle s'est considérablement complexifiée au fil du temps, mais nous nous bornons au principe initial.
 
 On parle de Kerckoffs ???
+## Le principe de Kerckhoffs
+
+La sécurité d'un chiffrement a longtemps reposé sur la méthode utilisée pour chiffrer. Ce fut le cas du chiffre de César, du grand chiffre de Louis XIV ou encore du chiffrement AFDGVX durant la Première Guerre mondiale. Cependant, cette sécurité est très précaire : il suffit que l'ennemi ait connaissance de la méthode pour qu'il soit en capacité de déchiffrer tous les messages.
