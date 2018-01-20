@@ -17,7 +17,7 @@ Des plans d’invasions sophistiqués y ont vu le jour et, pour la première foi
 <img src="{{ "/assets/1_Antiquite/guerres-mediques.jpg" | relative_url }}" alt="Scytale" style="margin: 0 auto;display: block; width: 600px;"/>
 <p align="center"> <em>Carte légendée des guerres médiques</em> </p>
 
-Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê a un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Ce dispositif n’existait que à Sparte et seuls les élites de la cité, les éphores (les magistrats du gouvernement) et les généraux, en connaissaient le procédé.
+Le terme skutalê désigne dans sa première acception le gros bâton ou le fouet mais à Sparte, selon les descriptions qu’en donnent Victor Ehrenberg , J. Oelherdans et Albert Martin la skutalê a un sens et un emploi particuliers : le bâton servait à chiffrer et à déchiffrer des missives secrètes. Ce dispositif n’existait qu'à Sparte et seules les élites de la cité, les éphores (les magistrats du gouvernement) et les généraux, en connaissaient le procédé.
 
 ##  Fonctionnement de la scytale et modélisation mathématique
 
@@ -40,7 +40,7 @@ Imaginons que le texte à transmettre soit “Sparte” (6 lettres) et que la sc
 
 ## Faiblesse
 
-Lorsque l'on sait que le texte a été chiffré avec la scytale, on peut essayer de lire une lettre sur deux, sur trois, sur quatre, jusqu'à que le texte prenne sens : cela revient à essayer tous les "T" possible. Il s'agit d'une [attaque par force brute]({{ "/glossaire/" | relative_url }}) qu'il est fort aisé de réaliser.
+Lorsque l'on sait que le texte a été chiffré avec la scytale, on peut essayer de lire une lettre sur deux, sur trois, sur quatre, jusqu'à ce que le texte prenne sens : cela revient à essayer tous les "T" possible. Il s'agit d'une [attaque par force brute]({{ "/glossaire/" | relative_url }}) qu'il est fort aisé de réaliser.
 
 
 ## A vous de jouer !
