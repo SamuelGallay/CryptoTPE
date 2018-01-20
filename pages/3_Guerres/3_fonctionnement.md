@@ -50,7 +50,7 @@ Dans le schéma simplifié (2 rotors, 6 lettres) ci-dessous, la lettre A sera co
 
 Remarques :
 
-* Si on avait tapé C, le courant aurait circulé dans l'autre sens et on aurait obtenu A. C'est le réflecteur qui garantie le caractère involutif de l'Enigma : chiffrer est identique à déchiffrer, ce qui en fait un [chiffrement symétrique]({{ "/glossaire/" | relative_url }}).
+* Si on avait tapé C, le courant aurait circulé dans l'autre sens et on aurait obtenu A. C'est le réflecteur qui garantit le caractère involutif de l'Enigma : chiffrer est identique à déchiffrer, ce qui en fait un [chiffrement symétrique]({{ "/glossaire/" | relative_url }}).
 
 * Le réflecteur empêche Enigma de substituer une lettre à elle-même dans le texte chiffré ; la lettre A ne sera jamais chiffré A. C'est une faille majeure qui a été utilisée par les cryptanalystes.
 
