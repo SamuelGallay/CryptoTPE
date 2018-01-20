@@ -18,11 +18,11 @@ L'année suivante, en 1977 trois chercheurs du Massachusetts Institute of Techno
 Parallèlement à la croissance d'Internet, la puissance de calcul des ordinateurs a énormément augmenté. C'est ainsi que le DES fut progressivement abandonné au profit d'autres chiffremenst symétriques plus efficaces. Les clefs utilisées dans le RSA augmentent elles aussi.
 Si aujourd'hui les cryptanalystes ne peuvent rivaliser avec la force des chiffrements actuels s'ils sont bien utilisés, l'avenir leur réserve peut être encore des heures de gloire. Avec le développement des ordinateurs quantiques, maintenant une réalité, les chiffrements comme RSA pourraient devenir inefficaces.
 
-Conscients de cette menace, les cryptolographes orientent leurs recherches dans principalement deux autres directions :
-* [La cryptographie quantique]({{ "/quantique/" | relative_url }}), qui est prouvée sécurisée par les lois de la physique mais qui nécessites d'autres canaux de transmission que ceux d'Internet.
-* La cryptographie post-quantique tente de rivaliser avec les ordinateurs quantiques en utilisant les ordinateurs traditionnels.
+Conscients de cette menace, les cryptographes orientent leurs recherches dans principalement deux autres directions :
+* [La cryptographie quantique]({{ "/quantique/" | relative_url }}), qui est prouvée sécurisée par les lois de la physique mais qui nécessite d'autres canaux de transmission que ceux d'Internet.
+* La cryptographie post-quantique qui tente de rivaliser avec les ordinateurs quantiques en utilisant les ordinateurs traditionnels.
 
-Parallèlement, l'utilisation du cloud pose de nouveaux problèmes. Les utilisateurs aimeraient que leurs données soient chiffrées, mais aussi pouvoir effectuer des calculs sur ces données chiffrées... C'est le domaine de recherche des chiffrements homomorphes.
+Parallèlement, l'utilisation du "Cloud" pose de nouveaux problèmes. Les utilisateurs aimeraient que leurs données soient chiffrées, mais aussi pouvoir effectuer des calculs sur ces données chiffrées... C'est le domaine de recherche des chiffrements homomorphes.
 <link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}">
 <div class="timeline">
 
@@ -63,5 +63,3 @@ Parallèlement, l'utilisation du cloud pose de nouveaux problèmes. Les utilisat
  </div>
 
 </div>
-
-
