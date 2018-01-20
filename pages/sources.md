@@ -9,10 +9,9 @@ permalink: /sources/
 * Hervé Lehing. Quoi de neuf en cryptographie ? *Tangente*, juillet-août 2012, n°147, p. 42-43
 * Codes Secrets *Tangente*, Juillet-Aout, n°147, 2012
 * Elisabeth Busser, Hervé Lehning et Fabien Aoustin. Le Petit Théoreme de Fermat. *Tangente*, Novembre-Décembre 2016, n°173, p.31-39
-* Entre Image et écriture *Les Grands Dossier des Sciences Humaines*, Juin-Août 2008, n°11
 * Le monde arabo-musulman les capitales de la connaissance *Les Cahiers Sciences et vie*, Mai 2013, n°137
 * L'ère d'Internet : Les enjeux d'un réseau global *Dossier pour la science*, Janvier-Mars 2010, n°66
-* Glossaire, *Le Point références Mathématiques*, février-mars 2017
+* Comprendre les Mathématiques. *Le Point références*, février-mars 2017
 
 # Livres
 * Singh, Simon. Histoire des codes secrets. JC Lattès, 1998
