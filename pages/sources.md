@@ -21,6 +21,8 @@ permalink: /sources/
 http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883
 * Musée de la résistance en ligne. Fondation de la Résistance. mars 2015. http://museedelaresistanceenligne.org
+* Alan Turing. Wikipédia, l'encyclopédie libre. 18 janv. 2018, <http://fr.wikipedia.org/w/index.php?title=Alan_Turing&oldid=144607058>.
+* 
 # Images
 * http://lapielanguesanciennes.blogspot.fr (carte légendée des guerres médiques)
 * www.babelio.com (Plutarque, Ier siècle avant J.-C.)
