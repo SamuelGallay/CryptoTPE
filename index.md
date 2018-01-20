@@ -53,7 +53,7 @@ Nous répondrons à cette problématique en privilégiant une approche chronolog
  <div class="container left">
  <a href="{{ "/guerres/" | relative_url }}">
    <div class="content">
-     <h2 style="color:white;">Les Guerres Mondiales</h2>
+     <h2 style="color:white;">Les guerres mondiales</h2>
      <p>De 1914 à 1945</p>
    </div>
    </a>
@@ -62,7 +62,7 @@ Nous répondrons à cette problématique en privilégiant une approche chronolog
  <div class="container right">
  <a href="{{ "/internet/" | relative_url }}">
    <div class="content">
-     <h2 style="color:white;">L'ère d'Internet</h2>
+     <h2 style="color:white;">L'ère d'internet</h2>
      <p>De l'après-guerre à nos jours</p>
    </div>
    </a>
@@ -77,10 +77,10 @@ L'analyse historique que nous avons développée dans les quatre parties de la f
 
 Depuis l'Antiquité jusqu'à aujourd'hui, les méthodes de chiffrements se sont perfectionnées, passant de chiffrements manuels puis mécaniques peu sécurisés à des machines à chiffrer redoutables et enfin une discipline très théorique, branche des mathématiques appliquées pour atteindre de nos jours un niveau de sécurité et de complexité jusqu'ici inégalé, et qui grâce aux avancées scientifiques et technologiques a encore un potentiel d'amélioration. 
 
-Les chiffrements sauvèrent ainsi les Grecs de la menace Perses, accompagnèrent César dans ses conquêtes, dissimulèrent les correspondances politiques et privées de Louis XIV, décidèrent le Président Wilson à rejoindre les alliés durant la Première Guerre mondiale, et permirent d'épargner des milliers de vies pendant la Seconde Guerre mondiale. D'un autre côté, à chaque époque, la cryptanalyse s'est adaptée et parvint souvent à casser ces chiffrements, remettant en cause la sécurité même des Etats et obligeant les cryptographes à innover pour toujours protéger le secret des communications. La guerre continuelle de la cryptographie et de la cryptanalyse a entraîné des découvertes et des progrès multiples en linguistique, en mathématiques, jusqu'à l'invention des ordinateurs.
+Les chiffrements sauvèrent ainsi les Grecs de la menace perse, accompagnèrent César dans ses conquêtes, dissimulèrent les correspondances politiques et privées de Louis XIV, décidèrent le Président Wilson à rejoindre les alliés durant la Première Guerre mondiale, et permirent d'épargner des milliers de vies pendant la seconde guerre mondiale. D'un autre côté, à chaque époque, la cryptanalyse s'est adaptée et parvint souvent à casser ces chiffrements, remettant en cause la sécurité même des Etats et obligeant les cryptographes à innover pour toujours protéger le secret des communications. La guerre continuelle de la cryptographie et de la cryptanalyse a entraîné des découvertes et des progrès multiples en linguistique, en mathématiques, jusqu'à l'invention des ordinateurs.
 
 Grâce à la cryptographie, le transport des communications peut se faire sans crainte car le message est inintelligible aux yeux de celui qui ne partage pas le secret de la clef. \\
-Au cours de l'histoire, la cryptologie a aussi changé d'échelle : ponctuelle dans l'Antiquité (campagnes militaires), elle s'est répndue au cours de la Renaissance (diplomatie, et dans une moindre mesure les correspondances privées), pour concerner chacun d'entre nous aujourd'hui. \\
+Au cours de l'histoire, la cryptologie a aussi changé d'échelle : ponctuelle dans l'Antiquité (campagnes militaires), elle s'est répandue au cours de la Renaissance (diplomatie, et dans une moindre mesure les correspondances privées), pour concerner chacun d'entre nous aujourd'hui. \\
 A l'heure d'un monde globalisé où les nouvelles technologies occupent une place croissante dans l'existnce des individus, où les transferts d'informations se sont multipliés avec l'émergence d'Internet, la vie privée est plus menacée que jamais. Ceci implique donc l'action d'une cryptographie efficace, qui assure non seulement la confidentialité mais aussi l'authenticité et l'intégrité des communications. Aujourd'hui, la cryptographie se doit de garantir le droit fondamental à la vie privée, énoncé dans l'article 12 de la Déclaration Universelle des Droits de l'Homme de 1948 : *Nul ne sera l'objet d'immixtions arbitraires dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation.* \\
 La cryptographie d'aujourd'hui est fiable sans être totalement infaillible. Une prochaine étape dans cette quête d'une solution parfaite et inviolable pourrait être la cryptographie quantique, actuellement à l'état de recherche.
 
