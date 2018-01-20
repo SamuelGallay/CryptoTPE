@@ -106,7 +106,7 @@ Comme Turing travaille sur les chaînes, qui permettent de séparer le problème
 <img src="{{ "/assets/3_Guerres/Bombe.jpg" | relative_url }}" alt="Bombe" style="margin: 0 auto;display: block;"/>
 <p align="center"> <em>Les "bombes électromagnétiques" ont été détruites après la guerre, mais en voici une réplique</em> </p>
 
-On peut aussi parler de la recherche de messages clairs qui était cruciale au fonctionnement des bombes électromagnétiques. Les anglais développèrent toutes sortes de stratégies pour retrouver un mot dans les messages. Ils allèrent même jusqu'à planter de mines aux yeux des Allemands dans l'espoir de retrouver le mot "Minen" dans les messages radios. Ils baptisèrent cette technique le jardinage.
+On peut aussi parler de la recherche de messages clairs qui était cruciale au fonctionnement des bombes électromagnétiques. Les anglais développèrent toutes sortes de stratégies pour retrouver un mot dans les messages. Ils allèrent même jusqu'à planter des mines aux yeux des Allemands dans l'espoir de retrouver le mot "Minen" dans les messages radios. Ils baptisèrent cette technique le jardinage.
 
 Finalement, grâce à la puissance de centaines de bombes électromagnétiques, aux erreurs involontaires des opérateurs allemands et  à des recherches éreintantes de mots probables, les Alliés finirent par pouvoir déchiffrer la clef du jour en 20 minutes environ, ce qui permit aux Alliés d’avoir l’avantage sur les Allemands. Cependant au moment où le nombre de bombes devenait suffisant pour déchiffrer tous les messages, l’armée soviétique écrasait déjà la Wehrmacht sur le front oriental et la puissance industrielle des Alliés surpassait considérablement celle allemande.
 
