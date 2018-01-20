@@ -68,7 +68,7 @@ On permute les colonnes alphabétiquement:
 
 On obtient donc le message chiffré : `VGDDGVDDADDGGVDAXVDVDGGDGA`
 
-Le code ADFGVX est typique de ceux de la première Guerre Mondiale, ce ne sont que des variantes ou des combinaisons de ceux déjà déchiffrés au XIXème siècle. Ils peuvent en apparence offrir une grande sécurité mais les cryptanalystes finissent toujours par avoir le dernier mot.
+Le code ADFGVX est typique de ceux de la première guerre mondiale, ce ne sont que des variantes ou des combinaisons de ceux déjà déchiffrés au XIXème siècle. Ils peuvent en apparence offrir une grande sécurité mais les cryptanalystes finissent toujours par avoir le dernier mot.
 
 ### Le télégramme de Zimmermann
 
