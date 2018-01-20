@@ -9,7 +9,7 @@ menu: /guerres/
 
  Durant la seconde guerre mondiale, guerre à la férocité inédite dans l’histoire, les pays mobilisèrent toutes leurs forces dans la bataille. Il va de soi que, comme dans chaque guerre depuis l’Antiquité (nous l’avons vu antérieurement), la garantie de la confidentialité des messages échangés par les sommités militaires étaient de la plus haute importance.
 
-## La progression territoriale l'Axe (1939-1942)
+## La progression territoriale de l'Axe (1939-1942)
 
 Cette guerre fut déclenchée par le IIIème Reich d’Hitler et des puissances alliées, dites puissances de l’Axe (Italie et Japon). Les allemands ont saisi d’emblée la nécessité de trouver un outil performant, une technique inviolable de cryptographie qui résisterait aux attaques nombreuses des cryptanalystes alliés puisque, comme toujours, la cryptologie constitue un enjeu majeur de la guerre, capable de bouleverser son issue. L'armée allemande se dote alors massivement de la machine à chiffrer [Enigma]({{ "/enigma-fonctionnement/" | relative_url }}), inventée en 1918 par Arthur Scherbius et Richard Ritter. Jusqu’en 1942, la tactique d’Hitler fonctionna admirablement ; son plan se déroula sans accroc, à ceci près qu’il n’avait point encore fait plier les valeureux britanniques qui résistèrent seuls face aux bombardements allemands, après les capitulations successives de la Pologne et de la France.
 
