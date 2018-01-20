@@ -21,11 +21,11 @@ permalink: /sources/
 http://www.cheminsdememoire.gouv.fr/fr/entree-en-guerre-des-etats-unis-en-1917
 * Culture d'Islam. Simon Pierre (diplômé d’histoire médiévale et de relations internationales). 2013. http://www.culture-islam.fr/contrees/maghreb/ernest-renan-lislamisme-et-la-science-1883
 * Musée de la résistance en ligne. Fondation de la Résistance. mars 2015. http://museedelaresistanceenligne.org
-* Alan Turing. Wikipédia, l'encyclopédie libre. 18 janv. 2018, <http://fr.wikipedia.org/w/index.php?title=Alan_Turing&oldid=144607058>.
-* "Bletchley Park." Wikipédia, l'encyclopédie libre. 4 déc. 2017. <http://fr.wikipedia.org/w/index.php?title=Bletchley_Park&oldid=143183232>.
-* Enigma et la Seconde guerre mondiale. Guillaume Munch et Julien Milli. août 2004. http://www.irem.unilim.fr/fileadmin/user_upload/Convergences/tpe_enigma.pdf
-* Replique Enigma. Wordpress. https://repliqueenigma.wordpress.com
-* La machine Enigma et la machine de Lorenz. Léa Bommottet. 28 octobre 2013. http://www.auguste-piccard.ch/pages/TM-PDF/TM2013/TM2013Bommottet.pdf
+* Alan Turing. Wikipédia, l'encyclopédie libre. 18 janv. 2018, [http://fr.wikipedia.org/w/index.php?title=Alan_Turing&oldid=144607058](https://fr.wikipedia.org/wiki/Alan_Turing#Cryptanalyse_d'Enigma).
+* "Bletchley Park." Wikipédia, l'encyclopédie libre. 4 déc. 2017. [http://fr.wikipedia.org/w/index.php?title=Bletchley_Park&oldid=143183232](https://fr.wikipedia.org/wiki/Bletchley_Park).
+* Enigma et la Seconde guerre mondiale. Guillaume Munch et Julien Milli. août 2004. [http://www.irem.unilim.fr/fileadmin/user_upload/Convergences/tpe_enigma.pdf](http://www.irem.unilim.fr/fileadmin/user_upload/Convergences/tpe_enigma.pdf)
+* Replique Enigma. Wordpress. [https://repliqueenigma.wordpress.com](https://repliqueenigma.wordpress.com/cryptanalyse/cryptanalysefaille_protocole_envoi/)
+* La machine Enigma et la machine de Lorenz. Léa Bommottet. 28 octobre 2013. [http://www.auguste-piccard.ch/pages/TM-PDF/TM2013/TM2013Bommottet.pdf](http://www.auguste-piccard.ch/pages/TM-PDF/TM2013/TM2013Bommottet.pdf)
 # Images
 * http://lapielanguesanciennes.blogspot.fr (carte légendée des guerres médiques)
 * www.babelio.com (Plutarque, Ier siècle avant J.-C.)
