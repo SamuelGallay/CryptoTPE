@@ -18,7 +18,7 @@ Dans sa forme élémentaire, Enigma consiste en trois éléments reliés par des
 
 ### Le tableau de connexions
 
-Dans ce tableau, chque entrée de fil correspond à une lettre. Les utilisateurs possèdent 6 fils qui permettent d'apparailler les lettres deux à deux. En reliant deux lettres entre elles avec ces fils, on les échange. Dans le schéma d'exemple ci-dessous, le A est relié au C et le D est relié au F. Ainsi, lorsqu'on tapera la lettre A sur le clavier, le signal sera détourné à C avant d'entrer dans le brouilleur. Cela semble assez simple mais c'est en réalité le tableau de connexions qui rend le nombre de clefs potentielles énorme (voir calcul ci-dessous).
+Dans ce tableau, chaque entrée de fil correspond à une lettre. Les utilisateurs possèdent 6 fils qui permettent d'appareiller les lettres deux à deux. En reliant deux lettres entre elles avec ces fils, on les échange. Dans le schéma d'exemple ci-dessous, le A est relié au C et le D est relié au F. Ainsi, lorsqu'on tapera la lettre A sur le clavier, le signal sera détourné à C avant d'entrer dans le brouilleur. Cela semble assez simple mais c'est en réalité le tableau de connexions qui rend le nombre de clefs potentielles énorme (voir calcul ci-dessous).
 
 <img src="{{ "/assets/3_Guerres/tableaudeconnection.png" | relative_url }}" alt="Enigma1" style="margin: 0 auto;display: block;"/>
 
@@ -61,9 +61,9 @@ Les opérateurs allemands recevaient chaque mois un carnet de code contenant tou
 * la position initiale de chacun de des rotors
 * les associations du tableau de connexions
 
-Une fois ces installations faites chez l'emetteur et le récepteur, le premier chiffreur choisit au hasard 3 lettres qui seront le véritable réglage de rotors et les frappe deux fois, ex : SHMSHM. C'est la clef brute du message. Il envoit ces 6 lettres au recepteur, les deux opérateurs sont ainsi au courant de la véritable clef du message. Ils règlent tous deux, à nouveau, leur rotors en fonction de cette clef. Le message peut maintenant être envoyé.
+Une fois ces installations faites chez l'émetteur et le récepteur, le premier chiffreur choisit au hasard 3 lettres qui seront le véritable réglage de rotors et les frappe deux fois, ex : SHMSHM. C'est la clef brute du message. Il envoie ces 6 lettres au récepteur, les deux opérateurs sont ainsi au courant de la véritable clef du message. Ils règlent tous deux, à nouveau, leur rotors en fonction de cette clef. Le message peut maintenant être envoyé.
 
-Pour ce faire, l'emetteur frappe sur le clavier le message qu'il veut coder. A chaque lettre tapée, une lettre s'allume sur l'écran au-dessus du clavier et indique le résultat du codage. Il note alors cette lettre puis la transmet par radio, en morse, au recepteur.
+Pour ce faire, l'émetteur frappe sur le clavier le message qu'il veut coder. A chaque lettre tapée, une lettre s'allume sur l'écran au-dessus du clavier et indique le résultat du codage. Il note alors cette lettre puis la transmet par radio, en morse, au récepteur.
 
 ## Calcul du nombre de clefs potentielles avec 3 rotors :
 
