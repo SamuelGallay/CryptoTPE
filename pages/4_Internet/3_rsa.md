@@ -9,7 +9,7 @@ menu: /internet/
 
 ## Eléments de contexte
 
-Dans la lignée de leurs contemporains mathématiciens-cryptographes Diffie et Hellman, trois chercheurs du MIT, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA.
+Dans la lignée de leurs contemporains mathématiciens-cryptographes Diffie et Hellman, trois chercheurs du Massachusetts Institute of Technology, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA.
 
 <img src="{{ "/assets/4_Internet/rsa.jpg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; width:400px; "/>
 <p align="center"> <em> Shamir, Rivest et Adleman </em> </p>
@@ -26,13 +26,13 @@ Bob détermine 4 nombres $$ p, q, e $$ et $$ d $$.
 On peut utiliser l'algorithme d'Euclide pour déterminer d à partir des trois autres nombres (remarque : il existe un unique d respectant l'égalité) \\
 Bob a donc une **clef publique (n ; e)** et une **clef privée, secrète (n ; d)** \\
 Alice utilisera la clef publique de Bob à laquelle elle a accès pour lui envoyer un message. \\
-Pour ce faire Alice procède de la façon suivante : 
-* Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$ et que M soit premier avec n. 
-* Elle calcule le nombre $$ C = M^e \bmod n $$ 
-* Elle envoie ce nombre à Bob. 
+Pour ce faire Alice procède de la façon suivante :
+* Elle choisit un nombre M tel que $$ 0 \leq M \leq n-1 $$ et que M soit premier avec n.
+* Elle calcule le nombre $$ C = M^e \bmod n $$
+* Elle envoie ce nombre à Bob.
 * Bob de son côté calcule $$ D = C^d \bmod n $$ or d'après le théorème d'Euler : \\
 $$ D = C^d \bmod n = (M^e)^d \bmod n = \color{red} {M^{ed}\bmod n} \color{red} {=} \color{red} {M \bmod n}  $$ \\
-Bob a bien retrouvé le message d'Alice ! 
+Bob a bien retrouvé le message d'Alice !
 
 Il n'est pas inutile de préciser que dans le cas où l'on associerait à chaque lettre du message le nombre de la norme ASCII correspondant, puis que l'on chiffrerait, il suffirait à partir du message chiffré public de déchiffrer le message par analyse des fréquences. C'est pourquoi on ajoute des nombres aléatoires au sein de la suite de chiffres, ce qui résout de fait cet écueil.
 
@@ -66,7 +66,7 @@ Nous précisons en outre que la méthode présentée ici est la primitive ; dans
 
 La sécurité d'un chiffrement a longtemps reposé sur la méthode utilisée pour chiffrer. Ce fut le cas du chiffre de César, du grand chiffre de Louis XIV ou encore du chiffrement AFDGVX durant la Première Guerre mondiale. Cependant, cette sécurité est très précaire : il suffit que l'ennemi ait connaissance de la méthode pour qu'il soit en capacité de déchiffrer tous les messages.
 
-Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de la méthode même, mais d'une clef que seules les correspondants connaissent et qui peut être modifiée comme on le souhaite. 
+Ainsi, la sécurité d'une méthode de chiffrement ne devrait pas dépendre de la méthode même, mais d'une clef que seules les correspondants connaissent et qui peut être modifiée comme on le souhaite.
 
 En 1883, le linguiste et cryptologue néerlandais Auguste Kerckhoffs énonce le principe suivant : *la sécurité d'un système de cryptage ne doit reposer que sur le secret de sa clef.*
 
