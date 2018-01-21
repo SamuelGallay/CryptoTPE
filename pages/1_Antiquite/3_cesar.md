@@ -18,10 +18,9 @@ Cette dernière opposa les tribus gauloises à l’armée romaine de 58 à 51 av
 
 Elles vont progressivement, en plusieurs campagnes annuelles, se rendre maîtresses de la Gaule. Une tentative d'invasion de la Grande-Bretagne se soldera par un échec.
 
-En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tente de restaurer à son profit l'autorité du Brenn et suscite un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix applique la tactique de la terre brûlée. Il est victorieux à Gergovie, ville du pays des Arvernes. César assiège la ville, mais est repoussé par une audacieuse sortie de la cavalerie gauloise.
+En 52 avant J.-C., un jeune chef arverne du nom de Vercingétorix tenta de restaurer à son profit l'autorité du Brenn et suscita un soulèvement général des peuples de la Gaule contre l'occupant. Contre les Romains, Vercingétorix appliqua la tactique de la terre brûlée. Il fut victorieux à Gergovie, ville du pays des Arvernes. César assiègea la ville, mais fut repoussé par une audacieuse sortie de la cavalerie gauloise.
 
-
-César réagit : il traverse les Cévennes, prend Avaricum (Bourges) et bat la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fait ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, les assiégés doivent se rendre en 52 avant J.-C. La victoire de Jules César est assurée et la Gaule devient définitivement romaine.
+César réagit : il traversa les Cévennes, prit Avaricum (Bourges) et battit la cavalerie gauloise de Vercingétorix grâce à ses cavaliers germains. Vercingétorix fit ensuite une erreur tactique en se laissant enfermer dans Alésia par César dans une double ligne de fortification. A l'issue d'un long siège, les assiégés durent se rendre en 52 avant J.-C. La victoire de Jules César était assurée et la Gaule devint définitivement romaine.
 
 <img src="{{ "/assets/1_Antiquite/alesia.jpg" | relative_url }}" alt="Carthage" style="margin: 0 auto;display: block;width: 600px;"/>
 <p align="center"> <em>Vercingétorix jette ses armes aux pieds de César, Lionel Royer, 1899</em> </p>
