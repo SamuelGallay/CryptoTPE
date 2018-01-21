@@ -33,7 +33,7 @@ Exemple avec lettre index A et le disque mobile ci-dessus :
 * Message codé : `x xekmbsl v dfc m aebgmq`
 
 
-| **Clair**   | |A|L|B|E|R|T|I| |E|S|T| |G|E|N|I|A|L|
+| **Clair**   |-|A|L|B|E|R|T|I|-|E|S|T|-|G|E|N|I|A|L|
 | **Chiffre** |x|X|E|K|M|B|S|L|v|D|F|C|m|A|E|B|G|M|Q|
 
 On précisera que les minuscules ne sont pas des caractères correspondant à une lettre claire, mais des lettres qui indiquent que l'on doit tourner le cadran en alignant cette lettre avec la lettre index (ici A)
