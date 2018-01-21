@@ -23,7 +23,7 @@ La tactique militaire allemande de guerre éclair (Blitzkrieg) constituait en un
 ### Répliques alliés
 
 Du côté des alliés, pour casser le secret des communications, on centralisa les recherches à Bletchley Park, manoir victorien situé au nord du Londres où furent réunis des mathématiciens brillants (d’Oxford et de Cambrige notamment), des linguistes et même des cruciverbistes émérites. A proximité du bâtiment, de nombreuses huttes furent érigées, chacune d’entre elles ayant une tâche particulière. L'ensemble des méthodes utilisées pour la cryptanalyse d'Enigma étaient appelées sous le nom de code Ultra : ces informations, très confidentielles, n'étaient connues que d'un petit nombre de personnes.
-Les allemands utilisaient une clef par jour ; cependant chaque armée avait sa propre clef : ainsi, trouver celle de la Luftwaffe ne permettait en aucune façon de connaître celle utilisée par les sous-marins. Cet effort de guerre des Alliés porta ses fruits : de 1940 à 1942, ils étaient en mesure déchiffrer les messages allemands, transmettant les plus sensibles aux ministères, influant ainsi de façon cruciale les décisions militaires prises par l’Etat-major.
+Les allemands utilisaient une clef par jour ; cependant chaque armée avait sa propre clef : ainsi, trouver celle de la Luftwaffe ne permettait en aucune façon de connaître celle utilisée par les sous-marins. Cet effort de guerre des Alliés porta ses fruits : de 1940 à 1942, ils étaient en mesure de déchiffrer les messages allemands, transmettant les plus sensibles aux ministères, influant ainsi de façon cruciale les décisions militaires prises par l’Etat-major.
 
 ### Exemple
 
