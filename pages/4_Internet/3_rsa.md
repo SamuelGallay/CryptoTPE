@@ -12,7 +12,7 @@ menu: /internet/
 Dans la lignée de leurs contemporains mathématiciens-cryptographes Diffie et Hellman, trois chercheurs du Massachusetts Institute of Technology, Rivest, Shamir et Adleman créent en 1977 un nouvel algorithme de cryptographie asymétrique, nommé par leurs trois initiales : le RSA.
 
 <img src="{{ "/assets/4_Internet/rsa.jpg" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; width:400px; "/>
-<p align="center"> <em> Shamir, Rivest et Adleman </em> </p>
+<p align="center"> <em> Adi Shamir, Ronald Rivest et Leonard Adleman </em> </p>
 
 Cet algorithme est encore utilisé aujourd'hui notamment pour le commerce électronique.
 
@@ -37,8 +37,8 @@ Bob a bien retrouvé le message d'Alice !
 Il n'est pas inutile de préciser que dans le cas où l'on associerait à chaque lettre du message le nombre de la norme ASCII correspondant, puis que l'on chiffrerait, il suffirait à partir du message chiffré public de déchiffrer le message par analyse des fréquences. C'est pourquoi on ajoute des nombres aléatoires au sein de la suite de chiffres, ce qui résout de fait cet écueil.
 
 Le RSA repose donc sur deux fondements :
-* Mathématiquement, du théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
-* Informatiquement, de l'impuissance des ordinateurs de décomposer $$ n $$ en le facrorisant par $$ p $$ et $$ q $$, lorsque ceux-ci sont grands
+* Un fondement mathématique basé sur le théorème d'Euler, généralisation du petit théorème de Fermat, qui permet l'égalité écrite ci-dessus en rouge
+* Un fondement informatique venant de l'impuissance des ordinateurs de décomposer $$ n $$ en le facrorisant par $$ p $$ et $$ q $$, lorsque ceux-ci sont grands
 
 ## Exemple
 
