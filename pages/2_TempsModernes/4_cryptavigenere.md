@@ -28,12 +28,11 @@ Il faut ensuite déterminer le mot-clef grâce à l'analyse des fréquences et d
 
 En 1920, le cryptologue de l’armée américaine Willian Friedman met au point l’indice de coïncidence. Avec un texte de n lettres et $$ n_{i} $$ occurences d'une lettre donnée dans le message, on a :
 
-$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} $$
+<img src="{{ "/assets/2_TempsModernes/vigenere-1.png" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; "/>
 
 En supposant que la clef est d'une longueur k, on regarde une lettre sur k et on calcule l'indice de coïncidence pour cette série de lettres. En effet, prendre une lettre sur k revient à prendre une série de lettres toujours chiffrée avec le même décalage, l’indice de coïncidence est donc égal à celui du texte clair. Quand on cherche la longueur k de la clef pour la cryptanalyse d'un texte, k est très probablement la valeur testée pour laquelle l'indice de coïncidence est particulièrement élevé.
 
-$$ IC =\sum_{i=a}^z \frac{n_{i}(n_{i}-1)}{n(n-1)} = \sum_{i=a}^z \frac{n_{i}^2-n_{i}}{n^2-n} \approx \sum_{i=a}^z \frac{n_{i}^2}{n^2} = \sum_{i=a}^z (\frac{n_{i}}{n})^2 $$
-
+<img src="{{ "/assets/2_TempsModernes/vigenere-2.png" | relative_url }}" alt="diffie" style="margin: 0 auto;display: block; "/>
 
 Ici $$ n $$ est la longueur du message et $$ n_{i} $$ est la fréquence d’apparition de la lettre i dans le texte.
 
