@@ -5,17 +5,17 @@ permalink: /sources/
 
 # Articles
 
-* Tristan Allard, Benjamin Nguyen et Philippe Pucheral. Comment préserver l'anonymat ? *Pour la science*, novembre 2013, n°433, p.62-69
+* Allard Tristan, Nguyen Benjamin  et Pucheral Philippe. Comment préserver l'anonymat ? *Pour la science*, novembre 2013, n°433, p.62-69
 
-* Rémy Chrétien et Stéphanie Delaune. La protection des informations sensibles. *Pour la sciences*, novembre 2013, n°433, p.70-77
+* Chrétien Rémy et Delaune Stéphanie. La protection des informations sensibles. *Pour la sciences*, novembre 2013, n°433, p.70-77
 
 * Hervé Lehing. Quoi de neuf en cryptographie ? *Tangente*, juillet-août 2012, n°147, p. 42-43
 
 * Codes Secrets *Tangente*, Juillet-Aout, n°147, 2012
 
-* Elisabeth Busser, Hervé Lehning et Fabien Aoustin. Le Petit Théoreme de Fermat. *Tangente*, Novembre-Décembre 2016, n°173, p.31-39
+* Busser Elisabeth , Lehning Hervé  et Aoustin Fabien . Le Petit Théoreme de Fermat. *Tangente*, Novembre-Décembre 2016, n°173, p.31-39
 
-* Anne Debroise. Le monde arabo-musulman les capitales de la connaissance. *Les Cahiers Sciences et vie*, Mai 2013, n°137
+* Debroise Anne . Le monde arabo-musulman les capitales de la connaissance. *Les Cahiers Sciences et vie*, Mai 2013, n°137
 
 * L'ère d'Internet : Les enjeux d'un réseau global. *Dossier pour la science*, Janvier-Mars 2010, n°66
 
@@ -27,7 +27,7 @@ permalink: /sources/
 
 # Sites Web
 
-* Brigitte Collard (Licenciée en langues et littératures classiques). La cryptographie dans l'Antiquité gréco-romaine. FEC. 2004. [http://bcs.fltr.ucl.ac.be](http://bcs.fltr.ucl.ac.be/FE/07/CRYPT/Crypto44-63.html#4)
+* Brigitte Collard (Licenciée en langues et littérature classique). La cryptographie dans l'Antiquité gréco-romaine. FEC. 2004. [http://bcs.fltr.ucl.ac.be](http://bcs.fltr.ucl.ac.be/FE/07/CRYPT/Crypto44-63.html#4)
 
 * Claude LEPELLEY, « POLYBE (entre -210 et -202-env. -126) », Encyclopædia Universalis [en ligne], consulté le 17 janvier 2018. URL : http://www.universalis.fr/encyclopedie/polybe/
 
