@@ -4,7 +4,7 @@ permalink: index.html
 partie: "Accueil • Travail Personnel Encadré"
 ---
 
-Ce site Internet a été réalisé en 2018 par Samuel Gallay, Hugo Medori et Manon Pathier, élèves au Lycée du Grésivaudan de Meylan dans le cadre de leur TPE.
+Ce site Internet a été réalisé en 2018 par Samuel Gallay, Hugo Medori et Manon Pathier, élèves au Lycée du Grésivaudan de Meylan en première scientifique dans le cadre de leur TPE.
 
 ## Introduction
 ### De la communication à la cryptographie
