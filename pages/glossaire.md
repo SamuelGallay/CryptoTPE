@@ -32,7 +32,7 @@ Exemple : [le cadran d’Alberti]({{ "/alberti/" | relative_url }}) et [le chiff
 **Cryptologie** : étymologiquement, il s'agit de la *science du secret*, qui englobe la cryptographie et la cryptanalyse.
 
 **Stéganographie** : art de la dissimulation. Elle consiste à cacher un message au sein d'un autre
-message anodin, de sorte que l'ignore l'existence même du secret. Alors que la cryptographie repose sur le fait que le message ne soit pas compris, la stéganographie repose sur le fait que le message ne soit pas trouvé
+message anodin, de sorte que l'ignore l'existence même du secret. Alors que la cryptographie repose sur le fait que le message ne soit pas compris, la stéganographie repose sur le fait que le message ne soit pas trouvé.
 
 **Texte clair** : texte dans sa forme originale, lisible puisqu’il n’est pas chiffré.
 
