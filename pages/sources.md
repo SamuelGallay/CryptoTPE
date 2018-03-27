@@ -105,3 +105,7 @@ légendée des guerres médiques)
 * [https://rsaalgorithm.wordpress.com/](https://rsaalgorithm.wordpress.com/) (Shamir, Rivest et Adleman)
 
 * [http://www.thebobblog.com](http://www.thebobblog.com) (Schéma illustrant la situation étudiée)
+
+# Sources du site...
+
+Ce site est généré par [Github Pages](https://pages.github.com), en utilisant [Jekyll](https://jekyllrb.com/) depuis le dépôt [{{ site.github.repository_name }}]({{ site.github.repository_url }}) maintenu par [{{ site.github.owner_name }}]({{ site.github.owner_url }}).
