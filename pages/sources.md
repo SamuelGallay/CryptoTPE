@@ -56,7 +56,7 @@ permalink: /sources/
 * [http://lapielanguesanciennes.blogspot.fr](http://lapielanguesanciennes.blogspot.fr) (carte
 légendée des guerres médiques)
 
-* [www.babelio.com](www.babelio.com) (Plutarque, Ier siècle avant J.-C.)
+* [www.babelio.com](https://www.babelio.com) (Plutarque, Ier siècle avant J.-C.)
 
 *  GNU Free Documentation License (reconstitution d'une scytale)
 
@@ -92,9 +92,9 @@ légendée des guerres médiques)
 
 * [http://www.union-gaulliste-de-france.org](http://www.union-gaulliste-de-france.org) (débarquement)
 
-* [www.bild.bundesarchiv.de](www.bild.bundesarchiv.de) (blitzkrieg)
+* [www.bild.bundesarchiv.de](https://www.bild.bundesarchiv.de) (blitzkrieg)
 
-* [www.secondeguerre.net](www.secondeguerre.net) (enigma machine)
+* [www.secondeguerre.net](https://www.secondeguerre.net) (enigma machine)
 
 ## L'ère d'Internet
 
