@@ -1,94 +1,30 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116299062-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<html lang="{{ site.lang | default: "fr-FR" }}">
 
-  gtag('config', 'UA-116299062-1');
-</script>
+  {% include head.html %}
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <meta charset="UTF-8">
-
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  </head>
   <body>
     <section class="page-header">
-      {% if page.partie %}
-        <h2 class="partie">{{ page.partie }}</h2>
-      {% endif %}
-      <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      {% if page.title == "Histoire de la Cryptographie!!!" %}
-        <h2 class="project-tagline">Travail Personnel Encadré</h2>
-      {% endif %}
-
-      <h2 class="project-tagline">Comment la cryptographie s'est-elle adaptée à l'évolution des besoins en communication ?</h2>
-  <ul id="menu">
-      {% if page.precedente %}
-        <a href="{{ page.precedente | relative_url }}" class="btn">Page précédente</a>
-      {% endif %}
-
-      <li class="btn"> <a href="{{ "/" | relative_url }}" >Menu</a>
-        <ul class="submenu">
-          <li> <a href="{{ "/" | relative_url }}">Accueil</a></li>
-          <li> <a href="{{ "/antiquite/" | relative_url }}">L'Antiquité</a></li>
-          <li> <a href="{{ "/temps-modernes/" | relative_url }}">Les Temps Modernes</a></li>
-          <li> <a href="{{ "/guerres/" | relative_url }}">Les Guerres Mondiales</a></li>
-          <li> <a href="{{ "/internet/" | relative_url }}">L'ère d'Internet</a></li>
-          <li> <a href="{{ "/experience/" | relative_url }}">Notre Expérience</a></li>
-
-          <li> <a href="{{ "/glossaire/" | relative_url }}">Glossaire</a></li>
-          <li> <a href="{{ "/sources/" | relative_url }}">Sources</a></li>
-        </ul>
-      </li>
-
-      {% if site.github.is_project_page %}
-        {% if page.permalink == index.html %}
-          <a href="{{ site.github.repository_url }}" class="btn">Sources sur GitHub</a>
-        {% endif %}
-      {% endif %}
-
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-
-      {% if page.suivante %}
-        <a href="{{ page.suivante | relative_url }}" class="btn">Page suivante</a>
-      {% endif %}
-      </ul>
+      {% include page-header.html %}
     </section>
-
 
     <section class="main-content">
       {{ content }}
 
-<div style="text-align: center; margin: 0px; padding: 0px;">
-      {% if page.precedente %}
-        <a href="{{ page.precedente | relative_url }}" class="btn2">Page précédente</a>
-      {% endif %}
-      {% if page.suivante %}
-        <a href="{{ page.suivante | relative_url }}" class="btn2">Page suivante</a>
-      {% endif %}
-</div>
+      <div style="text-align: center; margin: 0px; padding: 0px;">
+        {% if page.precedente %}
+          <a href="{{ page.precedente | relative_url }}" class="btn2">Page précédente</a>
+        {% endif %}
+        {% if page.suivante %}
+          <a href="{{ page.suivante | relative_url }}" class="btn2">Page suivante</a>
+        {% endif %}
+      </div>
 
       <footer class="site-footer">
-
         {% if site.github.is_project_page %}
           <span class="site-footer-credits">{{ site.description }}</span>
         {% endif %}
-
       </footer>
     </section>
-
-
   </body>
 </html>

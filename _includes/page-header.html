@@ -1,0 +1,45 @@
+{% if page.partie %}
+  <h2 class="partie">{{ page.partie }}</h2>
+{% endif %}
+
+  <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
+
+{% if page.title == "Histoire de la Cryptographie!!!" %}
+  <h2 class="project-tagline">Travail Personnel Encadré</h2>
+{% endif %}
+
+<h2 class="project-tagline">Comment la cryptographie s'est-elle adaptée à l'évolution des besoins en communication ?</h2>
+
+<ul id="menu">
+  {% if page.precedente %}
+    <a href="{{ page.precedente | relative_url }}" class="btn">Page précédente</a>
+  {% endif %}
+
+  <li class="btn"> <a href="{{ "/" | relative_url }}" >Menu</a>
+    <ul class="submenu">
+      <li> <a href="{{ "/" | relative_url }}">Accueil</a></li>
+      <li> <a href="{{ "/antiquite/" | relative_url }}">L'Antiquité</a></li>
+      <li> <a href="{{ "/temps-modernes/" | relative_url }}">Les Temps Modernes</a></li>
+      <li> <a href="{{ "/guerres/" | relative_url }}">Les Guerres Mondiales</a></li>
+      <li> <a href="{{ "/internet/" | relative_url }}">L'ère d'Internet</a></li>
+      <li> <a href="{{ "/experience/" | relative_url }}">Notre Expérience</a></li>
+      <li> <a href="{{ "/glossaire/" | relative_url }}">Glossaire</a></li>
+      <li> <a href="{{ "/sources/" | relative_url }}">Sources</a></li>
+    </ul>
+  </li>
+
+  {% if site.github.is_project_page %}
+    {% if page.permalink == index.html %}
+      <a href="{{ site.github.repository_url }}" class="btn">Sources sur GitHub</a>
+    {% endif %}
+  {% endif %}
+
+  {% if site.show_downloads %}
+    <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+    <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+  {% endif %}
+
+  {% if page.suivante %}
+    <a href="{{ page.suivante | relative_url }}" class="btn">Page suivante</a>
+  {% endif %}
+</ul>
