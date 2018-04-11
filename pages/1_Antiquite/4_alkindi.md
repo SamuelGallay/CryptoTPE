@@ -42,7 +42,7 @@ Rendant obsolète la substitution monoalphabétique pratiquée par toutes les ci
 
 
 ### Analyse des fréquences :
-<textarea id="myText" cols="40" rows="5"></textarea>
+<textarea id="myText"></textarea>
 <button onclick="analyser()">Analyser</button>
 <p align="center"><em>En bleu la fréquence d'apparition des lettres en français, et en vert celle du texte à analyser :</em> </p>
 

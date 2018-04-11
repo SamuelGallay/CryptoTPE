@@ -90,18 +90,19 @@ On peut également tenter sa cryptanalyse avec [l’analyse des fréquences]({{ 
 
 ### Pour chiffrer automatiquement :
 
-<textarea id="myText" cols="40" rows="5"></textarea>
+<textarea id="myText"></textarea>
 <div style="padding: 5px 0px">
   <label>Clef : </label>
   <input id="clef" type="number" value="3">
-  <button onclick="chiffrer()">Chiffrer</button>
+  <button onclick="chiffrer(false)">Chiffrer</button>
+  <button onclick="chiffrer(true)">Déchiffrer</button>
 </div>
 <div style="padding: 5px 0px">
   <div><input type="radio" name="casse" id="1" checked> <label for="1">Sensible à la casse et ponctuation</label></div>
   <div><input type="radio" name="casse" id="2"> <label for="2">Majuscules et ponctuation</label></div>
   <div><input type="radio" name="casse" id="3"> <label for="3">Blocs de 5 et uniquement des lettres</label></div>
 </div>
-<textarea id="chiffre" cols="40" rows="5"></textarea>
+<textarea id="chiffre"></textarea>
 
 ### A vous de jouer !
 
@@ -111,7 +112,7 @@ dyh fdhvdu, prulwxul wh vdoxwdqw
 
 <script>
 
-function chiffrer() {
+function chiffrer(inverse) {
   var choix;
   if (document.getElementById("1").checked) {choix = 1;}
   if (document.getElementById("2").checked) {choix = 2;}
@@ -119,6 +120,7 @@ function chiffrer() {
   document.getElementById("clef").value =
     (document.getElementById("clef").value%26 + 26)%26;
   var clef = Number(document.getElementById("clef").value);
+  if(inverse) {clef = (26-clef)%26;}
   var propre = document.getElementById("myText").value.toUpperCase().latinise();
   var latin = document.getElementById("myText").value.latinise();
   var z = "";
