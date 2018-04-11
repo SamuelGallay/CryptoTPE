@@ -13,7 +13,7 @@ Le problème de distribution de la clef a été le problème constant des crypto
 
 La distribution des clefs constitua le problème primordial pour les cryptographes de l’après-guerre. La cryptologie était vouée à se développer pour des applications civiles et quotidienne, telles que le commerce, l’échange d’e-mail, etc. via internet. Il fallait pour cela qu’elle soit capable d’assurer son objectif premier, c’est-à-dire protéger la confidentialité des données. Pour les transactions commerciales, le dilemme se posait clairement : si les gouvernement, avec tout leur argent, avaient peine à garantir la sécurité de leurs clefs, comment des entreprises civiles pourraient-elles jamais espérer jouir d’une distribution de clefs sûre et non ruineuse ?
 
-Ce problème ne fut résolu que durant les années 70.\\ 
+Ce problème ne fut résolu que durant les années 70. \\
 Avec l'ère d'Internet, les mathématiciens s'intéressent particulièrement à la cryptograhie. \\
 Ce sont deux américains, Whitfield Diffie et Martin Hellman de l'Université de Stanford qui en 1976, créent une nouvelle forme de cryptographie, dite asymétrique ou à clef publique. Ils recevront par la suite nombre de prix pour cette découverte.
 
