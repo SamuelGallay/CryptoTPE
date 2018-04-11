@@ -36,18 +36,16 @@ Dans le cas d’un message chiffré avec la substitution monoalphabétique, un s
 
 Rendant obsolète la substitution monoalphabétique pratiquée par toutes les civilisations antiques, la cryptanalyse arabe ouvrit une nouvelle ère en cryptologie. Toutefois ces travaux parvinrent en Occident plusieurs siècles après ; c'est pourquoi l'invention de nouvelles techniques ne survint qu'à la Renaissance. En Orient, l'hégémonie du califat minimisait l'enjeu de la confidentialité des communications.
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
-<script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
-
-
 
 ### Analyse des fréquences :
+
+<link rel="stylesheet" href="{{ '/assets/css/chartist.min.css' | relative_url }}">
 <textarea id="myText"></textarea>
 <button onclick="analyser()">Analyser</button>
-<p align="center"><em>En bleu la fréquence d'apparition des lettres en français, et en vert celle du texte à analyser :</em> </p>
 
 <div class="ct-chart ct-octave" id="chart"></div>
 <div class="ct-chart ct-octave" id="chart2" style="display: none;"></div>
+<p align="center"><em>En bleu les fréquences d'apparition des lettres en français, et en vert celles dans le texte analysé</em> </p>
 
 <style>
   .ct-series-a .ct-bar {
@@ -58,9 +56,9 @@ Rendant obsolète la substitution monoalphabétique pratiquée par toutes les ci
   }
 </style>
 
+
+<script src="{{ '/assets/chartist.min.js' | relative_url }}"></script>
 <script>
-
-
   var lettres = [26];
   for(i=0; i<26; i++) {lettres[i] = String.fromCharCode(i+65);}
   var statsfr = [8.4, 1.06, 3.03, 4.18, 17.26, 1.12, 1.27, 0.92, 7.34, 0.31, 0.05, 6.01, 2.96, 7.13, 5.26, 3.01, 0.99, 6.55, 8.08, 7.07, 5.74, 1.32, 0.04, 0.45, 0.30, 0.12];
