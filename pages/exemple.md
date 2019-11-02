@@ -172,6 +172,7 @@ On peut essayer d'utiliser un "ASCII Table Generator" comme [celui-ci](https://w
 * modif' par Manon
 * modif' par **Hugo**
 * modif' par *Samuel* `Gallay`
+* Encore une modif' par *Samuel*
 
 
 Voici une liste de thèmes pour notre site web dont on peut s'inspirer (copier coller) pour creer un menu :
